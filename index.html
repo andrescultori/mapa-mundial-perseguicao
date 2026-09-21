@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mapa Mundial da Perseguição</title>
+<meta name="description" content="Dashboard interativo com o ranking anual da Lista Mundial da Perseguição, da Portas Abertas.">
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">✦</span>
+      <div class="brand-text">
+        <h1>Mapa Mundial da Perseguição</h1>
+        <p>Ranking anual de perseguição religiosa a cristãos, por país</p>
+      </div>
+    </div>
+    <a class="source-badge" href="https://portasabertas.org.br/lista-mundial/paises-da-lista/" target="_blank" rel="noopener">
+      Fonte dos dados: portasabertas.org.br ↗
+    </a>
+  </div>
+</header>
+
+<main id="view-map" class="view">
+
+  <section class="controls">
+    <div class="year-control">
+      <label for="year-slider">Ano da lista</label>
+      <div class="year-row">
+        <button id="year-prev" class="year-step" aria-label="Ano anterior">‹</button>
+        <input type="range" id="year-slider" min="0" max="13" step="1" value="13">
+        <button id="year-next" class="year-step" aria-label="Próximo ano">›</button>
+        <span id="year-label" class="year-label">2026</span>
+      </div>
+    </div>
+
+    <div class="filter-control">
+      <label for="continent-filter">Continente</label>
+      <select id="continent-filter">
+        <option value="">Todos</option>
+      </select>
+    </div>
+
+    <div class="search-control">
+      <label for="country-search">Buscar país</label>
+      <input type="search" id="country-search" placeholder="Ex: Coreia do Norte…" autocomplete="off">
+    </div>
+  </section>
+
+  <section class="board">
+    <div class="map-panel">
+      <div id="map-wrap" class="map-wrap">
+        <svg id="world-map" viewBox="0 0 960 500" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mapa-múndi com países coloridos conforme o ranking de perseguição"></svg>
+        <div id="map-tooltip" class="map-tooltip" hidden></div>
+        <div id="map-loading" class="map-loading">Carregando mapa…</div>
+      </div>
+      <div class="legend">
+        <span class="legend-label legend-label-start">1 · perseguição extrema</span>
+        <div class="legend-bar" aria-hidden="true"></div>
+        <span class="legend-label legend-label-end">50 · fora do topo</span>
+        <span class="legend-nodata"><i></i> Sem dados no ano</span>
+      </div>
+    </div>
+
+    <aside class="list-panel">
+      <div class="list-panel-head">
+        <h2>Ranking <span id="list-year">2026</span></h2>
+        <span id="list-count" class="list-count"></span>
+      </div>
+      <ol id="country-list" class="country-list"></ol>
+    </aside>
+  </section>
+
+  <p class="methodology">
+    A Lista Mundial da Perseguição posiciona os 50 países onde é mais difícil ser cristão, do nº 1 (maior perseguição) ao nº 50.
+    Países fora do topo 50 em determinado ano aparecem em cinza no mapa. Clique em um país — no mapa ou na lista — para ver seu histórico completo.
+  </p>
+</main>
+
+<div id="view-country" class="view country-view" hidden>
+  <div class="country-view-inner">
+    <button id="back-to-map" class="back-btn">← Voltar ao mapa</button>
+
+    <div class="country-header">
+      <div class="country-header-main">
+        <span id="country-flag" class="country-flag" aria-hidden="true"></span>
+        <div>
+          <h2 id="country-name">—</h2>
+          <p id="country-name-en" class="country-name-en"></p>
+        </div>
+      </div>
+      <div id="country-rank-badge" class="rank-badge">
+        <span id="country-rank-number">—</span>
+        <span class="rank-badge-label">ranking <span id="country-rank-year"></span></span>
+      </div>
+    </div>
+
+    <div class="country-meta-grid">
+      <div class="meta-card">
+        <span class="meta-card-label">Continente</span>
+        <span id="country-continent" class="meta-card-value">—</span>
+      </div>
+      <div class="meta-card">
+        <span class="meta-card-label">Região</span>
+        <span id="country-region" class="meta-card-value">—</span>
+      </div>
+      <div class="meta-card">
+        <span class="meta-card-label">Variação vs. ano anterior</span>
+        <span id="country-variation" class="meta-card-value">—</span>
+      </div>
+      <div class="meta-card">
+        <span class="meta-card-label">Melhor / pior posição no período</span>
+        <span id="country-bestworst" class="meta-card-value">—</span>
+      </div>
+    </div>
+
+    <section class="chart-card">
+      <div class="chart-card-head">
+        <h3>Evolução do ranking (2013–2026)</h3>
+        <p>Quanto mais próximo de 1, maior o nível de perseguição relatado.</p>
+      </div>
+      <div id="country-chart" class="country-chart"></div>
+    </section>
+
+    <section class="history-card">
+      <div class="chart-card-head">
+        <h3>Ranking por ano</h3>
+      </div>
+      <div id="country-history-table" class="history-table"></div>
+    </section>
+
+    <section class="about-card">
+      <h3>Sobre o país</h3>
+      <p class="about-placeholder">
+        Em breve: descrição do contexto de perseguição, principais motores da perseguição, história recente e imagens deste país.
+      </p>
+    </section>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <p>Dados: <a href="https://portasabertas.org.br/lista-mundial/paises-da-lista/" target="_blank" rel="noopener">Lista Mundial da Perseguição — Portas Abertas</a></p>
+  <p>Desenvolvido por <a href="https://github.com/andrescultori" target="_blank" rel="noopener">André Scultori</a> · © 2026 · <a href="https://github.com/andrescultori" target="_blank" rel="noopener">GitHub</a></p>
+</footer>
+
+<script src="assets/vendor/d3.min.js"></script>
+<script src="assets/vendor/topojson-client.min.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
