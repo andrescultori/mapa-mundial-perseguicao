@@ -5,6 +5,8 @@
 
   const WORLD_ATLAS_URL = "data/world-110m.json";
   const DATA_URL = "data/countries.json";
+  const SHEETS_CONFIG_URL = "data/sheets-config.json";
+  const ISO_LOOKUP_URL = "data/iso-lookup.json";
 
   const state = {
     years: [],
@@ -21,21 +23,9 @@
     .range(["#c0392b", "#e0703a", "#f0b429", "#9fc35e", "#2f8f4e"])
     .clamp(true);
 
-  const flagEmoji = (iso2) => {
-    if (!iso2) return "🏳️";
-    return String.fromCodePoint(...[...iso2.toUpperCase()].map(c => 127397 + c.charCodeAt(0)));
-  };
-
-  // Minimal ISO3 -> ISO2 map for flag emoji (only for the countries in this dataset)
-  const ISO3_TO_ISO2 = {
-    AFG:"AF",SAU:"SA",DZA:"DZ",AZE:"AZ",BHR:"BH",BGD:"BD",BRN:"BN",BFA:"BF",BTN:"BT",CMR:"CM",
-    QAT:"QA",KAZ:"KZ",TCD:"TD",CHN:"CN",COL:"CO",COM:"KM",PRK:"KP",CUB:"CU",DJI:"DJ",EGY:"EG",
-    ARE:"AE",ERI:"ER",ETH:"ET",YEM:"YE",IND:"IN",IDN:"ID",IRN:"IR",IRQ:"IQ",JOR:"JO",KWT:"KW",
-    LAO:"LA",LBY:"LY",MYS:"MY",MDV:"MV",MLI:"ML",MAR:"MA",MRT:"MR",MEX:"MX",MMR:"MM",MOZ:"MZ",
-    NPL:"NP",NIC:"NI",NER:"NE",NGA:"NG",OMN:"OM",PAK:"PK",KEN:"KE",KGZ:"KG",CAF:"CF",COD:"CD",
-    RUS:"RU",SYR:"SY",SOM:"SO",LKA:"LK",SDN:"SD",TJK:"TJ",TZA:"TZ",PSE:"PS",TUN:"TN",TKM:"TM",
-    TUR:"TR",UGA:"UG",UZB:"UZ",VNM:"VN"
-  };
+  // Bandeiras: SVG em assets/flags/<ISO3>.svg (não emoji — muitos sistemas, sobretudo
+  // Windows, não compõem emoji de bandeira e mostram só as duas letras do país).
+  const flagUrl = (iso3) => iso3 ? `assets/flags/${iso3}.svg` : null;
 
   const $ = (sel) => document.querySelector(sel);
 
@@ -200,6 +190,7 @@
       li.className = "country-row";
       li.innerHTML = `
         <span class="rank-chip" style="background:${rankColor(rank)}">${rank}</span>
+        <img class="row-flag" src="${flagUrl(c.id)}" alt="" loading="lazy">
         <span class="country-row-name">${c.nome_pt}</span>
         <span class="country-row-var ${variation > 0 ? "up" : variation < 0 ? "down" : ""}">
           ${variation === undefined ? "" : variation === 0 ? "＝" : (variation > 0 ? "▲" + variation : "▼" + Math.abs(variation))}
@@ -231,7 +222,9 @@
     viewCountry.hidden = false;
     window.scrollTo({ top: 0, behavior: "instant" in window ? "instant" : "auto" });
 
-    $("#country-flag").textContent = flagEmoji(ISO3_TO_ISO2[c.id]);
+    const flagEl = $("#country-flag");
+    const url = flagUrl(c.id);
+    flagEl.innerHTML = url ? `<img src="${url}" alt="Bandeira: ${c.nome_pt}" loading="lazy">` : "";
     $("#country-name").textContent = c.nome_pt;
     $("#country-name-en").textContent = c.nome_en !== c.nome_pt ? c.nome_en : "";
     $("#country-continent").textContent = c.continente || "—";
@@ -357,9 +350,34 @@
   }
 
   // ---------------- boot ----------------
+  async function loadAppData() {
+    try {
+      const config = await d3.json(SHEETS_CONFIG_URL);
+      const data = await SheetsData.loadFromGoogleSheets(config, ISO_LOOKUP_URL);
+      markDataSource("live");
+      return data;
+    } catch (err) {
+      console.warn("Usando data/countries.json local:", err.message);
+      markDataSource("local");
+      return d3.json(DATA_URL);
+    }
+  }
+
+  function markDataSource(kind) {
+    const badge = document.getElementById("data-source-badge");
+    if (!badge) return;
+    if (kind === "live") {
+      badge.textContent = "● dados ao vivo (Google Sheets)";
+      badge.title = "Carregado direto da planilha publicada.";
+    } else {
+      badge.textContent = "";
+      badge.title = "";
+    }
+  }
+
   Promise.all([
     d3.json(WORLD_ATLAS_URL),
-    d3.json(DATA_URL),
+    loadAppData(),
   ]).then(([world, appData]) => {
     init(world, appData);
   }).catch(err => {

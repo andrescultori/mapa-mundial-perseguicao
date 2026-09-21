@@ -1,0 +1,5 @@
+{
+  "_comment": "Preencha as duas URLs abaixo para o dashboard buscar os dados AO VIVO direto do Google Sheets, sem precisar rodar script nem exportar nada. Veja o passo a passo em README.md > 'Atualizar direto do Google Sheets (sem exportar)'. Deixe vazio (\"\") para usar o data/countries.json local (modo padrão atual).",
+  "geralCsvUrl": "",
+  "listasCsvUrl": ""
+}
