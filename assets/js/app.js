@@ -99,6 +99,20 @@
 
     window.addEventListener("hashchange", route);
     route();
+
+    syncListPanelHeight();
+  }
+
+  // Mantém a lista lateral com a mesma altura do painel do mapa (a altura do
+  // mapa varia com a largura da tela, então isso é recalculado ao vivo).
+  function syncListPanelHeight() {
+    const mapPanel = document.querySelector(".map-panel");
+    if (!mapPanel || !window.ResizeObserver) return;
+    const apply = () => {
+      document.documentElement.style.setProperty("--map-panel-height", mapPanel.offsetHeight + "px");
+    };
+    new ResizeObserver(apply).observe(mapPanel);
+    apply();
   }
 
   function stepYear(delta) {
