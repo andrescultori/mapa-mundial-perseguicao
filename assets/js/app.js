@@ -258,7 +258,7 @@
     $("#country-variation").textContent = fmtVar(variation);
 
     if (c.melhor_rank !== undefined) {
-      $("#country-bestworst").textContent = `#${c.melhor_rank} (melhor) · #${c.pior_rank} (pior)`;
+      $("#country-bestworst").textContent = `#${c.melhor_rank} (mais alta) · #${c.pior_rank} (mais baixa)`;
     } else {
       $("#country-bestworst").textContent = "—";
     }
