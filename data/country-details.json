@@ -1,0 +1,32 @@
+{
+  "PRK": {
+    "slug": "coreia-do-norte",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/coreia-do-norte/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 1,
+      "pontuacao": 97,
+      "religiao_oficial": "Ateísmo",
+      "capital": "Pyongyang",
+      "populacao": "26,3 milhões",
+      "populacao_crista": "400 mil"
+    },
+    "resumo": "Segundo a Portas Abertas, a Coreia do Norte é o lugar mais perigoso do mundo para seguir a Jesus: quem é descoberto pode ir para campos de trabalho forçado ou ser executado, e a família pode sofrer o mesmo destino. As igrejas de Pyongyang servem apenas à propaganda, já que toda devoção deve ser dirigida ao regime Kim, e a vigilância alcança vizinhos e parentes. A Lei do Pensamento Reacionário agravou a situação dos cristãos secretos ao tratar a posse de uma Bíblia como crime grave. Apesar de mudanças em 2025, o quadro geral quase não mudou, e a crise humanitária segue pesando sobre a vida cotidiana.",
+    "mulheres": "Mulheres cristãs presas ficam expostas a abusos sexuais usados para causar trauma e isolamento. Cerca de 80% das pessoas que fogem do país são mulheres, sujeitas a tráfico, violência sexual, escravidão e casamento forçado. As que são capturadas e repatriadas sofrem tratamento brutal e abortos forçados, porque seus bebês são vistos como “impuros”.",
+    "homens": "Todos os homens precisam ocupar empregos designados pelo Estado, o que dificulta a fuga e facilita a descoberta de cristãos. Além disso, o sistema de classificação social songbun coloca quem é suspeito de ser cristão na categoria “hostil”, a base da hierarquia.",
+    "motores": [
+      { "nome": "Opressão comunista e pós-comunista", "descricao": null },
+      { "nome": "Paranoia ditatorial", "descricao": null }
+    ],
+    "oracao": [
+      "Pelo coração do presidente Kim Jong-un e de sua família.",
+      "Pela proteção da pequena comunidade cristã quando se reúne em segredo, e por paz no meio do medo.",
+      "Por alimento para os cristãos presos por causa da fé e para suas famílias.",
+      "Por oportunidades para os cristãos secretos compartilharem o evangelho com sabedoria e segurança."
+    ],
+    "historia": "A península coreana foi dividida em Coreia do Norte e Coreia do Sul após a Segunda Guerra Mundial. Depois da Guerra da Coreia (1950–1953), Kim Il-sung governou o Norte; foi sucedido pelo filho Kim Jong-il em 1994 e pelo neto Kim Jong-un em 2011. O país desenvolve armas nucleares desde Kim Il-sung e busca ser levado a sério no cenário internacional, mas não conseguiu reerguer a economia. O encontro de Kim Jong-un com Trump em 2018 não trouxe resultados concretos nem alívio das sanções, e a pandemia e o fechamento das fronteiras com a China agravaram a crise. A segurança do regime e da ideologia vem antes do bem-estar da população.",
+    "contexto": "O país se apoia em duas ideologias: o juche, que valoriza a autossuficiência e a rejeição ao estrangeiro, e o kimilsungismo, o culto aos líderes. A população vive há décadas com racionamento de comida, campos de trabalho forçado e estagnação econômica, e o isolamento persiste desde 1945. A sociedade é uma das mais homogêneas do mundo, e Kim Jong-un concentra o comando do Partido, do Estado e do Exército. Toda a terra é controlada pelo regime, mas uma economia privada informal ajuda a população a sobreviver, assim como o trabalho forçado e o dinheiro enviado por quem trabalha no exterior. A lei do pensamento antirreacionário ampliou o controle social, proibindo também referências culturais estrangeiras, como o K-pop, e exigindo autorização do governo para circular entre províncias.",
+    "historia_igreja": "O cristianismo chegou à Coreia a partir de 1603, na forma católica, e foi proibido em 1758, com perseguição forte entre 1801 e 1866 e cerca de 8 mil católicos mortos. Os protestantes se estabeleceram no Norte em 1886, e um grande avivamento em 1907 fez de Pyongyang a “Jerusalém do Oriente”. Sob o domínio japonês houve perseguição religiosa. Em 1948, Kim Il-sung impôs um regime comunista e ateísta; depois da Guerra da Coreia, dezenas de milhares de cristãos foram mortos, presos ou banidos, e a igreja virou clandestina. Havia cerca de 500 mil cristãos antes da guerra, e dez anos depois a igreja já não era visível. Hoje a religião se resume ao culto à família Kim, com reuniões semanais, autocrítica e doutrinação desde a pré-escola. Budismo e confucionismo são tolerados como cultura, mas o cristianismo é combatido, e cristãos e seus descendentes ficam na classe “hostil”, sem acesso a ajuda e benefícios estatais. A Portas Abertas estima 400 mil cristãos, podendo chegar a 500 mil."
+  }
+}
