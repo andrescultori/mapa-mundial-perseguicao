@@ -316,10 +316,10 @@
     const variation = latestYear !== undefined ? c.variacao_anual[latestYear] : undefined;
     $("#country-variation").textContent = fmtVar(variation);
 
-    if (c.melhor_rank !== undefined) {
-      $("#country-bestworst").textContent = `#${c.melhor_rank} (mais alta) · #${c.pior_rank} (mais baixa)`;
+    if (c.posicao_mais_alta !== undefined) {
+      $("#country-highlow").textContent = `#${c.posicao_mais_alta} (mais alta) · #${c.posicao_mais_baixa} (mais baixa)`;
     } else {
-      $("#country-bestworst").textContent = "—";
+      $("#country-highlow").textContent = "—";
     }
 
     drawCountryChart(c);
