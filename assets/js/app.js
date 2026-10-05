@@ -7,6 +7,7 @@
   const DATA_URL = "data/countries.json";
   const SHEETS_CONFIG_URL = "data/sheets-config.json";
   const ISO_LOOKUP_URL = "data/iso-lookup.json";
+  const CONTINENTS_URL = "data/continents.json";
   const DETAILS_URL = "data/country-details.json";
   let detailsPromise = null;
 
@@ -18,6 +19,16 @@
     world: null,
     continent: "",
     search: "",
+    continentOf: {},
+  };
+
+  // Caixas (lon/lat) usadas para enquadrar cada continente no mapa.
+  const CONTINENT_BOX = {
+    "África": [-20, -36, 52, 38],
+    "Ásia": [25, -11, 150, 78],
+    "Europa": [-25, 34, 62, 72],
+    "América": [-170, -57, -30, 75],
+    "Oceania": [110, -50, 180, 0],
   };
 
   const colorScale = d3.scaleLinear()
@@ -39,6 +50,7 @@
   const listYear = $("#list-year");
   const listCount = $("#list-count");
   const svg = d3.select("#world-map");
+  let mapLayer = null, mapProjection = null, mapPath = null;
   const mapTooltip = $("#map-tooltip");
   const mapLoading = $("#map-loading");
 
@@ -59,8 +71,9 @@
     return `${arrow} ${Math.abs(v)} posições (${label} no ranking)`;
   }
 
-  function init(worldData, appData) {
+  function init(worldData, appData, continentLookup) {
     state.world = worldData;
+    state.continentOf = continentLookup || {};
     state.years = appData.years;
     state.countries = appData.countries;
     state.countries.forEach(c => state.byId.set(c.id, c));
@@ -92,6 +105,7 @@
     continentFilter.addEventListener("change", () => {
       state.continent = continentFilter.value;
       renderList();
+      applyContinentView(true);
     });
     searchInput.addEventListener("input", () => {
       state.search = searchInput.value.trim().toLowerCase();
@@ -136,7 +150,11 @@
     const countries = topojson.feature(state.world, state.world.objects.countries).features
       .filter(f => f.id !== "010"); // drop Antarctica for a tighter, more legible map
 
-    svg.selectAll("path.country-shape")
+    mapProjection = projection;
+    mapPath = path;
+    mapLayer = svg.append("g").attr("class", "map-layer");
+
+    mapLayer.selectAll("path.country-shape")
       .data(countries, d => d.id)
       .join("path")
       .attr("class", "country-shape is-nodata")
@@ -148,6 +166,47 @@
 
     mapLoading.style.display = "none";
     updateMapColors();
+    applyContinentView(false);
+  }
+
+  function featureContinents(d) {
+    const key = d.id || (d.properties && d.properties.name);
+    const out = new Set();
+    if (state.continentOf[key]) out.add(state.continentOf[key]);
+    if (d.id === "643") out.add("Europa"); // Rússia: aparece também no recorte da Europa
+    if (!out.size) {
+      const c = d.id ? countryForNumeric(d.id) : null;
+      if (c && c.continente) out.add(c.continente);
+    }
+    return out;
+  }
+
+  // Mostra só o continente escolhido (cores mantidas) e enquadra o mapa nele.
+  function applyContinentView(animate) {
+    if (!mapLayer) return;
+    const sel = state.continent;
+    mapLayer.selectAll("path.country-shape")
+      .style("display", d => (!sel || featureContinents(d).has(sel)) ? null : "none");
+
+    let t = d3.zoomIdentity;
+    const box = CONTINENT_BOX[sel];
+    if (box) {
+      const [x0, y0, x1, y1] = box;
+      const pts = [];
+      for (let i = 0; i <= 4; i++) {
+        const lon = x0 + (x1 - x0) * i / 4, lat = y0 + (y1 - y0) * i / 4;
+        pts.push([lon, y0], [lon, y1], [x0, lat], [x1, lat]);
+      }
+      const [[bx0, by0], [bx1, by1]] = mapPath.bounds({ type: "MultiPoint", coordinates: pts });
+      const W = 960, H = 500;
+      const k = Math.min(W / (bx1 - bx0), H / (by1 - by0)) * 0.94;
+      t = d3.zoomIdentity
+        .translate(W / 2 - k * (bx0 + bx1) / 2, H / 2 - k * (by0 + by1) / 2)
+        .scale(k);
+    }
+    const tr = `translate(${t.x},${t.y}) scale(${t.k})`;
+    if (animate) mapLayer.transition().duration(600).attr("transform", tr);
+    else mapLayer.attr("transform", tr);
   }
 
   function countryForNumeric(numericId) {
@@ -155,7 +214,7 @@
   }
 
   function updateMapColors() {
-    svg.selectAll("path.country-shape")
+    mapLayer.selectAll("path.country-shape")
       .attr("fill", d => {
         const c = countryForNumeric(d.id);
         const rank = c ? c.ranks[state.year] : undefined;
@@ -458,8 +517,9 @@
   Promise.all([
     d3.json(WORLD_ATLAS_URL),
     loadAppData(),
-  ]).then(([world, appData]) => {
-    init(world, appData);
+    d3.json(CONTINENTS_URL).catch(() => ({})),
+  ]).then(([world, appData, continents]) => {
+    init(world, appData, continents);
   }).catch(err => {
     mapLoading.textContent = "Não foi possível carregar o mapa. Verifique a conexão e recarregue a página.";
     console.error(err);
