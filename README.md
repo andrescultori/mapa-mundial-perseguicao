@@ -9,14 +9,14 @@ Dashboard interativo com o histórico (2013–2026) da **Lista Mundial da Perseg
 - **Mapa-múndi interativo**, com os países coloridos conforme o ranking do ano selecionado — vermelho (perseguição extrema, ranking próximo de 1) até verde (fora do topo 50 / ranking mais alto), passando por laranja e amarelo no meio da escala.
 - **Controle de ano** (2013 a 2026): o mapa e a lista lateral se atualizam automaticamente.
 - **Lista lateral** com o ranking completo do ano, variação frente ao ano anterior, filtro por continente e busca por país.
-- **Página de detalhes do país** (ao clicar no mapa ou na lista): nome completo, continente, região, ranking atual, melhor/pior posição no período, variação anual e um **gráfico de evolução do ranking** ano a ano, com tooltip interativo.
+- **Página de detalhes do país** (ao clicar no mapa ou na lista): nome completo, continente, região, ranking atual, posição mais alta/mais baixa no período, variação anual e um **gráfico de evolução do ranking** ano a ano, com tooltip interativo.
 - Espaço reservado para, futuramente, adicionar descrição, histórico e imagens de cada país.
 
 ## Fonte dos dados
 
 Os dados de ranking (`data/countries.json`) foram extraídos da planilha "Mapa Mundial da Perseguição" (exportada do Google Sheets, aba **GERAL**, com apoio das abas **LISTAS** — continente/região/nome em inglês) e reorganizados em JSON. A fonte primária é sempre a Lista Mundial da Perseguição da Portas Abertas: https://portasabertas.org.br/lista-mundial/paises-da-lista/
 
-> Estatísticas derivadas (melhor/pior posição, média, variação) são calculadas diretamente a partir dos rankings ano a ano — não da aba auxiliar "DADOS" da planilha original, cujos valores calculados via fórmulas não vieram consistentes na exportação.
+> Estatísticas derivadas (posição mais alta/mais baixa, média, variação) são calculadas diretamente a partir dos rankings ano a ano — não da aba auxiliar "DADOS" da planilha original, cujos valores calculados via fórmulas não vieram consistentes na exportação.
 
 ## Estrutura do projeto
 
