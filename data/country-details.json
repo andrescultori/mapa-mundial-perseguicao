@@ -16,8 +16,14 @@
     "mulheres": "Mulheres cristãs presas ficam expostas a abusos sexuais usados para causar trauma e isolamento. Cerca de 80% das pessoas que fogem do país são mulheres, sujeitas a tráfico, violência sexual, escravidão e casamento forçado. As que são capturadas e repatriadas sofrem tratamento brutal e abortos forçados, porque seus bebês são vistos como “impuros”.",
     "homens": "Todos os homens precisam ocupar empregos designados pelo Estado, o que dificulta a fuga e facilita a descoberta de cristãos. Além disso, o sistema de classificação social songbun coloca quem é suspeito de ser cristão na categoria “hostil”, a base da hierarquia.",
     "motores": [
-      { "nome": "Opressão comunista e pós-comunista", "descricao": null },
-      { "nome": "Paranoia ditatorial", "descricao": null }
+      {
+        "nome": "Opressão comunista e pós-comunista",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
     ],
     "oracao": [
       "Pelo coração do presidente Kim Jong-un e de sua família.",
@@ -28,5 +34,179 @@
     "historia": "A península coreana foi dividida em Coreia do Norte e Coreia do Sul após a Segunda Guerra Mundial. Depois da Guerra da Coreia (1950–1953), Kim Il-sung governou o Norte; foi sucedido pelo filho Kim Jong-il em 1994 e pelo neto Kim Jong-un em 2011. O país desenvolve armas nucleares desde Kim Il-sung e busca ser levado a sério no cenário internacional, mas não conseguiu reerguer a economia. O encontro de Kim Jong-un com Trump em 2018 não trouxe resultados concretos nem alívio das sanções, e a pandemia e o fechamento das fronteiras com a China agravaram a crise. A segurança do regime e da ideologia vem antes do bem-estar da população.",
     "contexto": "O país se apoia em duas ideologias: o juche, que valoriza a autossuficiência e a rejeição ao estrangeiro, e o kimilsungismo, o culto aos líderes. A população vive há décadas com racionamento de comida, campos de trabalho forçado e estagnação econômica, e o isolamento persiste desde 1945. A sociedade é uma das mais homogêneas do mundo, e Kim Jong-un concentra o comando do Partido, do Estado e do Exército. Toda a terra é controlada pelo regime, mas uma economia privada informal ajuda a população a sobreviver, assim como o trabalho forçado e o dinheiro enviado por quem trabalha no exterior. A lei do pensamento antirreacionário ampliou o controle social, proibindo também referências culturais estrangeiras, como o K-pop, e exigindo autorização do governo para circular entre províncias.",
     "historia_igreja": "O cristianismo chegou à Coreia a partir de 1603, na forma católica, e foi proibido em 1758, com perseguição forte entre 1801 e 1866 e cerca de 8 mil católicos mortos. Os protestantes se estabeleceram no Norte em 1886, e um grande avivamento em 1907 fez de Pyongyang a “Jerusalém do Oriente”. Sob o domínio japonês houve perseguição religiosa. Em 1948, Kim Il-sung impôs um regime comunista e ateísta; depois da Guerra da Coreia, dezenas de milhares de cristãos foram mortos, presos ou banidos, e a igreja virou clandestina. Havia cerca de 500 mil cristãos antes da guerra, e dez anos depois a igreja já não era visível. Hoje a religião se resume ao culto à família Kim, com reuniões semanais, autocrítica e doutrinação desde a pré-escola. Budismo e confucionismo são tolerados como cultura, mas o cristianismo é combatido, e cristãos e seus descendentes ficam na classe “hostil”, sem acesso a ajuda e benefícios estatais. A Portas Abertas estima 400 mil cristãos, podendo chegar a 500 mil."
+  },
+  "SOM": {
+    "slug": "somalia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/somalia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 2,
+      "pontuacao": 94,
+      "religiao_oficial": "Islamismo",
+      "capital": "Mogadíscio",
+      "populacao": "19,2 milhões",
+      "populacao_crista": "Centenas"
+    },
+    "resumo": "Na Somália, seguir a Jesus abertamente é impossível. A Constituição Provisória de 2012 considera ilegal a conversão do islamismo para o cristianismo, e a sharia, somada à pressão da sociedade e dos clãs, obriga os cristãos a viver a fé em segredo. Converter-se é visto como traição à família, ao clã e ao país, e pode levar à violência, à expulsão da família e à execução. Os cristãos não têm proteção legal, e o Al-Shabaab executa abertamente quem é suspeito de ser cristão.",
+    "mulheres": "As mulheres sofrem com mutilação genital feminina, casamento infantil e deslocamento, e nos campos de deslocados correm risco de violência sexual e exploração. As cristãs de origem muçulmana podem enfrentar humilhação pública, prisão domiciliar, casamento forçado, violência sexual ou morte. Viúvas podem ser coagidas a casar com muçulmanos, e meninas cristãs correm risco de sequestro e conversão forçada.",
+    "homens": "A masculinidade é associada ao islã, o que deixa os cristãos de origem muçulmana muito vulneráveis a ataques, tortura, sequestro, prisão e morte, às vezes pela própria família. O Al-Shabaab recruta jovens à força, e famílias podem enviar convertidos a centros de doutrinação islâmica. Se descobertos, podem ser deserdados, perder o acesso à educação e ser pressionados a renunciar à fé. Por isso a maioria vive a fé em segredo, o que enfraquece a liderança da igreja.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os poucos cristãos que permanecem na Somália encontrem abrigo e segurança em Jesus quando forem perseguidos.",
+      "Pela salvação e transformação dos extremistas do Al-Shabaab.",
+      "Por cura para os cristãos traumatizados pela oposição e por resiliência para testemunhar a sua família e clã."
+    ],
+    "historia": "A Somália é um dos países mais pobres e frágeis do mundo. Foi colônia britânica e italiana até 1960 e, em 1969, o general Siad Barre assumiu o poder e instaurou uma ditadura socialista de 22 anos, período em que bens de missões cristãs foram apreendidos e cristãos expulsos. Siad Barre foi derrubado por milícias de clãs em 1991, e o país mergulhou em guerra, fome e deslocamento. Desde 2012 há um governo federal, mas o Estado controla apenas cidades e vilas, e boa parte do campo está nas mãos do Al-Shabaab, ligado à Al-Qaeda.",
+    "contexto": "Décadas de guerra civil destruíram a economia e a infraestrutura. A Constituição de 2012 adota uma interpretação estrita da sharia e determina que nenhuma outra religião além do islamismo pode ser propagada, princípio seguido também em Somalilândia e Puntlândia. A população é 99,9% muçulmana sunita, e cerca de 60% é nômade. O clã organiza a vida social e é parte essencial da identidade somali, e o Al-Shabaab usa essa mesma estrutura para recrutar e avançar sua ideologia. Crime e corrupção são generalizados, e os cristãos não têm proteção alguma.",
+    "historia_igreja": "Há registros de presença cristã na região desde o século 12, mas a fé perdeu força a partir do século 15. O cristianismo foi reintroduzido em 1881, e missionários franceses, suecos e luteranos abriram escolas e hospitais. Com a ditadura de Siad Barre, a literatura cristã foi proibida, cristãos foram presos e mortos e os missionários estrangeiros foram expulsos em 1976. No fim dos anos 1990, líderes cristãos foram alvejados e igrejas saqueadas. Para os somalis, “um somali nasce muçulmano e morre muçulmano”, e a Portas Abertas estima que restem apenas algumas centenas de cristãos."
+  },
+  "YEM": {
+    "slug": "iemen",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/iemen/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 3,
+      "pontuacao": 93,
+      "religiao_oficial": "Islamismo",
+      "capital": "Saná",
+      "populacao": "36 milhões",
+      "populacao_crista": "Um pequeno número"
+    },
+    "resumo": "Os riscos para os cristãos no Iêmen continuam crescendo em meio a conflito, extremismo e colapso econômico. A igreja é formada principalmente por convertidos do islamismo, que vivem a fé em absoluto segredo, já que a lei prevê pena de morte para a apostasia. Grupos não islâmicos não podem ser registrados, e não há locais de culto não muçulmanos autorizados há anos. A maioria dos cristãos estrangeiros fugiu, e a ajuda emergencial, distribuída por mesquitas, discrimina quem não é muçulmano devoto. Apesar disso, a Portas Abertas observa crescimento no número e na maturidade dos cristãos.",
+    "mulheres": "Em uma sociedade patriarcal, a repressão às mulheres cresce, sobretudo em áreas sob controle houthi. As cristãs podem sofrer confisco de celular, abusos, casamento forçado e “crimes de honra”, com leis que protegem os agressores. Obrigadas a se esconder, ficam espiritualmente isoladas.",
+    "homens": "Na guerra, homens cristãos podem ser forçados a integrar milícias, até meninos de 13 anos. Convertidos do islamismo estão expostos a perda de emprego, espancamentos, prisão, tortura e morte. Líderes cristãos são os principais alvos de detenção, e por isso muitos homens optam por fugir. Como provedores, sua ausência deixa as famílias em dificuldade extrema.",
+    "motores": [
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Pela segurança dos poucos cristãos iemenitas, que vivem sob risco diário de violência e morte.",
+      "Por recursos e força para a igreja clandestina continuar servindo.",
+      "Pelo fim da guerra e da crise humanitária que afetam o país há anos.",
+      "Para que quem não conhece Jesus seja alcançado pelo testemunho dos cristãos perseguidos."
+    ],
+    "historia": "O Iêmen, no sudoeste da Península Arábica, abrigou reinos antigos e foi um polo de comércio. Em 1990, o Norte, baseado em clãs, e o Sul comunista se uniram, mas o país passou a enfrentar corrupção crônica e dificuldades econômicas. Depois da Primavera Árabe e da saída do presidente Saleh em 2012, a guerra civil se intensificou. Em 2015 os houthis tomaram Saná e uma coalizão liderada pela Arábia Saudita passou a combatê-los. O governo não exerce controle efetivo sobre boa parte do país, e a crise humanitária é uma das maiores da história.",
+    "contexto": "O país é montanhoso e árido, fragmentado por divisões políticas, religiosas, tribais e geográficas. A organização em clãs orienta a estrutura social e política, e o governo central sempre foi secundário diante do governo tribal. O islã é a religião oficial, com maioria sunita, e a sharia é o código legal. Blasfêmia e proselitismo não islâmico são proibidos, e a apostasia é crime punível com morte. A sociedade é patriarcal e conservadora, a cultura é armamentista e o país depende de programas da ONU enquanto enfrenta fome e inflação.",
+    "historia_igreja": "Antes do islã, a Península Arábica tinha cristãos e igrejas, e no século 6 o Iêmen teve bispos, monges e mártires, além de uma grande catedral em Saná. A região caiu sob domínio islâmico a partir do século 7, e o papel histórico do cristianismo foi esquecido por 13 séculos. Sob os britânicos, igrejas voltaram a Áden e ao Sul para servir estrangeiros, e o primeiro missionário ocidental chegou no fim do século 19. Antes da guerra de 2015, milhares de estrangeiros cristãos viviam no país, mas a maioria saiu e algumas igrejas foram saqueadas. Hoje os cristãos são uma minoria minúscula, em geral de origem muçulmana, e muitas famílias estão prontas a matar um parente que deixa o islã."
+  },
+  "SDN": {
+    "slug": "sudao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/sudao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 4,
+      "pontuacao": 92,
+      "religiao_oficial": "Islamismo",
+      "capital": "Cartum",
+      "populacao": "50,6 milhões",
+      "populacao_crista": "2,2 milhões"
+    },
+    "resumo": "A comunidade cristã enfrenta uma crise crescente e severa, além de deslocamento populacional, em consequência do golpe militar de 2021 e da guerra civil iniciada em 2023. O governo restabeleceu líderes opressores e reinstaurou políticas de “moralidade”, o que anulou avanços em liberdade religiosa. Milícias ligadas aos dois lados perseguem cristãos sem medo de represálias, e muitos prédios de igrejas foram bombardeados, tomados ou usados como bases. Convertidos do islamismo vivem com medo constante, e líderes religiosos e cristãos estrangeiros são presos cada vez mais de forma arbitrária.",
+    "mulheres": "Cristãs, sobretudo as de origem muçulmana, enfrentam isolamento, perda de herança, discriminação legal, violência doméstica e tratamento psiquiátrico forçado. Desde 2023, a violência sexual tem sido usada como arma de guerra: as Forças de Resposta Rápida (RSF) violentaram mulheres e meninas, sequestraram algumas para resgate e escravizaram sexualmente cristãs em áreas como Gezira. As reformas pelos direitos das mulheres foram prejudicadas desde o golpe de 2021.",
+    "homens": "Com a guerra e a fome, homens cristãos, especialmente líderes de igrejas, sofrem assédio do governo, vigilância e falsas acusações de terrorismo. Convertidos do islamismo sofrem espancamentos, prisão e rejeição familiar. Homens e meninos também são sequestrados ou mortos pelas RSF e milícias aliadas, deixando as famílias vulneráveis a pobreza, saques e violência sexual.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por uma solução pacífica para a guerra e para que a igreja viva como sal e luz.",
+      "Por proteção e provisão para as famílias cristãs forçadas a fugir da violência.",
+      "Para que os corações de quem ataca cristãos sejam alcançados pelo amor de Cristo.",
+      "Por sabedoria, coragem e força para os líderes cristãos que cuidam da igreja sob tantos riscos."
+    ],
+    "historia": "Missionários cristãos chegaram à região no século 6, e entre 543 e 575 os três reinos locais se converteram. Após as invasões árabes, o islã avançou e, no século 19, o Egito e depois a Grã-Bretanha dominaram o país, que se tornou independente em 1956. Desde então o Sudão sofreu conflitos recorrentes entre o governo central e grupos armados das periferias. Omar al-Bashir governou desde o golpe de 1989 até ser deposto em abril de 2019. A transição foi interrompida pelo golpe militar de outubro de 2021.",
+    "contexto": "A composição religiosa é controversa: o World Christian Database estima 4,4% de cristãos, o governo fala em menos de 3%, e grupos de advocacy citam de 15% a 20% de não muçulmanos. A liberdade religiosa, garantida na Constituição Provisória de 2005, não é respeitada na prática, e o Sudão foi por mais de uma década país de particular preocupação para os EUA. Em 2020, o governo de transição aboliu a lei de apostasia e anunciou a separação entre religião e Estado, mas convertidos continuam sob forte pressão. A sociedade é patriarcal, com cerca de 19 grupos étnicos e quase 600 subgrupos.",
+    "historia_igreja": "O cristianismo foi muito influente a partir do século 4, e por quase mil anos a maioria da população era cristã. Perdeu força com o avanço do islã, que islamizou a região ao longo do século 15, embora as igrejas ortodoxas grega e etíope tenham sobrevivido. Depois da derrota do Mahdi pelos britânicos em 1898, entraram católicos, anglicanos, presbiterianos e várias missões. Após a independência, islâmicos poderosos assumiram o poder, e nos anos 1980 al-Bashir proclamou a sharia como fonte de todas as leis, reduzindo a influência cristã."
+  },
+  "ERI": {
+    "slug": "eritreia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/eritreia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 5,
+      "pontuacao": 90,
+      "religiao_oficial": "Islamismo",
+      "capital": "Asmara",
+      "populacao": "3,8 milhões",
+      "populacao_crista": "1,7 milhão"
+    },
+    "resumo": "A Eritreia é um dos lugares mais difíceis do mundo para seguir a Jesus. O governo reconhece apenas quatro grupos religiosos e trata como ilegais a maioria das igrejas evangélicas e pentecostais. Quem pratica a fé fora das igrejas autorizadas sofre vigilância, batidas violentas e prisão por tempo indeterminado, muitas vezes em condições desumanas. A sociedade militarizada agrava a repressão, com serviço militar forçado e por tempo indefinido. Cristãos de origem muçulmana ou ortodoxa correm ainda o risco de rejeição familiar e exclusão social.",
+    "mulheres": "As cristãs sofrem perseguição do governo e da sociedade. As de origem muçulmana correm risco de sequestro, casamento forçado e expulsão da família. Centenas de mulheres cristãs estão presas, e abuso e violência sexual são usados como estratégia de perseguição. O serviço militar obrigatório as leva a campos como Sawa, onde enfrentam abuso sexual e condições extremas, e as restrições de deslocamento prejudicam em especial as pentecostais.",
+    "homens": "Os homens cristãos enfrentam serviço militar forçado e indefinido, com trabalho forçado e tortura, e muitos fogem do país. A vida diária é fortemente vigiada, com telefonemas monitorados e vizinhos como informantes. Quem frequenta igrejas não reconhecidas corre risco de prisão indefinida, sobretudo pastores e líderes, muitos presos por décadas sem julgamento, o que deixa igrejas sem liderança e famílias empobrecidas.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os cristãos presos mantenham a esperança e sejam libertos.",
+      "Para que o coração do presidente Afwerki seja transformado, abandonando a opressão e conhecendo o amor de Jesus.",
+      "Por provisão e proteção para as famílias de pastores e líderes cristãos presos."
+    ],
+    "historia": "A região foi sede do Reino de Aksum e depois foi disputada por vários poderes. Foi colônia italiana, esteve sob domínio britânico e, em 1952, foi federada à Etiópia e depois anexada como província, o que gerou um conflito de 30 anos vencido pelos rebeldes eritreus em 1991. A independência veio por referendo em 1993, e Isaias Afewerki governa desde então, com a PFDJ como único partido. Em 2018 a Eritreia assinou um acordo de paz com a Etiópia, mas os direitos humanos não melhoraram e o governo segue entre os mais repressivos do mundo.",
+    "contexto": "O país tem diversos grupos étnicos, e os tigrínios formam cerca de metade da população. Quase metade é cristã, com dois quintos dos membros na Igreja Ortodoxa, e metade é muçulmana, sobretudo na costa. A agricultura é a principal atividade, em grande parte de subsistência, e secas e décadas de guerra prejudicaram saúde e educação. A sociedade é patriarcal e sob rigoroso controle do governo, e a violência doméstica raramente chega à justiça.",
+    "historia_igreja": "O cristianismo chegou há mais de mil anos, e a Igreja Ortodoxa Tewahedo eritreia reconhece Frumêncio, do século 4, como seu primeiro bispo. O protestantismo entrou em 1864 com missionários da Missão Evangélica Sueca, e depois da Segunda Guerra outras igrejas protestantes e livres iniciaram trabalho no país. Todos esses grupos hoje atuam fora dos regulamentos oficiais. A conversão do islamismo ao cristianismo é vista como traição à comunidade e à família. A Igreja Ortodoxa, por sua vez, às vezes pressiona outros cristãos, e os pentecostais em especial não são considerados legítimos."
   }
 }
