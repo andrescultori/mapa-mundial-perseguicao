@@ -7,6 +7,8 @@
   const DATA_URL = "data/countries.json";
   const SHEETS_CONFIG_URL = "data/sheets-config.json";
   const ISO_LOOKUP_URL = "data/iso-lookup.json";
+  const DETAILS_URL = "data/country-details.json";
+  let detailsPromise = null;
 
   const state = {
     years: [],
@@ -263,6 +265,70 @@
 
     drawCountryChart(c);
     renderHistoryTable(c);
+    renderAbout(c);
+  }
+
+  // ---------------- Sobre o país ----------------
+  function loadDetails() {
+    if (!detailsPromise) {
+      detailsPromise = fetch(DETAILS_URL).then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+    }
+    return detailsPromise;
+  }
+
+  function esc(v) {
+    const d = document.createElement("div");
+    d.textContent = v;
+    return d.innerHTML;
+  }
+
+  function fmtDateBR(iso) {
+    const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || "");
+    return m ? `${m[3]}/${m[2]}/${m[1]}` : iso;
+  }
+
+  function aboutHtml(d) {
+    const out = [];
+    const st = d.stats || {};
+    const cards = [
+      ["Religião oficial", st.religiao_oficial], ["Capital", st.capital],
+      ["População", st.populacao], ["População cristã", st.populacao_crista],
+    ].filter(x => x[1]);
+    if (cards.length) {
+      out.push('<div class="about-stats">' + cards.map(x =>
+        `<div class="about-stat"><span class="about-stat-label">${x[0]}</span><span class="about-stat-value">${esc(x[1])}</span></div>`
+      ).join("") + "</div>");
+    }
+    [["Visão geral", d.resumo], ["Mulheres", d.mulheres], ["Homens", d.homens]].forEach(([t, v]) => {
+      if (v) out.push(`<div class="about-block"><h4>${t}</h4><p>${esc(v)}</p></div>`);
+    });
+    if (d.motores && d.motores.length) {
+      out.push('<div class="about-block"><h4>Quem persegue</h4><ul class="about-list">' + d.motores.map(m =>
+        `<li><b>${esc(m.nome || "")}</b>${m.descricao ? " — " + esc(m.descricao) : ""}</li>`).join("") + "</ul></div>");
+    }
+    if (d.oracao && d.oracao.length) {
+      out.push('<div class="about-block"><h4>Pedidos de oração</h4><ul class="about-list">' +
+        d.oracao.map(o => `<li>${esc(o)}</li>`).join("") + "</ul></div>");
+    }
+    const more = [["História", d.historia], ["Contexto", d.contexto], ["História da igreja", d.historia_igreja]].filter(x => x[1]);
+    if (more.length) {
+      out.push('<details class="about-more"><summary>Mais informações</summary>' +
+        more.map(x => `<div class="about-block"><h4>${x[0]}</h4><p>${esc(x[1])}</p></div>`).join("") + "</details>");
+    }
+    if (d.fonte_url) {
+      out.push(`<p class="about-source">Resumo baseado em conteúdo da Portas Abertas · coletado em ${esc(fmtDateBR(d.coletado_em))} · <a href="${esc(d.fonte_url)}" target="_blank" rel="noopener"><b>Ver página original ↗</b></a></p>`);
+    }
+    return out.join("");
+  }
+
+  function renderAbout(c) {
+    const el = $("#country-about");
+    el.innerHTML = '<p class="about-placeholder">Carregando…</p>';
+    loadDetails().then(all => {
+      if (!location.hash.endsWith("/" + c.id)) return;
+      const d = all && all[c.id];
+      el.innerHTML = d ? aboutHtml(d) : '<p class="about-placeholder">Informações em breve.</p>';
+    });
   }
 
   function renderHistoryTable(c) {

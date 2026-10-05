@@ -216,6 +216,17 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .history-chip b{display:block;font-size:14px;margin-bottom:1px}
 
 .about-placeholder{color:var(--ink-muted);font-size:13.5px;line-height:1.6;margin:0}
+.about-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:10px 0 4px}
+.about-stat{background:var(--surface-2);border:1px solid var(--border);border-radius:10px;padding:10px 12px}
+.about-stat-label{display:block;font-size:11.5px;color:var(--ink-muted);margin-bottom:2px}
+.about-stat-value{font-size:14px;font-weight:600;color:var(--ink)}
+.about-block h4{font-size:13.5px;margin:16px 0 4px;color:var(--ink)}
+.about-block p,.about-list{font-size:13.5px;line-height:1.65;color:var(--ink-2);margin:0}
+.about-list{padding-left:18px}
+.about-list li{margin-bottom:6px}
+.about-more{margin-top:16px;border-top:1px solid var(--border);padding-top:10px}
+.about-more summary{cursor:pointer;font-size:13.5px;font-weight:600;color:var(--accent)}
+.about-source{margin:18px 0 0;font-size:12px;color:var(--ink-muted);border-top:1px solid var(--border);padding-top:10px}
 
 /* ---------- footer ---------- */
 .site-footer{
