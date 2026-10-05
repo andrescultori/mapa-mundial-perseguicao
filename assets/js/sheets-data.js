@@ -84,8 +84,8 @@
       const stats = {};
       if (vals.length) {
         stats.rank_medio = Math.round((vals.reduce((a, b) => a + b, 0) / vals.length) * 10) / 10;
-        stats.melhor_rank = Math.min(...vals);
-        stats.pior_rank = Math.max(...vals);
+        stats.posicao_mais_alta = Math.min(...vals);
+        stats.posicao_mais_baixa = Math.max(...vals);
         stats.anos_na_lista = vals.length;
         stats.top10_pct = Math.round((vals.filter(v => v <= 10).length / vals.length) * 1000) / 10;
         stats.var_total = ranks[sortedYears[0]] - ranks[sortedYears[sortedYears.length - 1]];
