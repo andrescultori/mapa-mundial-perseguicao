@@ -726,5 +726,1339 @@
     "historia": "Com mais de quatro mil anos de história registrada, a China floresceu econômica e culturalmente desde cedo e se destaca pela longevidade como unidade político-cultural, com pouca influência externa, a introdução do budismo da Índia sendo uma exceção importante. Povos invasores, como os manchus, acabaram absorvidos pela cultura han. O relativo isolamento deixou o país mal preparado para lidar com a tecnologia superior das nações estrangeiras que o confrontaram a partir de meados do século 19.",
     "contexto": "Como país comunista, a China é, em teoria, contra todas as religiões, e sua Constituição é ateísta. Ainda assim, o governo tenta usar religiões tradicionais para controlar a sociedade, e valoriza a cultura tradicional e o confucionismo como “verdadeiramente chineses”, com a mensagem de que quem precisa ser religioso deve ser confuciano. Isso trouxe cerca de 40% da população para o lado do governo.",
     "historia_igreja": "O registro mais antigo é uma pedra do século 13 que afirma que cristãos chegaram a Xian em 635. O cristianismo foi banido na dinastia Ming e voltou no século 16, e os protestantes chegaram a Macau com Robert Morrison em 1807. Com a República Popular em 1949, toda religião, em especial as vistas como estrangeiras, foi combatida, e os missionários tiveram de sair. Na Revolução Cultural (1966–1976) a fé cristã não só sobreviveu como se enraizou na sociedade chinesa."
+  },
+  "IRQ": {
+    "slug": "iraque",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/iraque/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 18,
+      "pontuacao": 79,
+      "religiao_oficial": "Islamismo",
+      "capital": "Bagdá",
+      "populacao": "47,5 milhões",
+      "populacao_crista": "187 mil"
+    },
+    "resumo": "As igrejas históricas e evangélicas sofrem ameaças de violência, intolerância e discriminação, de extremistas islâmicos, de líderes não cristãos e de órgãos do governo. A principal pressão vem de milícias xiitas apoiadas pelo Irã, e as operações militares da Turquia e do Irã no Curdistão iraquiano contra o PKK danificaram vilas cristãs e expulsaram muitos moradores. Em abril de 2025, um simpatizante do Estado Islâmico atacou o desfile do Ano Novo Assírio e feriu dois cristãos, e cristãos relatam apreensões de propriedades por grupos influentes. Convertidos do islamismo enfrentam pressão da família e da sociedade e risco de violência.",
+    "mulheres": "Em algumas regiões, mulheres e meninas cristãs usam véu por segurança, pois a ausência pode levar a assédio ou apedrejamento público, e há impunidade para sequestro e abuso sexual. As convertidas sofrem prisão domiciliar, espancamentos, casamento forçado, assédio sexual e “crimes de honra”. Em janeiro de 2025, uma lei passou a permitir que autoridades religiosas decidam questões de status pessoal, na prática permitindo o casamento de meninas de nove anos, e meninas cristãs podem ser “atraídas” por homens muçulmanos e coagidas a casar.",
+    "homens": "Cristãos, sobretudo os de origem muçulmana, sofrem discriminação no trabalho, principalmente no setor público, com pressão para deixar cargos e exploração. Como são provedores, a perda do emprego afeta toda a família. Convertidos correm risco de rejeição familiar, ameaças e morte, e todos os cristãos enfrentam ameaças de extremistas, o que leva muitos homens a deixar o país e enfraquece a liderança das igrejas.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por proteção e provisão para os cristãos de origem muçulmana que enfrentam perseguição da família, da comunidade e do governo.",
+      "Para que os cristãos sejam sal e luz em suas comunidades e para que Deus abençoe os chamados a permanecer no país.",
+      "Pelas vítimas de ataques extremistas e para que as raízes desse ódio sejam transformadas pelo amor de Jesus."
+    ],
+    "historia": "O território era a antiga Mesopotâmia, berço de civilizações como Suméria, Acádia, Babilônia e Assíria, depois parte de impérios persas, gregos e romanos. Após o século 7 passou a fazer parte do mundo islâmico, e Bagdá foi capital do Califado Abássida no século 8. O Iraque moderno foi criado após a Primeira Guerra Mundial, a partir das províncias otomanas de Bagdá, Basra e Mossul, ocupado pela Grã-Bretanha em 1917, reino independente em 1932 e república em 1958.",
+    "contexto": "É um país etnicamente diverso, com 97,7% de muçulmanos, dos quais 64 a 69% são xiitas e 29 a 34% sunitas, e cerca de 0,4% de cristãos. Embora o Estado Islâmico tenha sido derrotado geograficamente, sua ideologia continua forte, e a polarização sectária cresce. Alguns muçulmanos, desiludidos com o islamismo, estão mais abertos a conhecer a fé cristã.",
+    "historia_igreja": "Segundo a tradição, o apóstolo Tomé levou a fé à Mesopotâmia, e igrejas siríacas surgiram em Edessa no século 1. Em 410 adotaram o nestorianismo, declarado heresia pelo Império Romano no Concílio de Éfeso, em 431. Os nestorianos foram a principal influência cristã do século 5 até as invasões islâmicas dos séculos 7 e 8, que paralisaram a vida da igreja, e em 633 exércitos muçulmanos ocuparam a área."
+  },
+  "MDV": {
+    "slug": "maldivas",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/maldivas/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 19,
+      "pontuacao": 79,
+      "religiao_oficial": "Islamismo",
+      "capital": "Malé",
+      "populacao": "515 mil",
+      "populacao_crista": "Centenas"
+    },
+    "resumo": "Ser maldivo é ser muçulmano, o que torna a conversão extremamente perigosa. Num país pequeno e coeso, onde vizinhos e comerciantes podem denunciar qualquer desvio, os convertidos precisam viver a fé em absoluto segredo. A Constituição afirma que as Maldivas são 100% muçulmanas, não há igrejas oficiais e o governo bloqueia o acesso online a conteúdo não islâmico. Quem é descoberto enfrenta oposição forte das autoridades, da família e da comunidade, e há também uma radicalização islâmica, ainda que em nível não alto, com extremistas que voltaram da Síria.",
+    "mulheres": "As mulheres que seguem a Jesus podem sofrer casamento forçado, violência doméstica, divórcio e perda da guarda dos filhos, tentativas de “restaurá-las” ao islamismo. Como a violência de gênero costuma ser tolerada dentro de casa, ficam altamente vulneráveis a abusos físicos e sexuais e mais isoladas.",
+    "homens": "Os homens convertidos correm risco de assédio, ameaças, agressões e prisão, enquanto as autoridades buscam manter o status quo. Os processos são raros, mas o medo de vigilância e prisão é constante, e os filhos de cristãos estrangeiros sofrem bullying e estigma na escola. Muitos convertidos fogem do país se podem, e os que ficam vivem sob segredo e pressão.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que a Bíblia no idioma nativo das Maldivas seja traduzida ainda este ano.",
+      "Por proteção e sabedoria para os cristãos de origem muçulmana que enfrentam perseguição da família, da comunidade e do governo.",
+      "Para que os perseguidores tenham um encontro com Jesus e sejam transformados por seu amor."
+    ],
+    "historia": "O arquipélago foi habitado por povos budistas, provavelmente do Sri Lanka e do Sul da Índia, cerca de cinco séculos antes de Cristo. Pela tradição, o islamismo foi adotado em 1153, e os portugueses controlaram Malé entre 1558 e 1573. No século 17 foi um sultanato sob proteção holandesa, e depois um protetorado britânico, formalizado em 1887. Alcançou plena independência em 1965, e em 1968 uma república foi inaugurada e o sultanato foi abolido.",
+    "contexto": "O país é 100% muçulmano sunita, e um cidadão que se afastar do islamismo perde a cidadania e é punido pela sharia. Entre os muitos trabalhadores estrangeiros há cristãos, que precisam ser muito discretos e não podem cultuar juntos sem risco de prisão ou deportação. Para a segurança dos cristãos maldivos, não se pode relatar a história de uma igreja que oficialmente “não existe”.",
+    "historia_igreja": "Segundo o governo, todos os cidadãos devem ser muçulmanos e não há igrejas históricas. Os cristãos expatriados, em geral da Índia, do Sri Lanka ou de Bangladesh, são monitorados de perto, mas podem se reunir desde que fiquem entre si, sem contato com os convertidos nativos. Esses convertidos enfrentam de longe a maior perseguição, já que oficialmente não existem."
+  },
+  "DZA": {
+    "slug": "argelia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/argelia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 20,
+      "pontuacao": 77,
+      "religiao_oficial": "Islamismo",
+      "capital": "Argel",
+      "populacao": "46,9 milhões",
+      "populacao_crista": "156 mil"
+    },
+    "resumo": "Nos últimos três anos, a pressão estatal sobre os cristãos protestantes subiu a níveis inéditos em décadas. As autoridades mantiveram igrejas fechadas e ordenaram o fechamento de outras, e todas as 47 igrejas da Igreja Protestante Evangélica da Argélia interromperam as atividades, enquanto igrejas independentes também pararam por medo. Mais de 50 cristãos foram processados, alguns com pena suspensa e multas, e os convertidos, a maioria dos cristãos, seguem sofrendo forte oposição da família e da comunidade, sobretudo em regiões rurais, conservadoras e árabes.",
+    "mulheres": "As mulheres são desfavorecidas pela lei e pela sociedade e sofrem violência baseada no gênero. As cristãs podem ser assediadas na escola ou no trabalho e ameaçadas de morte se não usarem véu, e as recém-convertidas sofrem espancamentos, ameaças ou prisão domiciliar. Sem acesso a conteúdo cristão online e com as igrejas fechadas, milhares ficam isoladas, e casamento forçado ou divórcio são usados como punição.",
+    "homens": "Os homens enfrentam assédio no trabalho e em espaços públicos, e a perda do emprego pode arruinar o lar. A maioria dos líderes de igreja é homem e sofre interrogatórios ou detenções frequentes, e alguns pastores fugiram. Os convertidos do islamismo recebem o tratamento mais severo: ostracismo, espancamentos, frequência forçada a mesquitas, rejeição por parentes e, às vezes, expulsão permanente de casa.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por fortalecimento dos cristãos que tiveram igrejas fechadas, para que encontrem outras formas de se reunir.",
+      "Por proteção dos cristãos de origem muçulmana, para que permaneçam firmes em Jesus e sejam supridos.",
+      "Por paz e sabedoria para os líderes de igreja processados, para que sejam absolvidos e continuem ministrando a Palavra sem assédio."
+    ],
+    "historia": "Fenícios chegaram à costa norte-africana por volta de 1250 a.C. e fundaram Cartago, e depois da derrota do rei Jugurtha, em 106 a.C., os romanos controlaram a Argélia. Os árabes muçulmanos chegaram no século 7, e muitos locais se converteram, com impacto profundo do islamismo e do árabe nas relações sociais e na organização política. A Argélia passou ao Império Otomano e, em 1830, foi conquistada pela França.",
+    "contexto": "Cerca de 98,2% dos argelinos são muçulmanos, quase todos sunitas, e a Constituição proíbe não muçulmanos de ocupar altos cargos no governo. A maioria dos cristãos é convertida do islamismo e vive em boa parte na Cabília, região do povo bérbere que busca se diferenciar da maioria árabe, o que dá algum espaço para os convertidos desenvolverem a identidade cristã, embora a pressão da família e da comunidade continue.",
+    "historia_igreja": "O cristianismo chegou no século 2 e cresceu rapidamente entre romanos e bérberes, apesar de períodos de perseguição severa. Agostinho, um dos pais da igreja, nasceu onde hoje é a Argélia. A forte presença cristã cedeu ao islã após a invasão árabe do século 7, e há relatos de que a fé persistiu por muitos séculos, com uma comunidade registrada em 1114. A Espanha governou Orã e áreas costeiras entre 1509 e 1792, e a conquista francesa em 1830 trouxe renovação da influência cristã, com 100 mil franceses se estabelecendo."
+  },
+  "MRT": {
+    "slug": "mauritania",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/mauritania/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 21,
+      "pontuacao": 76,
+      "religiao_oficial": "Islamismo",
+      "capital": "Nouakchott",
+      "populacao": "5,1 milhões",
+      "populacao_crista": "11 mil"
+    },
+    "resumo": "Convertidos do islamismo enfrentam forte oposição da família e da comunidade, e a expressão pública da fé por estrangeiros pode ser vista como proselitismo e levar a prisão e deportação, o que torna praticamente impossível viver a fé em público. O governo indicou que aplicará rigorosamente as leis de apostasia, que desde 2018 incluem a pena de morte sem possibilidade de clemência por arrependimento, embora nenhuma execução tenha ocorrido até hoje.",
+    "mulheres": "Numa sociedade tribal, as mulheres ficam sujeitas à autoridade de pais e maridos, e as convertidas são especialmente vulneráveis: podem ser privadas de comida, intimidadas ou colocadas em prisão domiciliar. A maioria não escolhe o casamento e pode ser forçada a casar com um muçulmano, e as casadas que se convertem podem ser forçadas a se divorciar e perder o sustento. As solteiras de origem muçulmana não podem casar legalmente com cristãos.",
+    "homens": "Os líderes cristãos de origem muçulmana correm alto risco de detenção, vigilância extra e ameaças de morte. Todos os homens que deixam o islamismo enfrentam ostracismo, expulsão de casa, violência física, perda de emprego ou de cargos no governo e boicote aos negócios. Acusações de apostasia podem ser julgadas em tribunal religioso, com longas penas de prisão ou execução, o que leva alguns a fugir.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por força e sabedoria para os cristãos pressionados, depois de líderes islâmicos radicais incitarem manifestações contra eles.",
+      "Pela revogação da lei anticonversão que criminaliza a conversão ao cristianismo.",
+      "Por encorajamento dos cristãos e pelo crescimento da pequena igreja."
+    ],
+    "historia": "A Mauritânia foi povoada por povos subsaarianos e bérberes e ficava em rotas comerciais entre o Marrocos e o Sul da África, com sal e ouro. Em 1442, marinheiros portugueses contornaram o Cabo Branco e, seis anos depois, fundaram o forte de Arguim, de onde obtinham ouro, goma arábica e escravos. Espanhóis, holandeses, ingleses e franceses disputaram esse comércio, e a França tornou o país um protetorado em 1904.",
+    "contexto": "Cerca de 99,3% dos mauritanos são muçulmanos, a maioria sunita, e o país é oficialmente a República Islâmica da Mauritânia. Os cristãos são 0,2% da população. O islã tradicional teve forte influência sufi, mas grupos radicais ganharam espaço, e o cristianismo é visto como influência ocidental condenável, com o proselitismo estritamente proibido. Cristãos estrangeiros costumam ser deixados em paz se evitam qualquer expressão pública da fé.",
+    "historia_igreja": "A região foi berço dos almorávidas, movimento puritano de reforma islâmica do século 11. Pouco se sabe do cristianismo antes disso, e o primeiro impacto cristão sério veio em 1442, com os portugueses, seguidos de espanhóis, holandeses e franceses, atraídos pelo comércio no litoral."
+  },
+  "CAF": {
+    "slug": "republica-centro-africana",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/republica-centro-africana/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 22,
+      "pontuacao": 75,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Bangui",
+      "populacao": "6 milhões",
+      "populacao_crista": "4,4 milhões"
+    },
+    "resumo": "A situação, já frágil, piora com o conflito no vizinho Sudão, cuja violência ameaça se espalhar e aumenta a pressão externa. Internamente, o colapso da autoridade estatal gerou desordem, e grupos armados, autoridades corruptas e extremistas islâmicos exploram o vácuo e muitas vezes miram os cristãos: igrejas foram saqueadas ou destruídas, e líderes que se manifestam são ameaçados, detidos ou mortos. A violência religiosa e étnica deslocou milhares de cristãos, que vivem em campos superlotados com pouca segurança ou ajuda.",
+    "mulheres": "Anos de conflito deixaram mulheres e meninas cristãs muito vulneráveis a abuso sexual, sequestro, tráfico e casamento forçado, usados por grupos rebeldes como armas de guerra. Famílias chegam a casar as filhas para “protegê-las”, e meninas sequestradas a caminho da escola deixam de estudar. As cristãs de origem muçulmana podem sofrer prisão domiciliar, casamento forçado e separação dos filhos, e nos campos de deslocados ficam expostas a exploração e abuso.",
+    "homens": "Homens e meninos cristãos podem ser executados, sequestrados ou forçados a entrar em grupos rebeldes, e muitos são usados como trabalho escravo em minas de ouro e diamante. Líderes de igreja são os mais visados, com falsas acusações de espionagem, ataques durante cultos, sequestro e morte. Mercados dominados por líderes islâmicos sobrecarregam ou saqueiam lojas cristãs, e cristãos são marginalizados no Exército nacional.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por paz no país, em guerra há mais de dez anos.",
+      "Por cura física, espiritual e emocional das vítimas de violência sexual.",
+      "Por conforto e provisão para os cristãos que perderam entes queridos em incidentes violentos.",
+      "Para que Deus frustre os planos dos extremistas islâmicos e eles tenham um encontro com Jesus."
+    ],
+    "historia": "Garimpeiros de diamante encontraram pedras polidas e ferramentas de quartzo com pelo menos 8 mil anos. A região só se ligou às rotas externas de comércio no século 17, quando comerciantes de escravos de língua árabe estenderam as rotas transaarianas e do Nilo até lá, e os cativos eram enviados ao Norte da África ou à costa atlântica. Nas últimas décadas do século 19, Bélgica, Grã-Bretanha, Alemanha e França disputaram o controle da África equatorial.",
+    "contexto": "É um país predominantemente cristão, mas a tensão entre cristãos e muçulmanos crescia sob a superfície, e os cristãos de origem muçulmana sempre sofreram perseguição, com os homens convertidos expostos à violência física e as mulheres ao casamento forçado com muçulmanos. Cristãos de áreas de domínio muçulmano no Norte, Leste e Oeste relatam discriminação. O islamismo cresceu de 5% para mais de 13% na última década, fortalecido por grupos do Chade e do Sudão, e muitos misturam a fé com práticas etnorreligiosas.",
+    "historia_igreja": "A sociedade foi dominada por religiões africanas tradicionais de tradição animista, mais fortes no Sul e no Centro, enquanto comerciantes muçulmanos do Norte levaram o islamismo. O cristianismo se tornou dominante após a chegada dos colonos franceses na década de 1880, por sua associação com funcionários coloniais respeitados. Os missionários católicos chegaram na segunda metade do século 19, e os protestantes, como os batistas americanos, só em 1921."
+  },
+  "MAR": {
+    "slug": "marrocos",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/marrocos/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 23,
+      "pontuacao": 75,
+      "religiao_oficial": "Islamismo",
+      "capital": "Rabat",
+      "populacao": "38,5 milhões",
+      "populacao_crista": "37,4 mil"
+    },
+    "resumo": "A monarquia afirma descender do profeta Maomé, e cerca de 99% da população é muçulmana, o que torna a conversão rara e arriscada, a ponto de alguns cristãos acreditarem ser os únicos de sua região ou do país. É ilegal “abalar a fé de um muçulmano”, de modo que qualquer conversa sobre fé pode levar à prisão. Os convertidos sofrem intensa pressão para renunciar, com isolamento, demissão, expulsão, violência e até tratamentos supersticiosos por imãs.",
+    "mulheres": "As expectativas culturais limitam o papel das mulheres, sobretudo no campo, e as convertidas podem enfrentar prisão domiciliar, separação dos filhos, casamento forçado e pressão para usar roupas muçulmanas e participar de ritos religiosos. O abuso sexual, tabu ligado à honra da família, vira ferramenta de coerção religiosa.",
+    "homens": "Os homens que deixam o islamismo são vistos como vergonha para a família e podem sofrer ostracismo, perda de herança, divórcio e prejuízo no emprego. Atraem mais hostilidade das autoridades, sobretudo se são líderes de igreja, e há relatos anuais de cristãos presos.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus atenda às necessidades dos líderes da igreja marroquina que querem treinamento e crescimento na liderança.",
+      "Para que as cristãs de origem muçulmana encontrem apoio e comunhão para resistir à perseguição da família, da comunidade e das autoridades.",
+      "Por coragem e sabedoria para que os cristãos marroquinos compartilhem o amor de Jesus.",
+      "Para que o Espírito Santo toque e transforme os muçulmanos radicais."
+    ],
+    "historia": "Muitos dos primeiros habitantes, os bérberes, adotaram o cristianismo ou o judaísmo durante um breve período de governo romano. No fim do século 7, invasores árabes trouxeram o islamismo, que os bérberes aos poucos incorporaram, e o Marrocos foi praticamente o único país árabe que nunca fez parte do Império Otomano. No fim do século 17, sua identidade como monarquia islâmica estava firmemente estabelecida, seguida de um período de isolamento nos séculos 18 e 19.",
+    "contexto": "Mais de 99% da população é muçulmana, majoritariamente sunita, e o islamismo é a religião oficial. Em comparação com outros países árabes, o país é relativamente tolerante, e comunidades expatriadas registradas têm liberdade considerável, desde que evitem interação com muçulmanos, o que poderia ser lido como proselitismo, ainda ilegal. As áreas rurais são conservadoras, e a maioria dos ex-muçulmanos vive em cidades, onde é mais fácil escapar da pressão social.",
+    "historia_igreja": "O cristianismo chegou no Império Romano e foi proeminente em Tânger, Rabat e Fez, e o primeiro mártir foi Marcelo, em 298, em Tânger. No fim do século 4 as áreas romanas eram solidamente cristãs, e o donatismo e o arianismo foram pontos teológicos centrais. Vândalos trouxeram a versão ariana no século 5, e os bizantinos reconquistaram o país em 533. No século 7 chegou o islamismo, e muitos cristãos foram forçados a se converter, até que em 1220 franciscanos tentaram reintroduzir a fé."
+  },
+  "CUB": {
+    "slug": "cuba",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/cuba/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 24,
+      "pontuacao": 73,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Havana",
+      "populacao": "11 milhões",
+      "populacao_crista": "6,8 milhões"
+    },
+    "resumo": "Os cristãos devem se alinhar à agenda comunista, e a falha em fazê-lo pode gerar pressão e perseguição, pois a dissidência é sistematicamente reprimida. Líderes de igrejas e ativistas que se manifestam contra o regime correm risco de prisão, campanhas difamatórias, assédio, restrições de movimento, violência e encarceramento. As autoridades rotineiramente negam o registro de novas igrejas, forçando muitas a operar “ilegalmente”, e monitoram sermões e atividades comunitárias vistas como ameaça ao Estado. Há ainda negação de licenças, multas, confisco de propriedades, demolições e fechamentos.",
+    "mulheres": "As cristãs que fazem campanha contra políticas do governo correm risco de demissão, ameaças e vigilância. As “Damas de Branco”, parentes de presos políticos, sofrem assédio policial ao frequentar a igreja, e programas femininos baseados em igrejas enfrentam hostilidade por supostamente promover ideias “contrarrevolucionárias”.",
+    "homens": "Os líderes de igreja costumam ser homens, e os que criticam políticas do governo correm enorme risco: espancamentos, ameaças, prisão, confisco de Bíblias e literatura e destruição de propriedades. Os que estão no serviço militar podem ter problemas se a fé for descoberta, dependendo da atitude dos oficiais superiores.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão comunista e pós-comunista",
+        "descricao": null
+      },
+      {
+        "nome": "Intolerância secular",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Provisão de Deus para o povo, como para todos os cubanos, que enfrentam necessidades humanitárias significativas.",
+      "Sabedoria e coragem para os líderes de igreja monitorados pelo governo compartilharem a fé sem impedimentos.",
+      "Para que a Palavra de Deus seja acessível a todos que desejarem uma Bíblia, já que elas são difíceis de achar e caras."
+    ],
+    "historia": "No fim do século 15 povos indígenas ocupavam a ilha, que depois recebeu forte influência da Espanha (1492–1898), da União Soviética (anos 1960 a 1991) e dos Estados Unidos. Após a Revolução Cubana (1953–1958), o país foi estruturado como Estado comunista, e a nova Constituição fortaleceu o Partido Comunista como força condutora da sociedade. Quem não adere aos valores do partido é reprimido, e cristãos que vivem a fé ou educam os filhos na fé, rejeitando a doutrina da escola cubana, são vistos como inimigos ou rebeldes.",
+    "contexto": "A Constituição de 2019 reconhece a liberdade religiosa, mas torna ilegal a objeção de consciência e não usa linguagem adequada à proteção da liberdade religiosa prevista no Pacto Internacional dos Direitos Civis e Políticos. Como o Partido Comunista controla toda a ordem social, econômica e política, a religião também deve se estruturar conforme a “força superior”, e a atitude do governo com as igrejas depende do quanto elas se submetem à sua ideologia.",
+    "historia_igreja": "O cristianismo se estabeleceu em 1512 com padres dominicanos, após a colonização espanhola, e a primeira atividade protestante data de 1741, durante a ocupação britânica. O fluxo de escravos africanos gerou, por volta de 1800, a santeria, culto sincrético de elementos católicos e costumes iorubás. Após a independência da Espanha, em 1898, a dependência dos Estados Unidos favoreceu o estabelecimento de metodistas, adventistas, presbiterianos, quakers, batistas e luteranos, além do espiritismo."
+  },
+  "UZB": {
+    "slug": "uzbequistao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/uzbequistao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 25,
+      "pontuacao": 73,
+      "religiao_oficial": "Islamismo",
+      "capital": "Tashkent",
+      "populacao": "36 milhões",
+      "populacao_crista": "395 mil"
+    },
+    "resumo": "Apesar de ser um Estado secular, o país pode ser extremamente desafiador para a pequena comunidade cristã. As igrejas sofrem restrições complexas, como a exigência recente de um número mínimo de membros, impossível para congregações pequenas, e as que não seguem os protocolos, por exemplo com materiais “não autorizados”, arriscam invasões, prisões, ameaças e multas pesadas. As igrejas ortodoxas russas raramente têm problemas por seu envolvimento limitado com a população uzbeque nativa. Os convertidos do islamismo enfrentam forte oposição da família e da comunidade, sobretudo no campo.",
+    "mulheres": "A prisão domiciliar de mulheres cristãs é particularmente comum e prejudica a liberdade de expressar a fé e se reunir. Elas também podem sofrer casamento forçado, sequestro, divórcio e violência sexual, muitas vezes não denunciada porque foi normalizada na sociedade.",
+    "homens": "Os líderes de igreja, em geral homens, são alvo das autoridades para intimidar congregações, com multas, prisão, abuso físico e negação de visto de saída do país. No trabalho, os cristãos podem ser demitidos ou barrados de promoções, e o serviço militar pode expô-los a assédio.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por coragem e sabedoria às igrejas e líderes sob vigilância das autoridades.",
+      "Por fortalecimento e proteção aos cristãos que arriscam a vida para se reunir e adorar em igrejas alvo do governo.",
+      "Por graça e esperança aos cristãos de origem muçulmana perseguidos pela família, pela comunidade e pelo governo.",
+      "Para que os perseguidores tenham um encontro com Jesus e sejam transformados."
+    ],
+    "historia": "Depois da introdução do islamismo na Ásia Central no século 8, vários fluxos populacionais formaram o território, com a diversidade demográfica que o caracteriza. Os canatos de Bucara e Quiva foram invadidos em 1861 e se tornaram protetorados russos, e a revolta de Kokand foi esmagada em 1875, completando a conquista russa. A Revolução de 1917 trouxe instabilidade e, em 1924 e 1925, os bolcheviques redesenharam o mapa da região.",
+    "contexto": "Embora o islamismo, sobretudo sunita, seja a principal religião, seria errado chamar o país de muçulmano: os 70 anos de ateísmo soviético deixaram profunda influência, e o governo é firmemente secular e mantém o islamismo sob controle. As pessoas seguem mais a cultura islâmica que os ensinamentos, e os 2,5% de agnósticos e ateus resultam da propaganda soviética. O país se orgulha de seu passado islâmico, com universidades e madraças famosas em Samarcanda e Bucara.",
+    "historia_igreja": "Os primeiros cristãos na Ásia Central foram missionários nestorianos no século 4, e a igreja nestoriana declinou a partir do século 14, quando governantes mongóis se converteram ao islamismo. A presença cristã atual data do século 19, quando o Império Russo expandiu seu território a partir de 1867 e trouxe russos étnicos da Igreja Ortodoxa Russa. Na Segunda Guerra, Stalin deportou grandes números de alemães, ucranianos, poloneses e coreanos para a Ásia Central."
+  },
+  "NER": {
+    "slug": "niger",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/niger/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 26,
+      "pontuacao": 72,
+      "religiao_oficial": "Islamismo",
+      "capital": "Niamei",
+      "populacao": "29,3 milhões",
+      "populacao_crista": "74,9 mil"
+    },
+    "resumo": "A situação piorou muito desde o golpe de 2023, que desestabilizou o país e encorajou militantes ligados ao Estado Islâmico e à Al-Qaeda. Em algumas regiões esses grupos operam com pouca resistência e impõem a lei islâmica rigorosa, e em outras igrejas são destruídas e cristãos são mortos. As fronteiras porosas com Mali e Burkina Faso facilitam o avanço dos militantes. Os convertidos do islamismo precisam adorar em segredo, sob ameaça constante de violência, sequestro e morte.",
+    "mulheres": "Mulheres e meninas correm risco de sequestro e abuso sexual por extremistas e outros, e as famílias costumam não denunciar por medo de afetar as perspectivas de casamento. As cristãs de origem muçulmana podem perder a guarda dos filhos, ser forçadas a casar com muçulmano e agredidas sexualmente, e muitas perderam direitos de herança. O Níger tem a maior taxa de casamento infantil do mundo, o que faz do casamento forçado um risco mesmo para meninas pequenas.",
+    "homens": "Os convertidos podem ser rejeitados pela família, expulsos de casa ou colocados em prisão domiciliar, demitidos ou ter os negócios boicotados. Meninos correm risco de sequestro e recrutamento forçado, e qualquer cristão do sexo masculino pode ser alvo de assassinato. O aumento dos ataques forçou muitos homens, especialmente líderes de igreja, a fugir para locais mais seguros.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os militares governem com justiça e permitam eleições diretas.",
+      "Por proteção dos cristãos sob risco de ataques de militantes islâmicos e dos deslocados pela insegurança.",
+      "Por provisão aos cristãos hostilizados pela família, pela comunidade e pelo governo.",
+      "Para que os extremistas se convertam, se arrependam e sejam transformados."
+    ],
+    "historia": "No século 14, o reino tuaregue de Takedda se destacou no comércio de longa distância, principalmente por suas minas de cobre. A França começou a conquista em 1899 e só estabeleceu uma administração civil regular em 1922, depois da seca e da fome de 1913–1915 e da revolta tuaregue de 1916–1917. O Níger declarou a independência em 1960 e teve ao menos quatro golpes militares desde então, além de combater grupos islâmicos como a AQIM.",
+    "contexto": "É um país de maioria muçulmana, com cerca de 96,5% de seguidores do islamismo, a maioria das ordens Tijaniya ou Qadiriya, embora grupos islâmicos incentivem o salafismo. Há grupos menores, como o Kalikato, com crenças semelhantes às do Boko Haram, cuja influência parece se espalhar do Norte da Nigéria. A radicalização da juventude em madraças e a ameaça jihadista em todo o Sahel tendem a tornar a vida dos cristãos mais difícil.",
+    "historia_igreja": "Houve expedições missionárias ao longo do rio Níger no século 19, mas o cristianismo só se estabeleceu no século 20: o Servindo em Missão começou em 1923, a Missão Batista Evangélica em 1929 e a Igreja Católica em 1931, vinda do Daomé (atual Benin), com duas dioceses desde então."
+  },
+  "TJK": {
+    "slug": "tajiquistao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/tajiquistao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 27,
+      "pontuacao": 72,
+      "religiao_oficial": "Islamismo",
+      "capital": "Dushanbe",
+      "populacao": "10,3 milhões",
+      "populacao_crista": "55 mil"
+    },
+    "resumo": "Embora tenha a maior porcentagem de muçulmanos da Ásia Central, o Estado secular e ditatorial controla rigidamente todas as religiões, inclusive os cristãos, sobretudo os protestantes, vistos como “seitas desviantes”. Desde 2015, a pressão sobre reuniões não autorizadas de batistas, evangélicos e pentecostais aumentou, com invasões, interrogatórios, multas e confisco de materiais. Atividades religiosas com menores de 18 anos são proibidas, e emendas recentes buscam criminalizar a educação religiosa “clandestina” de crianças, inclusive online, um grande obstáculo, já que os jovens são cerca de 50% da igreja. A Igreja Ortodoxa Russa tem mais liberdade relativa.",
+    "mulheres": "Embora homens e mulheres sejam iguais perante a lei, a cultura tradicional impõe outra realidade: a violência doméstica é comum, e as mulheres não têm liberdade de escolher a religião. As cristãs podem sofrer prisão domiciliar, agressão física, rejeição, assédio e casamento forçado.",
+    "homens": "Os homens geralmente lideram as igrejas e por isso são o foco da oposição das autoridades, com interrogatórios, multas, ameaças, agressão física e prisão. Os convertidos do islamismo podem sofrer espancamentos, discriminação e ostracismo da família e da comunidade, e o serviço militar obrigatório também expõe cristãos à perseguição.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por segurança e graça para os cristãos e líderes de igrejas monitoradas pelo governo.",
+      "Por segurança e sabedoria para os parceiros da Portas Abertas no Tajiquistão e na Ásia Central que oferecem treinamento e discipulado.",
+      "Para que os governantes tenham um encontro com Jesus e entendam que só ele é rei.",
+      "Por proteção e provisão para os cristãos entre os refugiados afegãos, que correm risco de morte se forem deportados."
+    ],
+    "historia": "Os tajiques descendem de povos iranianos presentes na Ásia Central e no Norte do Afeganistão desde meados do primeiro milênio antes de Cristo. Até a metade do século 18 foram parte do emirado de Bucara, e as conquistas russas dos anos 1860 e 1870 levaram muitos ao governo direto da Rússia. Em 1929, a República Socialista Soviética Autônoma Tajique foi elevada a República Socialista Soviética.",
+    "contexto": "A cultura tajique é dominada pelo islamismo, sobretudo sunita, desde o século 7. Sob a União Soviética, o ateísmo foi promovido, mas desde 1991 a prática religiosa cresceu, e desde 2009 a escola Hanafi sunita é a religião oficial, caso único entre os ex-Estados soviéticos. Segundo o World Christian Database, 97,9% são muçulmanos, mas os 70 anos de ateísmo soviético deixaram profunda influência, e o governo é firmemente secular e mantém o islamismo sob controle rigoroso.",
+    "historia_igreja": "Missionários nestorianos levaram o cristianismo no século 6, e o islamismo chegou cerca de um século depois. Os dois conviveram até Timur erradicar o cristianismo do seu império no século 14. A fé voltou no fim do século 19, com a conquista russa, mas apenas os governantes russos eram cristãos, sem cristãos tajiques conhecidos. Na era de Stalin, muitos russos, alemães, ucranianos, bielorrussos e poloneses considerados pouco confiáveis foram enviados ao Tajiquistão."
+  },
+  "LAO": {
+    "slug": "laos",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/laos/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 28,
+      "pontuacao": 72,
+      "religiao_oficial": "Budismo",
+      "capital": "Vientiane",
+      "populacao": "7,8 milhões",
+      "populacao_crista": "219 mil"
+    },
+    "resumo": "Os cristãos enfrentam intensa perseguição sob um regime comunista autoritário e tradições étnicas muito enraizadas. O governo reconhece apenas três igrejas (evangélica, católica e adventista do sétimo dia), e os demais grupos operam de modo não oficial. Mesmo entre os aprovados, cerca de 75% das congregações não têm prédios permanentes e os batismos não podem ser públicos, sobretudo no campo, o que leva muitos a se reunir em igrejas domésticas ilegais. As autoridades veem o cristianismo como religião ocidental contrária ao comunismo, e a dependência crescente da China reforçou o compromisso com o comunismo.",
+    "mulheres": "As cristãs são vulneráveis a zombaria e exclusão social, com risco maior para as de origem muçulmana, e podem ser agredidas em casa e deserdadas, enquanto meninas sofrem bullying na escola. O casamento infantil, ainda comum entre minorias, é outra ameaça. Quando maridos cristãos são presos, as esposas assumem dívidas altíssimas para libertá-los e sustentar a família.",
+    "homens": "Os líderes de igreja, em geral homens, são alvos frequentes: podem ser presos, multados, atacados e mortos, o que desestabiliza famílias e igrejas. Os homens enfrentam ainda discriminação no trabalho e no serviço militar, e meninos podem sofrer bullying.",
+    "motores": [
+      {
+        "nome": "Opressão comunista e pós-comunista",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por proteção dos cristãos que se arriscam a se reunir em segredo em igrejas não registradas.",
+      "Por provisão e paz para os convertidos expulsos de casa e de suas aldeias, para que experimentem o cuidado paterno de Deus.",
+      "Pelo quebrantamento do coração dos líderes comunistas, para que respeitem a liberdade religiosa."
+    ],
+    "historia": "Desde o século 5, grupos coletivamente chamados Kha viveram no território sob o império Khmer, e nos séculos 12 e 13 povos tai formaram o principado de Muong Swa. No século 18, os três estados laosianos tentaram manter a independência de Mianmar e dos reinos siameses. No início do século 20 os franceses criaram um protetorado, e o Laos foi colônia francesa até 1953, até que forças comunistas derrubaram a monarquia.",
+    "contexto": "Segundo o World Christian Database, 53,5% da população é budista, em geral theravada, e 41,6% segue religiões étnicas, com tradições populares que veneram rios, árvores e ancestrais. O budismo é central para a sociedade e ligado ao nacionalismo, e as práticas animistas, muito fortes no campo, pressionam os cristãos: quem não participa é excluído da comunidade e visto como estrangeiro. O país segue sob comando do Partido Comunista.",
+    "historia_igreja": "Jesuítas do Vietnã tentaram entrar no território a partir de 1630 sem sucesso, e a Sociedade de Missão Estrangeira de Paris só entrou em 1878, com uma estação em Ban Dorn Don, no Mekong. Missionários suecos e suíços chegaram ao Leste em 1890 e 1902, mas o protestantismo só se espalhou com a Aliança Cristã Missionária, em 1948. A minoria khmer e outros grupos minoritários responderam bem ao evangelho, e em meados dos anos 1970 o regime comunista tentou erradicar a minoria cristã, sem sucesso."
+  },
+  "COD": {
+    "slug": "republica-democratica-do-congo",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/republica-democratica-do-congo/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 29,
+      "pontuacao": 72,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Kinshasa",
+      "populacao": "109 milhões",
+      "populacao_crista": "104 milhões"
+    },
+    "resumo": "No Leste, os cristãos sofrem perseguição severa em meio a conflitos violentos. As Forças Democráticas Aliadas (ADF), extremistas ligados ao Estado Islâmico, atacam comunidades cristãs com massacres, sequestros e destruição de igrejas, e sobreviventes relatam atrocidades para erradicar a presença cristã. Convertidos sofrem rejeição social, pressão para renunciar à fé e exclusão da herança, e líderes católicos e protestantes que denunciam a corrupção ou defendem direitos constitucionais enfrentam ameaças, vigilância e assédio.",
+    "mulheres": "Mulheres e meninas cristãs sofrem sequestro, abuso e escravidão sexual, tráfico e casamento forçado, sobretudo nas mãos da ADF e de outros grupos armados, com meninas de 12 anos forçadas a casar. Sobreviventes costumam enfrentar trauma, vergonha e rejeição de famílias ou comunidades. Com mais de 100 grupos armados no Leste, a vida é extremamente arriscada, e soldados do governo também estiveram envolvidos em ataques.",
+    "homens": "Homens cristãos são alvo de recrutamento forçado, sequestro, tortura e execução, e muitos sofrem mutilação ou trabalho forçado ou precisam pagar resgate, o que leva as famílias à pobreza. Os líderes de igreja correm riscos adicionais ao se manifestar, e há discriminação no emprego e instabilidade no lar, o que reduz a capacidade da igreja de agir em crises.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por paz e estabilidade no país.",
+      "Por coragem e esperança para os cristãos deslocados que enfrentam violência de grupos extremistas e armados.",
+      "Para que o coração dos militantes islâmicos seja transformado por Jesus e o ódio dê lugar à paz.",
+      "Para que o povo de Deus seja pacificador entre as facções em guerra."
+    ],
+    "historia": "O país começou como domínio privado do rei Leopoldo II da Bélgica (o Estado Livre do Congo) e depois virou colônia (o Congo Belga). Entre os séculos 15 e 17, importantes sistemas estatais se formaram no Sul da savana, e o comércio de escravos do Atlântico criou interesses poderosos entre chefes provinciais que enfraqueceram o reino diante das invasões. A Conferência de Berlim (1884–1885) sancionou o controle de Leopoldo II sobre a área do Rio Congo.",
+    "contexto": "Muitas pessoas misturam o cristianismo com crenças tradicionais, e alguns grupos evangélicos rejeitam isso, o que gera tensão. O ADF-NALU é responsável pela perseguição em Kivu do Norte, no Leste, e na família os convertidos do islamismo e das religiões indígenas sofrem pressão para participar de cerimônias não cristãs. Representantes da Igreja Católica que cobram do governo o respeito aos prazos eleitorais relatam assédio verbal. É o maior país da região dos Grandes Lagos, com mais de 200 grupos étnicos.",
+    "historia_igreja": "O cristianismo remonta a 1491, quando padres católicos chegaram depois que mercadores portugueses descobriram o Rio Congo em 1482, mas o foco no comércio de escravos limitou as missões. Só no século 19 se estabeleceu de fato: católicos em 1865, apoiados por Leopoldo II com concessões de terra, batistas britânicos em 1878, presbiterianos americanos em 1891 e pentecostais do Reino Unido em 1915, seguidos por menonitas e adventistas."
+  },
+  "MEX": {
+    "slug": "mexico",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/mexico/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 30,
+      "pontuacao": 71,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Cidade do México",
+      "populacao": "130,3 milhões",
+      "populacao_crista": "124 milhões"
+    },
+    "resumo": "A presença generalizada de grupos criminosos coloca muitos cristãos em perigo, sobretudo os que se opõem à criminalidade. As autoridades têm sido em grande parte ineficazes, e em muitos lugares os cartéis operam com quase total impunidade, chegando a infiltrar ou substituir autoridades locais, deixando os cristãos sem proteção e sem justiça. Em comunidades indígenas, quem deixa as crenças e rituais locais para seguir a Cristo sofre multas, discriminação, prisão e deslocamento. Cresce também a hostilidade à visão cristã sobre casamento, família e vida.",
+    "mulheres": "Gangues criminosas costumam visar meninas cristãs para sequestro e escravidão sexual, e nas comunidades indígenas as que seguem a Jesus podem sofrer abusos físicos e verbais e ser forçadas a casar.",
+    "homens": "Onde as gangues têm influência, jovens e meninos, cristãos inclusive, correm risco de recrutamento forçado e extorsão, e os que resistem enfrentam ameaças, sequestro e assassinato. Como chefes de famílias e igrejas, os homens são muitas vezes alvo, e os convertidos de origem indígena são vulneráveis a agressão, assédio e discriminação.",
+    "motores": [
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Intolerância secular",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por proteção e encorajamento dos cristãos que compartilham o evangelho em algumas áreas do Sul do país.",
+      "Para que Deus frustre os planos dos cartéis e o povo tenha paz.",
+      "Pelos parceiros locais da Portas Abertas que caminham ao lado dos cristãos mexicanos."
+    ],
+    "historia": "Presume-se que os primeiros habitantes da região eram povos nativos de origem asiática. Segundo a lenda, os astecas vagaram entre o início do século 12 e o início do 13 até se fixar perto das ruínas de Tula. Em 1517 e 1518, Diego Velásquez, governador de Cuba, enviou expedições à costa de Yucatán e do Golfo do México, e Hernán Cortés, que fundou Veracruz, conquistou o império asteca em nome da Espanha.",
+    "contexto": "95,7% da população é cristã, mas cerca de 3% se declara agnóstica ou atéia, e segundo o INEGI os que não creem chegam a 8,1%, resultado de tendências seculares de antigas políticas do governo. O país não tem religião oficial, não há aula de religião nas escolas estaduais e, até a reforma de 1992 do governo Salinas, o Estado não reconhecia oficialmente nenhuma igreja. Hoje os mexicanos podem exercer qualquer religião.",
+    "historia_igreja": "O cristianismo chegou com a conquista espanhola (1519–1521), com a conversão dos nativos ao catolicismo como parte da estratégia militar. Até cerca de 1872 a Igreja Católica foi a única denominação cristã e ainda é a maioria, com 89,9% dos cristãos. Há liberdade de culto desde meados do século 18, quando as denominações protestantes tradicionais se estabeleceram, e igrejas só foram reconhecidas como entidades legais em 1992, com a reforma do Artigo 130 da Constituição."
+  },
+  "TUN": {
+    "slug": "tunisia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/tunisia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 31,
+      "pontuacao": 71,
+      "religiao_oficial": "Islamismo",
+      "capital": "Túnis",
+      "populacao": "12,6 milhões",
+      "populacao_crista": "23 mil"
+    },
+    "resumo": "Os cristãos estão sujeitos a vigilância crescente: podem ser monitorados, presos, interrogados e ter a casa revistada. Pela primeira vez, as autoridades prenderam cristãos estrangeiros em número sem precedentes, usando falsas acusações de “tráfico humano” e agrupando-os com migrantes subsaarianos sem documentos. Muitos perderam o emprego, sofreram abusos raciais ou fugiram. Convertidos tunisianos ocultam a fé e ficam isolados, sem poder se reunir para adorar e se apoiar.",
+    "mulheres": "Os direitos das mulheres se deterioram sob o presidente Saïed. As cristãs de origem muçulmana são vulneráveis à perseguição de parentes do sexo masculino, com assédio sexual, ameaças de morte, violência doméstica, prisão domiciliar e expulsão da família. As casadas convertidas podem ser forçadas ao divórcio e perder a guarda dos filhos, e as solteiras, sobretudo no campo, podem ser forçadas a casar com muçulmanos.",
+    "homens": "Os homens que se convertem enfrentam oposição da família e da sociedade, já que deixar o islamismo é visto como traição, com intimidação, agressões severas e ameaças de morte. Podem ser expulsos de casa, perder bens e herança e ser abandonados pela esposa, além de sofrer dificuldades econômicas por perda de emprego ou boicote aos negócios.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por liberdade para os cristãos praticarem a fé.",
+      "Por proteção e provisão para os cristãos de origem muçulmana perseguidos pela família, pela comunidade e pelo governo.",
+      "Para que os cristãos tunisianos encontrem maneiras de crescer em comunhão e discipulado."
+    ],
+    "historia": "Por séculos a Tunísia ocupou posição estratégica no Mediterrâneo. Sua capital original, Cartago, foi arqui-inimiga de Roma até ser destruída em 146 a.C., e o território foi província de romanos, bizantinos, árabes e otomanos antes de virar protetorado francês em 1883. Conquistou a independência em 1956 e teve Bourguiba como primeiro presidente, seguido por Ben Ali em 1987, deposto na Primavera Árabe em 2011, com nova Constituição aprovada em janeiro de 2014.",
+    "contexto": "Apesar do legado francês de laicismo entre as elites urbanas, o islamismo é muito influente e a Constituição o reconhece como religião oficial. Cristianismo e judaísmo são as principais minorias religiosas, embora os agnósticos e ateus sejam mais numerosos, com mais de 45% dos jovens de 18 a 29 anos sem religião. O número de convertidos cresce desde os anos 1990, e segundo a Middle East Concern as comunidades cristãs têm relativa liberdade, desde que evitem o que possa ser lido como proselitismo.",
+    "historia_igreja": "Os primeiros relatos são o martírio, em 203, de duas cristãs, Felicitas e Perpétua, em Cartago, cidade onde viveram Tertuliano, Cipriano e Agostinho. Os cristãos de Túnis sofreram perseguição de Roma, sobretudo sob Diocleciano (284–305), e a controvérsia donatista surgiu ali no século 4. Em 439, Cartago foi conquistada pelos vândalos."
+  },
+  "NIC": {
+    "slug": "nicaragua",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/nicaragua/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 32,
+      "pontuacao": 71,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Manágua",
+      "populacao": "7,2 milhões",
+      "populacao_crista": "6,8 milhões"
+    },
+    "resumo": "Os cristãos são cada vez mais silenciados sob o regime ditatorial de Daniel Ortega e da vice-presidente Rosario Murillo. Quem critica o governo, por exemplo em violações de direitos humanos, enfrenta vigilância, intimidação e prisão, e alguns sofrem exílio e perda da cidadania. Igrejas e instituições cristãs, como escolas e organizações de caridade, são tratadas como ameaça: tiveram bens confiscados, atividades interrompidas ou proibidas e prédios vandalizados, e muitos cristãos são vistos como “agentes desestabilizadores”. Essa repressão remonta aos protestos nacionais de 2018.",
+    "mulheres": "Em janeiro de 2025, a polícia confiscou à força os mosteiros e propriedades das freiras Clarissas Franciscanas em Manágua e Chinandega e expulsou cerca de 30 freiras, cujo paradeiro segue desconhecido; elas atuavam em educação e trabalho humanitário. Há também relatos de mulheres que sofrem abuso doméstico por participar da igreja.",
+    "homens": "Os líderes de igreja, geralmente homens, estão entre os mais visados e sofrem prisão e exílio, o que pode forçar famílias inteiras a fugir e privar a comunidade cristã de seus líderes.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão comunista e pós-comunista",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por encorajamento, sabedoria e proteção dos pastores que enfrentam prisão e detenção arbitrárias.",
+      "Por segurança dos parceiros da Portas Abertas que servem e fortalecem a igreja nicaraguense.",
+      "Por coragem e sabedoria das igrejas sob vigilância das autoridades."
+    ],
+    "historia": "A Nicarágua foi o único país colonizado por espanhóis e britânicos. Em 1860, um acordo com a Grã-Bretanha reintegrou nominalmente a Costa Leste, e a jurisdição completa sobre o povo miskito só veio na presidência de José Santos Zelaya (1893–1909). A família Somoza governou de 1936 a 1979, até ser derrubada pela Frente Sandinista. Daniel Ortega foi presidente de 1984 a 1990 e voltou ao poder em 2006, tornando-se um governante autoritário.",
+    "contexto": "Desde as agitações de 2018, líderes de igrejas, sobretudo católicos, participaram do diálogo entre oposição e governo, primeiro como mediadores e depois como observadores, e em março de 2019 a Igreja Católica suspendeu a participação em protesto contra as violações de direitos humanos. Desde então o apoio da Igreja aos setores vulneráveis fez dela “inimigo público” do governo, e líderes e igrejas são alvo frequente de retaliações, inclusive condenação por “crime eleitoral” ao exigir respeito aos processos democráticos.",
+    "historia_igreja": "A Igreja Católica foi a primeira denominação, com apoio da colonização espanhola: a primeira igreja foi fundada pelos franciscanos em 1524, em Granada, e o trabalho missionário colonial foi conduzido sobretudo pelos jesuítas. A missão protestante, principalmente no Leste, começou com a Igreja Anglicana nos anos 1760, e os esforços significativos entre crioulos e indígenas do Leste só começaram com a Igreja dos Irmãos Morávios em Bluefields, em 1849."
+  },
+  "BGD": {
+    "slug": "bangladesh",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/bangladesh/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 33,
+      "pontuacao": 71,
+      "religiao_oficial": "Islamismo",
+      "capital": "Daca",
+      "populacao": "176,4 milhões",
+      "populacao_crista": "950 mil"
+    },
+    "resumo": "A perseguição é intensa em meio à incerteza política e à agitação social. Depois da queda da primeira-ministra Sheikh Hasina, em 2024, formou-se um governo provisório liderado por Muhammad Yunus, mas surgiu um vácuo de poder que extremistas aproveitaram para atacar cristãos e outras minorias, muitas vezes com violência, e muitos cristãos foram forçados a se esconder. Quem é ativo na evangelização está especialmente em perigo, e os cristãos tribais são duplamente vulneráveis por pertencer a minorias étnicas e religiosas. Há também cristãos de origem muçulmana entre cerca de um milhão de refugiados rohingya.",
+    "mulheres": "Mulheres e meninas cristãs são vulneráveis a assédio, ostracismo, rituais humilhantes, agressão sexual, casamento forçado e prisão domiciliar, com grande parte da perseguição “invisível”, feita de abuso mental, isolamento e controle pela vergonha. As autoridades frequentemente não agem, o que alimenta a impunidade. Nos campos de refugiados, as cristãs rohingya correm risco de sequestro, agressão, casamento forçado e conversão, e a escassez de ajuda agrava a situação.",
+    "homens": "Os homens costumam ser os primeiros convertidos, o que os torna especialmente vulneráveis a agressões públicas, tortura, falsas acusações e ostracismo, e o mesmo pode ocorrer com meninos. Os líderes de igreja correm risco de prisão, e como provedores a perda do trabalho ou a detenção é devastadora para as famílias.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      },
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por cura e perseverança dos cristãos atacados por extremistas durante a turbulência política.",
+      "Por fortalecimento e provisão dos cristãos de origem muçulmana perseguidos pela família, pela comunidade e pelas autoridades.",
+      "Em gratidão pela fé corajosa e resiliente dos cristãos que seguem a Jesus apesar do risco."
+    ],
+    "historia": "Bangladesh existe como país independente desde 1971, quando se separou do Paquistão, e celebrou 50 anos só em 2021, mas seu caráter nacional vem de um passado antigo, interligado ao da Índia e do Paquistão. Governos civis e militares se alternaram, as eleições costumam ser acompanhadas de violência, e o país seguiu um rumo autoritário desde 2015, sem oposição parlamentar efetiva depois do boicote do BNP.",
+    "contexto": "Com quase 150 milhões de muçulmanos, de maioria sunita, o país conseguiu até há pouco ficar livre do radicalismo de outras partes do Sul da Ásia, mas há fortes sinais de mudança. Um exemplo é a decisão do governo, em janeiro de 2017, de ajustar os livros didáticos aos grupos islâmicos conservadores, com mais conteúdo islâmico e menos referências à Índia vizinha.",
+    "historia_igreja": "As primeiras incursões foram no fim do século 16 e início do 17, com mercadores portugueses e missionários católicos perto de Chittagong, que construíram as primeiras igrejas. O batista William Carey chegou a Serampore em 1793 e traduziu a Bíblia para o bengali, além de produzir o primeiro dicionário bengali e fundar a Serampore Mission and College, e o sistema escolar do país se deve a seu trabalho."
+  },
+  "BTN": {
+    "slug": "butao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/butao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 34,
+      "pontuacao": 71,
+      "religiao_oficial": "Budismo",
+      "capital": "Thimphu",
+      "populacao": "884 mil",
+      "populacao_crista": "19,3 mil"
+    },
+    "resumo": "Apesar de ser um Estado laico, o Butão é sinônimo de budismo, e presume-se que todos os cidadãos sejam budistas, de modo que convertidos sofrem discriminação e perseguição e grande pressão para renunciar à nova fé. A unidade das comunidades dificulta expressar a fé, pois suspeitas podem ser denunciadas às autoridades, e monges budistas podem ser agressivos, sobretudo no campo. Reuniões e batismos são secretos, e atividades evangelísticas são proibidas e podem levar a até três anos de prisão.",
+    "mulheres": "Embora a sociedade seja tradicionalmente matriarcal, as cristãs podem sofrer forte pressão da família e da comunidade. Como o divórcio é fácil e a poligamia permite que o marido tenha outra esposa, as convertidas podem perder o casamento e ficar vulneráveis a violência doméstica e reconversão forçada, e as solteiras podem ser forçadas a casar.",
+    "homens": "Para os homens, seguir a Jesus pode custar casa, emprego, herança, amizades e posição social, e os líderes de igreja enfrentam pressão ainda maior, com relatos de detenções no último ano.",
+    "motores": [
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os cristãos continuem se reunindo, independentemente do registro oficial, e para que quem trabalha pela legalização da igreja local tenha sucesso.",
+      "Pelos cristãos que se converteram do budismo e enfrentam dificuldades.",
+      "Pelos parceiros da Portas Abertas no Butão que apoiam a igreja com oração e ajuda emergencial, para que tenham esperança e alegria no ministério."
+    ],
+    "historia": "O Butão foi um reino com pouco contato exterior até a década de 1970, mas sofreu invasões estrangeiras. Em 1720, um exército imperial chinês estabeleceu soberania sobre o Tibete e o Butão, e os britânicos intervieram em 1772–1773 e 1864–1865, quando derrotaram os butaneses, que cederam o controle da passagem da fronteira Sul. No século 19 houve guerras civis entre governantes de vários territórios, e em 1949 o país firmou um tratado com a Índia recém-independente, que assumiu o antigo domínio britânico.",
+    "contexto": "A maioria dos cristãos é de origem nepalesa e muitos vivem no Sul. Segundo o World Christian Database, 81,6% da população pratica formas de budismo, e o restante é sobretudo hindu, em geral de origem nepalesa, com muitos migrantes da Índia. O país é um dos últimos onde o budismo Vajrayana ainda é praticado, e a Constituição o trata como patrimônio cultural e espiritual: embora não haja pressão oficial, espera-se que os cidadãos participem dos festivais e costumes budistas.",
+    "historia_igreja": "O primeiro contato foi com jesuítas portugueses que chegaram a Paro em 1626, mas não puderam se estabelecer. O país ficou oficialmente fechado ao cristianismo até pouco antes da tentativa de golpe de 1964–1965. Em 1963, o jesuíta canadense William Mackey foi convidado pelo rei e pelo primeiro-ministro a criar um sistema escolar em inglês e ficou até morrer, em 1995. Fontes indicam 1965 como o ano em que a atividade da igreja se tornou visível e começou a crescer."
+  },
+  "TKM": {
+    "slug": "turcomenistao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/turcomenistao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 35,
+      "pontuacao": 71,
+      "religiao_oficial": "Islamismo",
+      "capital": "Ashgabat",
+      "populacao": "6,7 milhões",
+      "populacao_crista": "95 mil"
+    },
+    "resumo": "Na atmosfera totalitária do país, a vida dos cristãos pode ser sufocante: todos os cidadãos são monitorados, mas quem é suspeito de frequentar igrejas sofre vigilância ainda maior. Os protestantes são frequentemente considerados “extremistas” por atividades não sancionadas, há restrições rigorosas à posse de material religioso e proibição da educação religiosa privada, e registrar novas igrejas é praticamente impossível. Até as igrejas ortodoxas russas e apostólicas armênias podem ser observadas durante os cultos. A perseguição vem também de pessoas próximas, como familiares.",
+    "mulheres": "Numa cultura em que as mulheres são consideradas inferiores, as convertidas são particularmente vulneráveis a espancamentos, prisão domiciliar, abuso verbal, ameaças, rejeição, sequestro e casamento forçado. A violência sexual também ocorre, muitas vezes para intimidar maridos, famílias e igrejas, e quase nunca é denunciada pelo estigma e pela vergonha, o que garante impunidade aos agressores.",
+    "homens": "A liderança de famílias e igrejas é tipicamente masculina, então a perseguição que os homens sofrem atinge outros, trazendo dificuldades financeiras às famílias e medo às congregações. Treinar líderes é difícil por causa das restrições ao treinamento religioso, cristãos no serviço militar podem enfrentar hostilidade, e muçulmanos podem obstruir negócios de homens cristãos.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Pela unidade do povo de Deus, conforme João 17.21, para que Deus derrube muros e o amor entre cristãos seja evidente.",
+      "Pelos líderes cristãos fortemente monitorados pelo regime, para que tenham segurança e coragem.",
+      "Por cura e esperança dos muçulmanos que decidem seguir a Jesus e enfrentam rejeição."
+    ],
+    "historia": "A habitação humana no Sul do território é rastreável desde a era paleolítica. Os turcomanos chegaram provavelmente no século 11, sem ligação com civilizações anteriores da região, e até 1924 nunca tiveram nem unidade política nominal: eram tribos nômades independentes ou sujeitas a vizinhos persas ou aos canatos de Khiva e Bucara. Depois da Revolução Russa, o território foi palco de conflitos esporádicos durante a Guerra Civil (1918–1920).",
+    "contexto": "Embora o islamismo, sobretudo sunita, seja a principal religião, seria errado chamar o país de muçulmano: cerca de 70 anos de ateísmo soviético deixaram profunda influência, e o governo é firmemente secular e mantém o islamismo sob controle. Os cidadãos seguem a cultura islâmica básica em vez de ensinamentos rígidos. Há pequenos grupos xiitas, sobretudo de iranianos étnicos, azeris e curdos, e as categorias seguintes são agnósticos e ateus, concentrados principalmente na capital.",
+    "historia_igreja": "Missionários nestorianos foram os primeiros cristãos na Ásia Central, no século 4. A partir do século 5, o território recebeu a tribo turca Oghuz, ancestral dos turcomanos, e no século 8 o islamismo chegou pela rota da seda e os cristãos desapareceram. No século 16 o país passou aos canatos de Khiva e Bucara. A presença cristã atual data do século 19, a partir de 1867, quando o Império Russo expandiu seu território."
+  },
+  "ETH": {
+    "slug": "etiopia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/etiopia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 36,
+      "pontuacao": 70,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Adis Abeba",
+      "populacao": "118,5 milhões",
+      "populacao_crista": "81,3 milhões"
+    },
+    "resumo": "A perseguição é complexa e varia conforme o tipo de cristão e a região. Convertidos do islamismo podem sofrer desde rejeição familiar até violência física e, em regiões de maioria muçulmana, ataques de multidões, discriminação e incêndio de igrejas, agravados pela frágil situação de segurança. A Igreja Ortodoxa Etíope tem grande influência na identidade nacional, e suas facções ultraconservadoras costumam retratar protestantes e evangélicos como estrangeiros e antipatrióticos, o que gera estigma e pressão sobre quem deixou a ortodoxia.",
+    "mulheres": "Mulheres e meninas cristãs enfrentam perseguição em que se combinam violência de gênero, conflito e insegurança alimentar. O rapto de noivas e o casamento forçado continuam generalizados, com relatos de homens muçulmanos incentivados a casar com cristãs, e as convertidas podem ser forçadas a casar, mantidas em prisão domiciliar ou expulsas. O abuso sexual e físico dentro do casamento é comum e até tolerado, e pode ser usado para punir quem deixa a religião da comunidade.",
+    "homens": "Homens e meninos cristãos correm risco de ataque, deslocamento, roubo e morte, sobretudo em invasões e agitação civil, e muitos enfrentam recrutamento forçado por grupos armados. Como provedores e líderes de igreja, são alvos estratégicos. Em regiões de maioria muçulmana, as autoridades não protegem os cristãos, interferem na liderança da igreja e prendem. Convertidos são pressionados pelas famílias, perdem o sustento e muitas vezes fogem, e alguns são atraídos com incentivos financeiros para abandonar o cristianismo.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus livre os cristãos de origem muçulmana da violência e una seu povo.",
+      "Por proteção dos cristãos que vivem em áreas onde extremistas islâmicos estão ativos.",
+      "Pelo trabalho da Portas Abertas com parceiros locais, como cuidados pós-trauma e projetos escolares."
+    ],
+    "historia": "Por muitos séculos a Etiópia fez parte do Império de Axum, que se estendia a áreas dos atuais Iêmen, Sudão e Eritreia e terminou por volta de 940. Em 1974, o exército depôs o último rei da dinastia salomônica, e a junta de Mengistu Hailemariam seguiu a ideologia socialista até ser expulsa por rebeldes em 1991. O EPRDF chegou ao poder, e uma Constituição foi redigida em 1995. A guerra com a Eritreia ocorreu de 1998 a 2000, e em 2018 o primeiro-ministro Abiy Ahmed assinou um acordo de paz.",
+    "contexto": "A Etiópia sempre teve profundas raízes cristãs, com a Igreja Ortodoxa Etíope e, desde o século 19, várias denominações protestantes. O islamismo remonta à hijrah de 615, e o país se apresenta como baluarte do cristianismo diante de seus vizinhos islâmicos, narrativa usada na “guerra global contra o terrorismo”. Há uma minoria muçulmana importante, com longa tradição sufi.",
+    "historia_igreja": "É uma das nações mais antigas da África a aceitar o cristianismo, que entrou no século 4, no Império de Axum, quando a família real se converteu. A igreja manteve forte relação com a Igreja Copta do Egito e reconheceu o patriarca de Alexandria até 1959, e o cristianismo ortodoxo foi religião do Estado até 1974. O catolicismo veio pela relação com os portugueses no século 16, e a tentativa de mudar a religião do Estado causou derramamento de sangue."
+  },
+  "CMR": {
+    "slug": "camaroes",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/camaroes/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 37,
+      "pontuacao": 70,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Yaoundé",
+      "populacao": "30,1 milhões",
+      "populacao_crista": "17,4 milhões"
+    },
+    "resumo": "Os cristãos sofrem perseguição em várias frentes. No Norte, o extremismo islâmico avança, e Boko Haram e outros grupos atacam cristãos, com sequestros, incêndios de igrejas e exclusão da vida comunitária. Convertidos do islamismo correm riscos severos, e até possuir uma Bíblia pode provocar violência. O controle por clãs, o crime organizado e a corrupção agravam a vulnerabilidade, e sob leis antiterrorismo amplas cristãos que denunciam abusos do Estado enfrentam vigilância, intimidação e prisão. Centenas de igrejas que criticaram o regime foram afetadas.",
+    "mulheres": "No extremo Norte, Boko Haram e ISWAP sequestram mulheres e meninas cristãs e as forçam a casamento, escravidão sexual ou até a atuar como bombardeiras suicidas. O conflito em outras partes do país aumentou os riscos, com violência de gênero por forças do governo e separatistas. As convertidas de origem muçulmana ou animista sofrem prisão domiciliar, casamento forçado ou expulsão, e as casadas, divórcio, perda da guarda dos filhos e da herança.",
+    "homens": "Homens e meninos sofrem perseguição severa, sobretudo no extremo Norte e em regiões de conflito: Boko Haram e separatistas sequestram, torturam e recrutam à força, com líderes de igreja, estudantes e professores como alvos. Escolas missionárias foram atacadas e clérigos, sequestrados. Quem resiste à corrupção ou denuncia injustiças arrisca prisão, tortura e boicotes, e muitos fogem, deixando famílias empobrecidas.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por estabilidade no país e para que os líderes garantam segurança a todos.",
+      "Para que Deus proteja seu povo no extremo Norte, onde os ataques do Boko Haram continuam.",
+      "Pelos projetos de geração de renda dos parceiros locais da Portas Abertas, para que fortaleçam a igreja."
+    ],
+    "historia": "Há evidências de presença humana há pelo menos 50 mil anos. O reino mais conhecido é Sao, que surgiu perto do Lago Chade, provavelmente no século 5, teve auge entre os séculos 9 e 15 e foi destruído pelo estado de Kotoko. O islamismo se tornou força poderosa no Norte e no Centro por conquista, imigração e comércio, e os fulani, seus principais mensageiros, entraram no Norte no século 18.",
+    "contexto": "A comunidade islâmica se concentra no Norte e as comunidades cristãs são mais densas no Sul e no Oeste. Quem quer se converter do islamismo é severamente impedido, e em partes de maioria muçulmana há um processo de radicalização. Convertidos são ameaçados quando se encontram Bíblias ou literatura cristã com eles, não são livres para expressar a fé nem com a família e, em áreas remotas do Nordeste, enfrentam problemas com as comunidades locais. No Norte, crianças cristãs foram forçadas por parentes não cristãos a assistir a aulas islâmicas.",
+    "historia_igreja": "Os portugueses levaram o cristianismo em 1429, mas a Igreja Católica só começou oficialmente a fundar congregações no fim do século 19. A Sociedade Missionária Batista de Londres enviou missionários em 1845, liderados por Alfred Saker junto com pregadores batistas das Índias Ocidentais, sobretudo da Jamaica. Os presbiterianos americanos chegaram em 1879, e quando a Alemanha colonizou a região, em 1880, os esforços protestantes passaram a batistas alemães e missionários da Basileia. Missionários alemães católicos abriram a primeira missão católica bem-sucedida em 1890."
+  },
+  "OMN": {
+    "slug": "oma",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/oma/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 38,
+      "pontuacao": 70,
+      "religiao_oficial": "Islamismo",
+      "capital": "Muscate",
+      "populacao": "4,8 milhões",
+      "populacao_crista": "191 mil"
+    },
+    "resumo": "A perseguição depende muito de quem é o cristão. Estrangeiros geralmente podem adorar livremente, desde que não compartilhem a fé, mas convertidos do islamismo sofrem pressão significativa da família, do governo e da comunidade para renunciar, podendo perder emprego e casa e ter problemas com guarda de filhos e herança. Muçulmanos nascidos no exterior que se convertem são controlados sobretudo pelo ambiente social de seus países de origem. O governo continua deportando cristãos expatriados acusados de proselitismo.",
+    "mulheres": "Numa sociedade conservadora, as mulheres vivem sob rígida tutela masculina, reforçada pela Lei do Estatuto Pessoal, que limita direitos de casamento, guarda e herança. As convertidas sofrem prisão domiciliar, isolamento, negação de recursos cristãos e abuso familiar, e as solteiras podem ser coagidas a casar com muçulmanos, enquanto mulheres registradas como muçulmanas não podem legalmente casar com cristãos. Empregadas domésticas cristãs estrangeiras sofrem com frequência abuso sexual e tratamento semelhante à escravidão, embora não principalmente por causa da fé.",
+    "homens": "Para os homens, a conversão tem consequências severas: ostracismo da família e da comunidade, perda de apoio financeiro, educação e emprego numa sociedade baseada em redes, impossibilidade de casar e, para os casados, divórcio e perda automática da guarda dos filhos. Muitos são expulsos de casa e ficam extremamente vulneráveis, e cristãos estrangeiros sofrem discriminação no trabalho e risco de perder a permissão por atividades visíveis de fé.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus proteja os novos convertidos e os ajude a encontrar comunidade cristã com segurança.",
+      "Para que os cristãos permaneçam confiantes e esperançosos mesmo quando as autoridades tentam esmagar sua fé.",
+      "Em gratidão pela tolerância da monarquia omani com cristãos estrangeiros.",
+      "Para que sejam sal e luz em suas comunidades."
+    ],
+    "historia": "Na confluência do Golfo Pérsico e do Mar da Arábia, Omã foi um sultanato influente na Idade Média. Ocupado por portugueses, otomanos e outros, tornou-se poderoso no século 18, controlando a costa do atual Irã e Paquistão, colonizando Zanzibar e portos quenianos e comerciando até a península malaia. Foi subjugado pelos britânicos, com tratados de amizade assinados em 1798 que preservaram sua independência, e a descoberta de petróleo nos anos 1970 mudou o país. O sultão Qaboos, que derrubou o pai em 1970, usou os lucros para desenvolvê-lo.",
+    "contexto": "O islamismo é a religião do Estado e a legislação se baseia sobretudo na lei islâmica. Cerca de 75% dos omanis praticam o ibadismo, um “conservadorismo moderado” que mistura austeridade e tolerância e, segundo especialistas, não é violento, focando na “dissociação”, uma atitude interna de reter a amizade. Todas as escolas públicas incluem aulas de islamismo.",
+    "historia_igreja": "O cristianismo mais antigo veio do trabalho de Theophilus Indus, enviado ao Iêmen por Constâncio II, que ergueu duas igrejas ali e uma em Sohar, em Omã. Em 424, o bispo Yohannan, de Sohar, participou do Concílio Nestoriano, e o bispo Stephanus, de Sohar, esteve num concílio em 676, depois da chegada tradicional do islamismo em 632. A tribo azd, que migrou do Iêmen por causa da perseguição de governantes judeus, era provavelmente cristã, e Omã sempre foi centro da rota comercial entre Iraque e Índia."
+  },
+  "MOZ": {
+    "slug": "mocambique",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/mocambique/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 39,
+      "pontuacao": 69,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Maputo",
+      "populacao": "35,8 milhões",
+      "populacao_crista": "19,9 milhões"
+    },
+    "resumo": "Embora Moçambique tenha caído duas posições na Lista 2026, a perseguição piorou ligeiramente. A província de Cabo Delgado é o epicentro da violência: no Norte, extremistas islâmicos, alguns afiliados ao Estado Islâmico, atacam explicitamente comunidades cristãs, queimando igrejas, destruindo casas e matando civis. Alguns convertidos do islamismo no Norte mantêm a fé em segredo por risco de sequestro ou execução e rejeição da família. No Sul há menos pressão pela fé, mas cristãos de todo o país podem sofrer oposição se criticarem políticas do governo.",
+    "mulheres": "A violência extremista no Norte atinge severamente mulheres e meninas cristãs, que correm risco de sequestro, casamento forçado, abuso e escravidão sexual, com vítimas de até sete anos. Muitas ficam deslocadas, expostas a mais abusos, trauma, tráfico e perda de educação. Em regiões de maioria muçulmana enfrentam códigos de vestimenta islâmicos obrigatórios e barreiras à escolarização, e as convertidas do islamismo ou de religiões tradicionais africanas sofrem casamento forçado, herança negada e perda da guarda dos filhos.",
+    "homens": "A insurgência islâmica impulsiona a perseguição a homens e meninos no Norte: muitos são mortos se recusam renunciar à fé, outros são deslocados e perdem casas e terras, meninos correm risco de recrutamento por milícias e homens mais velhos são frequentemente executados. Convertidos enfrentam divórcio, expulsão, ataques e às vezes morte. Os líderes de igreja, em sua maioria homens, são alvo de extremistas e do governo, criando um vácuo de liderança que deixa muitas congregações sem cuidado pastoral.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Pelos entes queridos das vítimas de ataques e pelos deslocados que deixaram suas casas.",
+      "Para que Deus proteja a igreja de ataques violentos e a encoraje na fé.",
+      "Para que a estabilidade retorne e todos possam reconstruir suas vidas."
+    ],
+    "historia": "Na era colonial a história foi escrita como se começasse com a chegada dos portugueses, mas a região já tinha comunidades complexas baseadas em agricultura, pecuária, mineração, artesanato e comércio antes dos primeiros colonizadores, no século 16. A viagem de Vasco da Gama em 1498 marcou a entrada europeia no comércio do Oceano Índico. Os portugueses controlaram a Ilha de Moçambique e Sofala no início do século 16 e tomaram boa parte do comércio costeiro dos árabes entre 1500 e 1700, e no século 19 britânicos e franceses se envolveram cada vez mais.",
+    "contexto": "A população imigrante sul-asiática e as províncias do Nordeste são predominantemente muçulmanas, sobretudo no litoral, enquanto algumas áreas do interior do Nordeste concentram comunidades cristãs. Os cristãos são mais numerosos no Sudeste e no Centro, onde também há muçulmanos. A distinção entre sunitas e xiitas importa pouco para muitos, e clérigos africanos têm buscado formação em países como Egito, Kuwait, África do Sul e Arábia Saudita, voltando com uma abordagem mais fundamentalista.",
+    "historia_igreja": "O cristianismo foi introduzido por dominicanos católicos em 1506, depois com a ajuda de jesuítas e agostinianos. O protestantismo chegou em 1881, com missionários da Junta Americana de Comissários para Missões Estrangeiras, e o Tratado de Berlim, de 1885, tornou as autoridades mais abertas a missionários não católicos. Em 1889, o bispo William Taylor, da Igreja Episcopal Metodista, mudou-se para o país."
+  },
+  "KGZ": {
+    "slug": "quirguistao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/quirguistao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 40,
+      "pontuacao": 68,
+      "religiao_oficial": "Islamismo",
+      "capital": "Bishkek",
+      "populacao": "6,9 milhões",
+      "populacao_crista": "207 mil"
+    },
+    "resumo": "Os cristãos continuam enfrentando forte oposição da família e da comunidade, e a hostilidade das autoridades aumentou com controles religiosos mais rígidos. Convertidos do islamismo podem sofrer prisão domiciliar e violência física, seus filhos podem sofrer bullying na escola, e imãs às vezes são chamados a pregar contra eles, o que pode levar à expulsão da comunidade. Em algumas regiões, a influência local significa que cristãos vulneráveis não podem contar com as autoridades. Novas leis religiosas sufocaram as igrejas, com exigências inatingíveis para registrar uma igreja.",
+    "mulheres": "Onde a cultura islâmica tradicional predomina, as mulheres são vistas como subordinadas e não têm liberdade de decidir a religião, e as convertidas podem sofrer prisão domiciliar, separação dos filhos e violência sexual. A prática do rapto de noivas persiste, facilitada por autoridades locais que fazem pouco para impedi-la, o que expõe as cristãs de regiões conservadoras a sequestro e casamento forçado.",
+    "homens": "A discriminação no trabalho e na comunidade tem repercussões amplas e duradouras: como provedores, quando moradores boicotam um negócio cristão ou um empregador demite um cristão por sua fé, a família toda sofre, e a pressão da família extensa pode agravar. Líderes de igrejas, sobretudo os ativos no evangelismo, enfrentam hostilidade das autoridades, com multas e ataques físicos.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que a igreja tenha coragem e sabedoria diante das restrições das novas leis religiosas.",
+      "Para que Deus proteja e sustente os cristãos convertidos do islamismo.",
+      "Por segurança das igrejas domésticas e pela continuidade de suas reuniões."
+    ],
+    "historia": "Por estar na Rota da Seda, o território teve vasta cultura e várias dominações estrangeiras, mas era dominado por tribos e clãs independentes e só se tornou Estado independente com o fim da União Soviética, em 1991. Em março de 2005, a Revolução das Tulipas levou à fuga do presidente Askar Akayev, e o governo seguinte, de Kurmanbek Bakiyev, logo enfrentou os mesmos problemas de corrupção, ineficiência e opressão.",
+    "contexto": "Segundo o World Christian Database, 87,7% da população é muçulmana, sobretudo sunita, com influência considerável do sufismo tradicional no campo montanhoso, e o governo é estritamente secular. Os 7,1% de agnósticos e ateus, concentrados nas grandes cidades, resultam de 70 anos de doutrinação ateísta soviética. O crescimento inicial do cristianismo após 1991 parou, e os números agora diminuem.",
+    "historia_igreja": "As origens cristãs datam dos séculos 7 e 8, com o nestorianismo, quase na mesma época em que o islamismo entrou. Os nestorianos viveram em paz depois da invasão mongol, até que governantes mongóis se converteram ao islamismo e Timur erradicou o cristianismo da região no século 14. No século 16 o território passou a principados uzbeques, e em 1867 o Império Russo trouxe russos étnicos, em geral da Igreja Ortodoxa Russa."
+  },
+  "TUR": {
+    "slug": "turquia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/turquia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 41,
+      "pontuacao": 68,
+      "religiao_oficial": "Islamismo",
+      "capital": "Ancara",
+      "populacao": "86,7 milhões",
+      "populacao_crista": "251 mil"
+    },
+    "resumo": "A perseguição é muitas vezes impulsionada pela noção de que ser turco é ser muçulmano: quem pratica abertamente outra fé, sobretudo se convertido do islamismo, é visto como traidor e causador de desonra para a família e a nação, o que gera discriminação generalizada. Convertidos sofrem assédio, rejeição e ameaças de familiares e de grupos islâmicos radicais, e muitos escondem a fé e levam uma vida dupla, embora outros vivam a fé abertamente. Em geral os cristãos têm acesso limitado a empregos públicos e podem sofrer discriminação em empregos privados, e em áreas de conflito étnico as comunidades históricas ficam no fogo cruzado.",
+    "mulheres": "As mulheres podem sofrer violência doméstica baseada no gênero e até assassinato, e as muçulmanas que se convertem são especialmente vulneráveis: prisão domiciliar, espancamentos, abuso sexual, assédio e rejeição. As solteiras ou financeiramente dependentes correm mais risco, e muitas jovens escondem a fé para não serem expulsas ou deserdadas. Numa cultura de honra e vergonha, as vítimas sofrem em silêncio, e há pressão pública para seguir o vestuário e a conduta islâmicos.",
+    "homens": "Os homens enfrentam pressão para seguir o islamismo, parte da identidade turca, e têm mais chance de ser presos ou detidos. Convertidos muitas vezes perdem o emprego, são rejeitados pela família ou forçados a frequentar mesquitas, e no serviço militar soldados cristãos sofrem assédio e bullying. Líderes de igreja podem receber ameaças de morte e intimidação, e a discriminação limita o sustento de famílias e comunidades.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os líderes políticos turcos sejam alcançados e o povo veja o amor e a esperança de Jesus na vida dos cristãos.",
+      "Em louvor pela igreja turca, para que seja capacitada a cumprir a grande comissão.",
+      "Para que os novos convertidos encontrem pertencimento e esperança na família de Cristo."
+    ],
+    "historia": "Desde cedo a identidade religiosa marcou a história, com pessoas divididas mais por crença do que por etnia. No século 19, minorias cristãs foram influenciadas pelo nacionalismo iluminista, o que levou gregos e búlgaros a querer independência do Império Otomano. O medo desse nacionalismo foi uma das razões do genocídio de armênios, siríacos e gregos ortodoxos no fim do século 19 e na Primeira Guerra Mundial, o que levou a maior marginalização das minorias.",
+    "contexto": "Segundo o World Christian Database, 98,3% da população é muçulmana, um terço alevita ou xiita, e só 0,2% é cristã. O país passa de estritamente secular para um baseado em normas e valores islâmicos, e sob Erdogan o secularismo diminuiu. Quando ele prevalecia, os cristãos tinham muitas restrições, pois o Estado o interpretava como permissão para controlar. Um verdadeiro turco é visto como muçulmano, e a conversão é considerada “insulto turco”, podendo resultar em processos judiciais e prisão.",
+    "historia_igreja": "As congregações foram fundadas desde os primeiros dias do Novo Testamento, graças ao apóstolo Paulo e seus cooperadores, e João escreveu o Apocalipse a sete congregações do Oeste do país. Sob Constantino (306–337), o cristianismo virou religião do Estado e Constantinopla, atual Istambul, se tornou centro cristão. Em 1054 o Grande Cisma dividiu as igrejas ocidental e oriental, e Bizâncio passou a ser o centro do cristianismo ortodoxo. Em 1453, os otomanos conquistaram o império ao tomar a capital."
+  },
+  "EGY": {
+    "slug": "egito",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/egito/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 42,
+      "pontuacao": 68,
+      "religiao_oficial": "Islamismo",
+      "capital": "Cairo",
+      "populacao": "116,3 milhões",
+      "populacao_crista": "10,1 milhões"
+    },
+    "resumo": "A maioria das violações da liberdade religiosa ocorre no nível comunitário, como assédio a mulheres cristãs e multidões que expulsam cristãos após acusações de blasfêmia, sobretudo no Alto Egito rural e em áreas urbanas pobres onde há extremistas islâmicos. O presidente fala bem da comunidade cristã histórica, mas a fraca aplicação da lei deixa os cristãos vulneráveis, e a construção de novas igrejas segue restrita apesar da promessa de uma igreja em cada novo bairro. Convertidos do islamismo sofrem enorme pressão da família para voltar, e os serviços de segurança os controlam de perto, com detenções e abusos.",
+    "mulheres": "As cristãs, sobretudo no campo, enfrentam aliciamento, conversão forçada e assédio sexual numa cultura de honra e vergonha, com agressores que costumam agir com impunidade e vítimas silenciadas. As coptas sofrem assédio constante por não usar véu, e meninas de famílias vulneráveis são atraídas para casamentos precoces com muçulmanos e pressionadas a se converter. As convertidas do islamismo correm mais risco: podem ser trancadas, espancadas, mortas por “honra” ou divorciadas, e perder a guarda dos filhos.",
+    "homens": "Os homens cristãos enfrentam discriminação sistêmica, e poucos são nomeados para altos cargos militares ou governamentais. Convertidos costumam mudar nomes muçulmanos, mas no campo, com alto desemprego, o preconceito contra nomes cristãos pode prejudicar os jovens e torná-los vulneráveis a incentivos financeiros para se converter ou voltar ao islamismo. Líderes de igreja, quase todos homens, são alvos fáceis de assédio, assassinato ou ataques a suas famílias, e a violência extremista alimenta o medo e a emigração.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que cristãos vistos como cidadãos de segunda classe não se desanimem e reconheçam seu valor aos olhos do Senhor.",
+      "Pela segurança dos novos convertidos e pelo fortalecimento de sua fé.",
+      "Pelo trabalho dos parceiros locais da Portas Abertas, para que famílias sejam fortalecidas."
+    ],
+    "historia": "O Egito foi lar de uma das principais civilizações do Oriente Médio antigo e de uma das primeiras sociedades alfabetizadas e urbanas. O Egito faraônico prosperou por três mil anos, com breves períodos de governo estrangeiro. Depois de Alexandre, o Grande (323 a.C.), integrou o mundo helenístico, foi conquistado pelos romanos em 30 a.C. e permaneceu no Império Bizantino até a conquista árabe muçulmana de 639 a 642. Tornou-se um centro cultural e intelectual do mundo islâmico e árabe.",
+    "contexto": "O islamismo é a religião dominante, e a Portas Abertas estima 9,7 milhões de cristãos, embora o número seja debatido, com cristãos egípcios alegando mais de 15% da população. Apesar das raízes profundas, anteriores ao islamismo, os cristãos são em geral marginalizados e tratados como cidadãos de segunda classe. Estão espalhados pelo país, mas concentrados no Alto Egito e em grandes cidades como Cairo e Alexandria.",
+    "historia_igreja": "A Igreja Ortodoxa Copta tem como fundador, segundo a tradição, o apóstolo Marcos. Em Alexandria, a igreja desenvolveu no século 2 sua própria escola teológica e foi lar de Atanásio, defensor da Trindade. O Egito foi o berço do monasticismo, e o mosteiro de Santo Antônio inspirou o monasticismo europeu. A perseguição sob o domínio romano foi sempre severa, e por isso o calendário copta começa em 284, ano em que Diocleciano se tornou imperador."
+  },
+  "COM": {
+    "slug": "comores",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/comores/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 43,
+      "pontuacao": 68,
+      "religiao_oficial": "Islamismo",
+      "capital": "Moroni",
+      "populacao": "883 mil",
+      "populacao_crista": "4,6 mil"
+    },
+    "resumo": "As minorias religiosas, sobretudo os cristãos, sofrem restrições extremas para praticar abertamente ou mesmo discutir sua fé. Famílias cristãs, especialmente as convertidas do islamismo, precisam enviar os filhos a escolas islâmicas ou enfrentar alienação. O culto público, ou até conversar sobre o cristianismo em espaços públicos, pode ser interpretado como proselitismo, uma infração punível, e quem é suspeito de conversão pode ser ostracizado pela comunidade. Por isso muitos cristãos, sobretudo convertidos, vivem a fé em segredo.",
+    "mulheres": "Apesar da tradição de forte liderança feminina, a vida social e de adoração é dominada por normas islâmicas, e as convertidas enfrentam ostracismo, vigilância familiar e deserdação, com forte pressão para voltar ao islamismo por casamento forçado ou divórcio. A conversão do islamismo continua criminalizada. As cristãs também são vulneráveis a violência doméstica, rejeição comunitária e tráfico, já que as ilhas servem de trânsito para exploração no exterior.",
+    "homens": "Homens e meninos, sobretudo convertidos, enfrentam intensa pressão familiar e comunitária, com risco de divórcio e expulsão de casa pela norma cultural de morar com os sogros, privação de comida, abuso verbal ou coação para abandonar a fé, e alguns são forçados a fugir. Há discriminação e exclusão no trabalho, e líderes de igreja, geralmente homens, são especialmente vulneráveis a vigilância, prisão e restrições às atividades cristãs.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus proteja e sustente os cristãos que se convertem do islamismo e sofrem opressão da família e da comunidade.",
+      "Por segurança e sabedoria dos cristãos forçados a seguir a Jesus em segredo.",
+      "Para que Deus dê oportunidades a líderes e igrejas continuarem seu trabalho."
+    ],
+    "historia": "As ilhas podem ter sido habitadas por povos malaio-polinésios nos séculos 5 e 6 ou antes, com outros povos vindos de países africanos próximos e de Madagascar, e uma parte significativa de árabes. Só apareceram no mapa europeu em 1527, e os primeiros europeus a visitá-las foram portugueses no século 16. A França tomou Mayotte em 1843 e colocou as outras três ilhas sob proteção em 1886, e em 1947 virou território francês no exterior. Em 1961 recebeu autonomia interna.",
+    "contexto": "O país é de maioria muçulmana, sobretudo sunita, e segundo o World Christian Database apenas cerca de 0,5% é cristão. O governo reconhece feriados islâmicos como nacionais, e as aulas de islamismo, embora não obrigatórias nas escolas estaduais, são associadas às de árabe. Com a baixa qualidade da escola pública e o alto custo das particulares, madraças completam o vácuo educacional, e quase todas as crianças de quatro a sete anos aprendem a ler e recitar o Alcorão. O governo favorece o islamismo.",
+    "historia_igreja": "Os portugueses introduziram o cristianismo em 1517, sem efeito duradouro, e a fé foi reintroduzida pela França quando Mayotte virou colônia em 1843. Depois da independência, em 1975, a Africa Inland Mission expandiu seu trabalho, mas quando o governo passou a se alinhar com países muçulmanos, os missionários foram expulsos em 1978. O trabalho de outros grupos, como a Igreja Adventista do Sétimo Dia, também foi interrompido pelo governo."
+  },
+  "QAT": {
+    "slug": "catar",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/catar/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 44,
+      "pontuacao": 67,
+      "religiao_oficial": "Islamismo",
+      "capital": "Doha",
+      "populacao": "2,7 milhões",
+      "populacao_crista": "390 mil"
+    },
+    "resumo": "Nativos ou migrantes, os cristãos enfrentam grandes obstáculos para expressar e compartilhar a fé. O islamismo é a religião oficial, com política e cultura regidas pelo islamismo wahhabita e pela sharia, identidade que o país quer manter mesmo acolhendo cada vez mais trabalhadores migrantes. A mudança de religião não é reconhecida pelas autoridades e pode causar sérios problemas legais de estado civil e propriedade, além de pressão da família e da comunidade. Migrantes que deixam a religião em que cresceram podem sofrer hostilidade de colegas semelhante à de seus países de origem.",
+    "mulheres": "As mulheres e meninas que se convertem do islamismo podem sofrer prisão domiciliar, abuso físico, tratamento médico forçado e exorcismo, casamento forçado e assassinato por “honra”. As empregadas domésticas, muitas cristãs, frequentemente sofrem assédio sexual ou são tratadas como escravas.",
+    "homens": "Se descobertos como cristãos, os homens podem enfrentar divórcio, separação dos filhos, expulsão de casa e outras ameaças, com efeitos sobre emprego e segurança financeira. Líderes de igreja, geralmente homens, precisam relatar às autoridades detalhes das atividades da igreja e estão sujeitos a escrutínio.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Em louvor pelas igrejas e líderes que servem comunidades expatriadas e podem fazê-lo abertamente.",
+      "Por liberdade de fé e crença, já que nativos catarianos não podem se converter livremente do islamismo.",
+      "Para que Deus proteja os cristãos secretos contra agressões ou prisão."
+    ],
+    "historia": "Numa pequena península desértica ao Norte da Península Arábica, o território foi continuamente habitado, mas de forma escassa, desde a pré-história. Após a expansão do islamismo, foi sujeito ao califado, e depois governado por dinastias locais e estrangeiras antes de passar à dinastia Thani no século 19. A família buscou apoio britânico contra tribos rivais e o Império Otomano, que ocupou o país entre o fim do século 19 e o início do 20, e o Reino Unido controlou a política externa até a independência, em 1971. A família al-Thani domina o país há quase 150 anos.",
+    "contexto": "Há dois grupos de cristãos, estritamente separados. As comunidades de trabalhadores migrantes expatriados são as maiores: evangelizar muçulmanos é rigorosamente proibido e pode levar a perseguição e expulsão, mas grandes eventos de adoração já foram permitidos. O maior problema é a falta de espaço, pois só algumas igrejas podem ter prédios no complexo religioso fora de Doha, e muitos migrantes vivem em condições precárias. O outro grupo são os cristãos de origem muçulmana, locais ou migrantes, que enfrentam o pior da perseguição.",
+    "historia_igreja": "Restos de uma estrutura que se acredita ser uma igreja nestoriana foram achados perto de al-Warkah, ocupada do início do século 7 a meados do 8, e uma cruz nestoriana foi encontrada em Umm al-Maradim. Há muitas evidências documentais do cristianismo na antiga Bit Qatraye, no norte do Golfo Pérsico, e o bispo Isaac de Nínive, do século 7, nasceu no Catar. Nestorianos do Iraque e da Pérsia e cristãos árabes podem ter se mudado para lá nos séculos 4 e 5."
+  },
+  "KAZ": {
+    "slug": "cazaquistao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/cazaquistao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 45,
+      "pontuacao": 67,
+      "religiao_oficial": "Islamismo",
+      "capital": "Astana",
+      "populacao": "20 milhões",
+      "populacao_crista": "3,6 milhões"
+    },
+    "resumo": "As liberdades cristãs são extremamente limitadas por restrições onerosas e vigilância rigorosa, muitas vezes sob o pretexto de combater o extremismo islâmico, e a situação piorou muito desde 2010. Batidas policiais, prisões e multas não são incomuns para protestantes como batistas e pentecostais, vistos como influência estrangeira que mina as autoridades. Em 2022, mudanças na Lei da Religião aumentaram as restrições, dificultando reuniões fora dos locais registrados. As igrejas ortodoxas russas têm menos problemas porque em grande parte não interagem com a população cazaque.",
+    "mulheres": "Na cultura islâmica tradicional, as mulheres são vistas como submissas aos homens, o que aumenta a vulnerabilidade das que seguem a Jesus. Elas podem sofrer abuso físico e verbal, assédio, ameaças e prisão domiciliar, além de sequestro, casamento forçado e agressão sexual.",
+    "homens": "Os líderes de igreja, tipicamente homens, ficam expostos a punições, como multas e restrições de viagem, com forte impacto sobre famílias e congregações. Negócios de homens cristãos podem sofrer boicotes ou ser coagidos a pagar suborno para operar, sobretudo no campo, e o serviço militar também traz desafios imensos.",
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que a Palavra de Deus chegue aos cristãos famintos por alimento espiritual, já que Bíblias e literatura cristã são fortemente restritas.",
+      "Por renovação e certeza da presença do Espírito Santo para igrejas e líderes sempre sob pressão da lei religiosa restritiva.",
+      "Pelos cristãos de origem muçulmana que podem ter perdido família e amigos ao seguir a Jesus."
+    ],
+    "historia": "Ao longo dos séculos, partes do território foram incorporadas a diferentes impérios. No fim do século 15 e início do 16, os cazaques consolidaram um império nômade, mas as dificuldades com os Dzungars atrasaram um Estado unificado e os deixaram menos capazes de resistir à Rússia no Norte. O avanço russo foi lento e pouco violento, mas inevitável, e a ocupação das estepes cazaques foi essencial para a conquista dos muçulmanos da Ásia Central.",
+    "contexto": "Segundo o World Christian Database, 70% da população é muçulmana, sobretudo sunita, mas seria errado chamar o país de muçulmano: os 70 anos de ateísmo soviético deixaram profunda influência, e o governo é firmemente secular e procura manter o islamismo sob controle, com a maioria seguindo meras tradições. Ainda assim, muitos creem que “ser cazaque é ser muçulmano”, e convertidos sofrem forte pressão de familiares, amigos e comunidade, muito mais no campo do que nas grandes cidades, às vezes com abuso físico para trazê-los de volta.",
+    "historia_igreja": "Nos séculos 7 e 8, o cristianismo nestoriano se espalhou pelo Sul do país, e em 1009 missionários nestorianos batizaram um grupo de kereiti, de língua mongol, que adotou nomes cristãos. Timur erradicou o cristianismo no século 14. Na “Grande Purga” dos anos 1930, Stálin deportou muitos religiosos considerados não confiáveis ao Cazaquistão, entre eles cristãos ortodoxos, católicos e protestantes russos, e uma boa parte se estabeleceu ali."
+  },
+  "NPL": {
+    "slug": "nepal",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/nepal/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 46,
+      "pontuacao": 67,
+      "religiao_oficial": "Hinduísmo",
+      "capital": "Catmandu",
+      "populacao": "31,5 milhões",
+      "populacao_crista": "1,4 milhão"
+    },
+    "resumo": "A maior parte da perseguição vem de extremistas hindus, que acreditam que todo nepalês deve ser hindu e que o país deve voltar a ser oficialmente hindu, com laços estreitos com extremistas da Índia. Leis anticonversão dificultam o crescimento da igreja, e converter-se do hinduísmo pode ser muito arriscado, com pressão adicional da família e da comunidade. Em 2025, manifestações massivas levaram à renúncia do primeiro-ministro, e a instabilidade deu cobertura a mais violência e pressão contra cristãos. Um governo provisório foi estabelecido, e as eleições marcadas para março de 2026 podem definir o futuro próximo.",
+    "mulheres": "Mulheres e meninas convertidas são especialmente vulneráveis: prisão domiciliar, fome, abandono, realocação forçada e violência de familiares que tentam forçá-las a renunciar. As casadas podem ser divorciadas e as jovens, deserdadas, e muitas são isoladas de telefones, igrejas e amigos cristãos ou coagidas a casar com não cristãos, com violência doméstica e pressão para seguir rituais hindus. Na sociedade patriarcal, as cristãs de castas inferiores sofrem discriminação constante, assédio e isolamento.",
+    "homens": "Homens e meninos, sobretudo convertidos, pastores e quem está no serviço militar ou governamental, sofrem perseguição severa, com deserdação, herança negada ou documentos de cidadania recusados. Líderes de igreja são alvos frequentes de ameaças, falsas acusações e espancamentos, e em instituições estatais cristãos são pressionados a participar de rituais hindus ou discriminados. A violência e a exclusão os impedem de sustentar a família.",
+    "motores": [
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus proteja e sustente os cristãos de origem hindu, alvo de famílias, comunidades e governos locais.",
+      "Para que a estabilidade retorne e Deus ajude a nova liderança a reconhecer o direito de todos de adorar livremente, já que a instabilidade permite que extremistas ataquem sem medo das consequências.",
+      "Pela conversão dos extremistas hindus que atacam cristãos."
+    ],
+    "historia": "A pré-história consiste sobretudo em tradições lendárias de uma comunidade indígena do Vale de Katmandu, e uma história dinástica se torna possível, com grandes lacunas, a partir da dinastia Licchavi, nos séculos 4 ou 5. O contato com a China começa em meados do século 7, e a dinastia Malla governou do século 10 ao 18. De 1775 a 1951, a política foi marcada por confrontos entre a família real e famílias nobres, e a conquista britânica da Índia obrigou o país a buscar ajuda britânica para preservar a independência.",
+    "contexto": "Segundo o World Christian Database, a maior religião é o hinduísmo, que foi a religião do Estado até o país se tornar república secular, em maio de 2008. Radicais hindus, estimulados pelo sucesso de seus pares na Índia, fazem campanha violenta pelo retorno do hinduísmo como religião oficial, sem sucesso até agora. Os convertidos do hinduísmo são os mais perseguidos, vistos como traidores da fé dos antepassados, e as igrejas protestantes e de origem hindu sofrem pressão de familiares, amigos, comunidades e autoridades locais.",
+    "historia_igreja": "O primeiro registro é de 1628, quando o rei Lakshminarasimha Malla recebeu o jesuíta português Juan Cabral, que ganhou uma placa de cobre permitindo pregar o evangelho. Em 1715 os capuchinhos de Roma criaram uma estação missionária em Katmandu e viveram entre os habitantes de Bhaktapur e Patan por mais de 54 anos, até que, após a conquista de Prithvi Narayan Shah em 1769, os padres e 57 convertidos foram exilados em Bettiah, na Índia. Até 1950, missionários foram proibidos no Nepal."
+  },
+  "COL": {
+    "slug": "colombia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/colombia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 47,
+      "pontuacao": 66,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Bogotá",
+      "populacao": "52,6 milhões",
+      "populacao_crista": "49,8 milhões"
+    },
+    "resumo": "Muitas regiões estão repletas de criminalidade, o que torna a vida muito perigosa para os cristãos, sobretudo líderes de igrejas envolvidos em atividades que ameaçam a influência de gangues e cartéis, como reabilitar ex-membros, proteger jovens do recrutamento ou fazer trabalho humanitário, o que pode gerar ameaças, extorsão e assassinato. Cristãos em áreas indígenas também sofrem oposição: acusados de trair tradições locais, podem enfrentar ameaças, discriminação, processos judiciais e prisão. Alguns optam por permanecer discretos.",
+    "mulheres": "Embora homens e meninos sejam os principais alvos das gangues, as mulheres estão sob ameaça constante. Meninas cristãs podem ser visadas por sua suposta “pureza”, com criminosos ameaçando os pais para que as entreguem, e gangues usam presentes, como motos e smartphones caros, para atraí-las. Essas táticas afetam a comunidade cristã e fortalecem os criminosos.",
+    "homens": "Onde os grupos criminosos predominam, meninos podem ser recrutados à força e sequestrados, e homens que falam contra a criminalidade enfrentam extorsão, violência e assassinato. No último ano, vários líderes de igreja desapareceram, alguns foram encontrados mortos, o que espalhou medo e forçou vários líderes a fugir.",
+    "motores": [
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Intolerância secular",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus traga paz e dê ao povo força para ser pacificador.",
+      "Pela proteção dos cristãos que encontram Jesus em comunidades indígenas, para que sejam aceitos e não oprimidos.",
+      "Pela proteção dos cristãos que vivem em locais dominados por cartéis de drogas."
+    ],
+    "historia": "Mesmo antes da conquista espanhola, a parte montanhosa ocidental atraía grande parte da população, com culturas indígenas avançadas, sobretudo no planalto da Cordilheira Oriental dos Andes. A conquista europeia começou em 1525, com Santa Marta, e Cartagena, fundada em 1533, virou grande base naval e mercantil do império espanhol. Bogotá foi fundada em 1538, e o país se tornou independente da Espanha entre 1810 e 1819.",
+    "contexto": "A Constituição de 1991 garante a liberdade de religião, e o governo não tem religião oficial: todas as denominações são iguais perante a lei, embora o Estado mantenha uma concordata com a Santa Sé e o Decreto 354 com 13 grupos cristãos não católicos, que garante reconhecimento legal de casamentos e protege propriedades de culto de apreensão. O Estado reconhece o setor religioso como importante para a paz e chama igrejas e organizações religiosas a participar.",
+    "historia_igreja": "O cristianismo chegou com a conquista espanhola, após 1492, e a Igreja Católica se estabeleceu como única denominação. Depois da independência de 1810, o Vaticano estabeleceu relações formais em 1835, e a crescente presença política da Igreja gerou tensão: ela foi perseguida e ordens como os jesuítas foram expulsas em 1851 e 1861. Em 1877, a tentativa do governo radical de criar um sistema educacional “neutro” degenerou em guerra civil, e a Constituição de 1886 reconheceu a Igreja Católica como base da nação."
+  },
+  "TCD": {
+    "slug": "chade",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/chade/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 48,
+      "pontuacao": 66,
+      "religiao_oficial": "Islamismo",
+      "capital": "N’Djamena",
+      "populacao": "19,4 milhões",
+      "populacao_crista": "5,9 milhões"
+    },
+    "resumo": "Num contexto instável e cada vez mais autoritário, os cristãos, sobretudo convertidos do islamismo e de religiões africanas tradicionais, enfrentam várias formas de perseguição, com vigilância, assédio e repressão arbitrária. Conflitos no Sudoeste aumentaram as tensões entre comunidades, com deslocamentos, destruição de propriedades e ciclos de retaliação. Boko Haram e ISWAP seguem ativos na região da Bacia do Lago Chade, atacando vilarejos cristãos, queimando igrejas e sequestrando cristãos, sobretudo em zonas rurais com pouca proteção estatal.",
+    "mulheres": "A violência de gênero e as normas sociais prejudiciais continuam generalizadas. O Boko Haram e outros grupos sequestraram, abusaram sexualmente e forçaram ao casamento mulheres e meninas, sobretudo em áreas rurais e campos de deslocados. As convertidas do islamismo enfrentam pressão para renunciar, casamento forçado, divórcio, perda da guarda dos filhos e violência, e muitas são mantidas em prisão domiciliar, o que restringe o acesso à comunidade cristã.",
+    "homens": "Homens e meninos cristãos enfrentam sequestro, conversão forçada e recrutamento pelo Boko Haram e outros grupos, o que arruína as famílias economicamente. Quem fica sofre assédio no trabalho, negação de promoções e exclusão econômica, sobretudo em cargos governamentais e militares dominados por muçulmanos. No Sul, meninos podem ser submetidos a rituais de iniciação prejudiciais, com açoites, queimaduras, humilhação sexual, drogas e enterros simulados, e convertidos arriscam expulsão, deserdação e abuso.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus mude o coração dos militantes e proteja seu povo onde extremistas islâmicos estão ativos.",
+      "Pelos cristãos que enfrentam forte pressão da família e da comunidade, para que tenham esperança e paz.",
+      "Para que a igreja local permaneça forte e mostre a esperança de Cristo à nação, num país instável por causa das crises de violência e deslocamento nos vizinhos."
+    ],
+    "historia": "O Chade é um país sem litoral, com fronteiras com Líbia, Sudão, República Centro-Africana, Camarões, Nigéria e Níger, e foi um dos 17 países africanos independentes em 1960. A situação depois da independência decepcionou muitos chadianos, e François Tombalbaye, o “pai da independência”, tornou-se um presidente autocrático. O principal desafio foi a guerrilha FROLINAT, no Norte, que as tropas francesas ajudaram a conter, sem derrotar os rebeldes do Nordeste. Tombalbaye ficou no poder até ser assassinado, em 1975.",
+    "contexto": "O islamismo chegou no século 11 e só se tornou a religião nacional nos séculos 16 e 17, quando o país virou rota do comércio de escravos muçulmano. Embora seja uma república secular, o islamismo permeia a sociedade e leva alguns a mostrar hostilidade contra cristãos, vistos como infiéis. Árabes, canembus, bornus e buduma são mais muçulmanos e têm relação antagônica com wadai bulala, kobe, tama, barma e mesmedje, em sua maioria cristãos. Há ainda muitos refugiados e deslocados internos, que em maio de 2021 somavam, segundo o ACNUR, 504.584 e 401.511.",
+    "historia_igreja": "Padres católicos tentaram estabelecer uma missão no início dos anos 1660, mas essa foi a única tentativa até o controle total da França, e uma presença institucionalizada só veio em 1946. Os batistas entraram em 1925, a Missão Unida do Sudão em 1927 e os adventistas do sétimo dia estão ativos desde 1967."
+  },
+  "JOR": {
+    "slug": "jordania",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/jordania/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 49,
+      "pontuacao": 65,
+      "religiao_oficial": "Islamismo",
+      "capital": "Amã",
+      "populacao": "11,4 milhões",
+      "populacao_crista": "170 mil"
+    },
+    "resumo": "A maioria dos cristãos pertence a igrejas ortodoxas ou católicas e em geral tem relativamente alto grau de liberdade religiosa, mas pode sofrer discriminação no emprego, monitoramento do governo e restrições à pregação pública. Os convertidos do islamismo correm risco de violência, prisão ou morte por parte da família ou de extremistas se expressarem a fé abertamente, e igrejas não reconhecidas, sobretudo as que evangelizam, podem sofrer assédio. Apesar da reputação de tolerância e diálogo inter-religioso, extremistas islâmicos seguem sendo ameaça, e o conflito em Gaza alimentou o conservadorismo islâmico.",
+    "mulheres": "As convertidas do islamismo são as mais vulneráveis, com a família como maior fonte de pressão: prisão domiciliar, isolamento, espancamento, assédio sexual, casamento forçado e, em casos extremos, morte para preservar a “honra”. Não podem casar oficialmente com homens registrados como cristãos, e as leis de status pessoal e de apostasia permitem anular casamentos e tirar a guarda dos filhos.",
+    "homens": "Embora alguns cristãos ocupem cargos de destaque, persiste a discriminação, sobretudo contra os convertidos, com progressão limitada na carreira e extorsão financeira. As leis de casamento impedem o casamento legal de um homem de família cristã com uma convertida, e numa cultura de honra e vergonha a família pode atacar, rejeitar e expulsar. O serviço de inteligência pode pressionar com entrevistas, sobretudo convertidos suspeitos e líderes ativos no evangelismo.",
+    "motores": [
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Em gratidão pelos cristãos que adoram em liberdade, para que a monarquia continue vendo a igreja como força para o bem.",
+      "Por quem perdeu amigos ou familiares por seguir a Jesus, pois a conversão é arriscada.",
+      "Para que os cristãos compartilhem a fé com ousadia e segurança."
+    ],
+    "historia": "A área é rica em vestígios arqueológicos e tradições religiosas, e relatos bíblicos mencionam reinos como Gileade, Moabe e Midiã. Nos séculos 6 e 7 foi devastada por combates entre bizantinos e persas sassânidas, e em 636 os muçulmanos destruíram o exército bizantino e colocaram a maior parte da Síria e da Palestina sob domínio muçulmano.",
+    "contexto": "A maioria dos cristãos pertence a igrejas históricas, como a Ortodoxa Grega e a Católica Romana, e tem liberdade religiosa relativamente alta, mas enfrenta discriminação no emprego e restrições à pregação pública. O testemunho aberto de um cristão de contexto muçulmano pode levar a espancamento, prisão e morte, e quem evangeliza ou se envolve com convertidos enfrenta ameaças e obstruções. O governo impõe mais valores e leis islâmicos, embora promova tolerância e convivência com outras religiões.",
+    "historia_igreja": "Os cristãos vivem na Jordânia desde os primeiros dias do cristianismo, e o país foi refúgio de cristãos que fugiam da perseguição em Jerusalém e Roma no primeiro século. O cristianismo foi aceito na região no século 4, com igrejas e capelas por todo o país, até a invasão muçulmana de 636. Segundo a JMECA, o cristianismo diminuiu lentamente após a conquista do século 7, chegando a cerca de 10% da população do Império Islâmico no século 10, e as Cruzadas, no fim do século 11, trouxeram a Igreja Católica Romana."
+  },
+  "BRN": {
+    "slug": "brunei",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/brunei/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 50,
+      "pontuacao": 65,
+      "religiao_oficial": "Islamismo",
+      "capital": "Bandar Seri Begawan",
+      "populacao": "459 mil",
+      "populacao_crista": "53 mil"
+    },
+    "resumo": "Desde a implementação mais ampla da sharia, em 2019, que atinge muçulmanos e não muçulmanos, uma atmosfera de medo domina a pequena comunidade cristã. A apostasia é punível por lei: apesar da moratória da pena de morte, convertidos ainda podem enfrentar chicotadas e prisão de até 30 anos, além da pressão de família e comunidade. A educação islâmica obrigatória começa aos três anos de idade, o que dificulta que pais e igrejas ensinem as crianças sobre Jesus, e sem separação entre Estado e islamismo as atividades cristãs ficam cada vez mais marginalizadas.",
+    "mulheres": "A implementação da sharia agrava os desafios das cristãs: as que trabalham em escritórios do governo ou escolas públicas devem seguir códigos de vestimenta islâmicos e podem sofrer discriminação e isolamento. A pressão costuma ser maior em casa, onde as que escolhem seguir a Jesus ficam vulneráveis a prisão domiciliar, casamento forçado, separação dos filhos e programas de reabilitação forçada.",
+    "homens": "Os homens convertidos podem sofrer expulsão de casa, deserdação, perda de benefícios sociais, ameaças e espancamentos, e sob a sharia há risco real de prisão e punição corporal.",
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que todos em Brunei sejam livres para escolher a própria fé, já que novos convertidos podem ser acusados de apostasia.",
+      "Para que Deus ajude os jovens a continuarem seguindo a Jesus, apesar da pressão da educação islâmica no currículo escolar.",
+      "Em gratidão pelas igrejas que podem adorar publicamente, para que todas possam se registrar e existir livremente."
+    ],
+    "historia": "No século 6, Brunei já negociava e pagava tributos à China, e perto do fim do século 16 sofreu conflitos internos. Foi protetorado britânico de 1888 a 1984 e hoje é o único sultanato politicamente independente do mundo, com linhagem real desde 1363 e o 29º sultão. Em 1984, o sultão proclamou a filosofia nacional Melayu Islam Beraja, uma mistura de valores malaios e islâmicos que se opõe ao secularismo. O Código Penal da Sharia foi introduzido em maio de 2014 e sua implementação foi anunciada em 2018.",
+    "contexto": "Os muçulmanos, a maioria sunita, são cerca de 60% da população. O sultão é o chefe da religião: o que ele quer vira lei, e todos, inclusive as igrejas, devem aceitá-lo. Os cristãos são livres para adorar, mas foram advertidos a não fazê-lo “de forma excessiva e aberta”, e o Código Penal da Sharia limita a liberdade religiosa de convertidos e da minoria cristã. Igrejas não tradicionais não podem se registrar como igrejas, mas só como empresas, sociedades ou centros familiares.",
+    "historia_igreja": "Atividades missionárias aleatórias de comerciantes portugueses no século 16 falharam, e só em 1846 foi fundada a Missão da Igreja de Bornéu e uma congregação anglicana. A Igreja Católica está presente há mais de um século, e as igrejas protestantes independentes chegaram depois, com trabalhadores imigrantes, a maioria ligada a organizações e igrejas de seus países de origem."
   }
 }
