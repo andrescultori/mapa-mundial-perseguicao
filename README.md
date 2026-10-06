@@ -10,7 +10,7 @@ Dashboard interativo com o histórico (2013–2026) da **Lista Mundial da Perseg
 - **Controle de ano** (2013 a 2026): o mapa e a lista lateral se atualizam automaticamente.
 - **Lista lateral** com o ranking completo do ano, variação frente ao ano anterior, filtro por continente e busca por país.
 - **Página de detalhes do país** (ao clicar no mapa ou na lista): nome completo, continente, região, ranking atual, posição mais alta/mais baixa no período, variação anual e um **gráfico de evolução do ranking** ano a ano, com tooltip interativo.
-- Espaço reservado para, futuramente, adicionar descrição, histórico e imagens de cada país.
+- **Seção "Sobre o país"** com estatísticas, visão geral, quem persegue, pedidos de oração e histórico, a partir de `data/country-details.json` (veja abaixo).
 
 ## Fonte dos dados
 
