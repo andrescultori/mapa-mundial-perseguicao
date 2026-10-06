@@ -176,8 +176,8 @@ def main():
         vals = list(ranks.values())
         if vals:
             stats["rank_medio"] = round(sum(vals) / len(vals), 1)
-            stats["melhor_rank"] = min(vals)
-            stats["pior_rank"] = max(vals)
+            stats["posicao_mais_alta"] = min(vals)
+            stats["posicao_mais_baixa"] = max(vals)
             stats["anos_na_lista"] = len(vals)
             stats["top10_pct"] = round(sum(1 for v in vals if v <= 10) / len(vals) * 100, 1)
             stats["var_total"] = ranks[sorted_years[0]] - ranks[sorted_years[-1]]
