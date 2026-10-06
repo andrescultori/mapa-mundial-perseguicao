@@ -2060,5 +2060,508 @@
     "historia": "No século 6, Brunei já negociava e pagava tributos à China, e perto do fim do século 16 sofreu conflitos internos. Foi protetorado britânico de 1888 a 1984 e hoje é o único sultanato politicamente independente do mundo, com linhagem real desde 1363 e o 29º sultão. Em 1984, o sultão proclamou a filosofia nacional Melayu Islam Beraja, uma mistura de valores malaios e islâmicos que se opõe ao secularismo. O Código Penal da Sharia foi introduzido em maio de 2014 e sua implementação foi anunciada em 2018.",
     "contexto": "Os muçulmanos, a maioria sunita, são cerca de 60% da população. O sultão é o chefe da religião: o que ele quer vira lei, e todos, inclusive as igrejas, devem aceitá-lo. Os cristãos são livres para adorar, mas foram advertidos a não fazê-lo “de forma excessiva e aberta”, e o Código Penal da Sharia limita a liberdade religiosa de convertidos e da minoria cristã. Igrejas não tradicionais não podem se registrar como igrejas, mas só como empresas, sociedades ou centros familiares.",
     "historia_igreja": "Atividades missionárias aleatórias de comerciantes portugueses no século 16 falharam, e só em 1846 foi fundada a Missão da Igreja de Bornéu e uma congregação anglicana. A Igreja Católica está presente há mais de um século, e as igrejas protestantes independentes chegaram depois, com trabalhadores imigrantes, a maioria ligada a organizações e igrejas de seus países de origem."
+  },
+  "AZE": {
+    "slug": "azerbaijao",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/azerbaijao/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 65,
+      "religiao_oficial": "Islamismo",
+      "capital": "Baku",
+      "populacao": "10,5 milhões",
+      "populacao_crista": "253 mil"
+    },
+    "resumo": "A pontuação subiu quase só por causa de 4 pontos a mais em violência, causados sobretudo pelo controle total do Azerbaijão sobre Karabakh e pela destruição de edifícios cristãos, cemitérios e outros bens. Os cristãos estão sob vigilância rigorosa há décadas, e as restrições são tão opressivas que os cristãos azeris acham mais fácil evangelizar no vizinho Irã do que em seu país. O governo monitora de perto os grupos religiosos, e o nível de vigilância é tal que os cristãos não sabem mais em quem confiar. Os convertidos de origem muçulmana suportam o peso da perseguição do Estado e da família, amigos e comunidade, e as igrejas ortodoxas russas têm menos problemas por não procurar a população azeri.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por liberdade religiosa e para que os cristãos deixem de ser monitorados e perseguidos pelo governo.",
+      "Para que a fé dos cristãos de origem muçulmana seja fortalecida e eles suportem a perseguição.",
+      "Para que o Espírito Santo leve os cristãos ao amadurecimento e eles sejam ousados em ser e fazer discípulos de Jesus."
+    ],
+    "historia": "O Azerbaijão foi independente de 1918 a 1920, depois foi incorporado à União Soviética e declarou a independência em 30 de agosto de 1991. Os primeiros anos foram marcados pela guerra com a maioria armênia de Nagorno-Karabakh, e em 1994 os armênios controlavam de 14 a 16% do território, com um cessar-fogo que nunca resolveu o problema e gera imensa desconfiança em relação à Armênia. Heydar Aliyev assumiu o poder em 1993, e o filho Ilham governa desde 2003.",
+    "contexto": "Segundo o World Christian Database, 96,2% da população é muçulmana e apenas 2,4%, cristã. É o único ex-estado soviético com grande maioria xiita (85% dos muçulmanos). Seria errado chamá-lo de país muçulmano: os 70 anos de ateísmo soviético deixaram profunda influência, o governo é firmemente secular e mantém o islamismo sob controle rígido, e a maioria segue as tradições como cultura. Numa pesquisa Gallup (2006–2008), só 21% disseram que a religião é parte importante da vida diária, o que faz do país o de maioria muçulmana menos religioso do mundo.",
+    "historia_igreja": "O cristianismo chegou ao Reino da Albânia no século 1 e se tornou religião do Estado no início do século 4. A resistência cristã do rei Javanshir foi suprimida em 667 por exércitos árabes, e o islamismo se infiltrou. Os seljúcidas entraram em 1067, e o xá safávida estabeleceu o islamismo xiita como religião do Estado no século 16. Em 1806, o Império Russo ocupou o território e trouxe russos étnicos, em geral ortodoxos, e desde 1991 muitos russos saíram, o que enfraqueceu a Igreja Ortodoxa Russa."
+  },
+  "BHR": {
+    "slug": "bahrein",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/bahrein/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 54,
+      "religiao_oficial": "Islamismo",
+      "capital": "Manama",
+      "populacao": "1,5 milhão",
+      "populacao_crista": "184 mil"
+    },
+    "resumo": "Há um número considerável de cristãos expatriados, principalmente do Sul da Ásia, que podem praticar a fé em locais de culto privados desde que não evangelizem muçulmanos nem falem contra o islamismo, e um pequeno número de cristãos nativos. Os cristãos locais de origem muçulmana enfrentam hostilidade da família e da comunidade, com pressão significativa para renegar a fé, deixar o país ou se calar. Muçulmanos expatriados que se convertem sofrem pressão parecida com a de seus países de origem, pois muitas vezes vivem em suas comunidades nacionais ou étnicas. O índice de violência caiu por menos relatos de ataques.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os cristãos de origem muçulmana resistam à perseguição da família, da comunidade e do governo.",
+      "Por suprimento das necessidades dos cristãos que perderam o emprego por causa de Jesus.",
+      "Por segurança e provisão dos cristãos que foram trabalhar no país e enfrentam hostilidade."
+    ],
+    "historia": "O Bahrein é árabe e muçulmano desde a conquista do século 7, embora tenha sido governado pelos portugueses (1521–1602) e pelos persas (1602–1783). Desde 1783 é governado por xeques da família Khalifah, num regime autoritário em que Irã e Arábia Saudita têm influência. A maioria xiita, 60% da população, foi discriminada por muito tempo pela família real sunita, com menos acesso a trabalho, moradia e direitos políticos, e as frustrações explodiram em fevereiro de 2011, inspiradas pela Primavera Árabe.",
+    "contexto": "A população é de pouco mais de 1,7 milhão, metade nativa, em sua maioria xiita, e o restante é de trabalhadores imigrantes do Sul da Ásia e das Filipinas, cerca de 25% deles cristãos. A Constituição afirma a não discriminação, inclusive religiosa, e a “inviolabilidade da adoração”, desde que conforme as tradições nacionais, e difamar publicamente um grupo religioso reconhecido é crime. As igrejas devem se registrar no Ministério do Desenvolvimento Social e têm liberdade considerável desde que evitem o evangelismo, e a comunidade cristã nativa é respeitada, com alguns em cargos do governo.",
+    "historia_igreja": "Segundo as tradições antigas, o apóstolo Bartolomeu levou o cristianismo à Arábia, e uma diocese cristã foi estabelecida nas ilhas no meio do século 3. No século 4 os cristãos cresceram, talvez pela perseguição na Pérsia a partir de 339, e o Bahrein era refúgio seguro e importante no comércio de pérolas. Nestorianos levaram a fé para lá, e foram encontradas fundações de um monastério do século 4 em Samaheej."
+  },
+  "DJI": {
+    "slug": "djibuti",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/djibuti/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 61,
+      "religiao_oficial": "Islamismo",
+      "capital": "Djibuti",
+      "populacao": "1,1 milhão",
+      "populacao_crista": "12,3 mil"
+    },
+    "resumo": "A pressão sobre os cristãos se manteve estável nas últimas cinco edições da Lista. Todas as leis e políticas são moldadas pela sharia, e os convertidos do islamismo enfrentam consequências severas, de ridicularização e ostracismo à rejeição total, num modo de vida comunitário em que é quase impossível esconder a fé. Quem se converte, ou é apenas rumor de conversão, perde todos os direitos de herança. O extremismo crescente alimenta a opressão islâmica, e a paranoia do regime e as estruturas de clãs silenciam e marginalizam os cristãos, enquanto as autoridades muitas vezes não os protegem de ataques. A localização estratégica do país e a falta de pressão internacional permitem ao governo reprimir com pouco medo de repercussão.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por fortalecimento dos convertidos que enfrentam perseguição de familiares, comunidade e autoridades.",
+      "Para que os governantes respeitem a liberdade religiosa e os direitos humanos de toda a população.",
+      "Para que o evangelho seja pregado e mais pessoas ouçam sobre o amor de Jesus."
+    ],
+    "historia": "Conhecido como Somalilândia Francesa (1896–1967) e Território Francês dos Afars e Issas (1967–1977), o país se tornou independente da França em 27 de junho de 1977. Depois da guerra civil de 1991 a 2000, a primeira eleição multipartidária livre foi em 2003, mas o partido do governo controla todos os níveis do Estado e o país deixou de ser uma democracia eleitoral. O presidente Guelleh, no cargo desde 1999, foi reeleito para um quinto mandato em abril de 2021 com mais de 98% dos votos, com a oposição boicotando a eleição.",
+    "contexto": "O islamismo é a religião do Estado, embora a Constituição garanta liberdade religiosa, e as minorias não sunitas, inclusive cristãos, são às vezes tratadas de forma injusta. A população é 94% muçulmana sunita, e o Ministério de Assuntos Islâmicos fiscaliza a religião, com autoridade direta sobre mesquitas e imãs, que são servidores públicos desde 2013/2014. Cerca de 60 a 65% são somalis da tribo issa, e o restante em grande parte afares. O país está entre os últimos do Índice de Desenvolvimento Humano da ONU, em 166º lugar de 189, com expectativa de vida de 67,1 anos.",
+    "historia_igreja": "Por volta do primeiro século, o território fez parte do reino etíope de Axum, e o cristianismo apareceu no século 4, na era axumita. Com o declínio de Axum, o islamismo chegou por volta de 825, trazido por comerciantes do Sul da Arábia. As ligações com a Etiópia mantiveram a presença da Igreja Ortodoxa Etíope, e o catolicismo e o protestantismo vieram depois da chegada dos franceses, em 1883."
+  },
+  "ARE": {
+    "slug": "emirados-arabes-unidos",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/emirados-arabes-unidos/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 60,
+      "pontuacao": 61,
+      "religiao_oficial": "Islamismo",
+      "capital": "Abu Dhabi",
+      "populacao": "9,6 milhões",
+      "populacao_crista": "1,2 milhão"
+    },
+    "resumo": "Apesar de o nível de pressão continuar muito alto, o índice de violência caiu ligeiramente por maior aceitação e tolerância com o cristianismo e outras religiões não muçulmanas. O país aumentou, porém, o monitoramento de seguidores de Jesus e de igrejas, inclusive com técnicas avançadas de vigilância. Os cristãos expatriados podem adorar em privado ou em complexos de igreja designados, mas não podem evangelizar nem orar em público. Os nativos que deixaram o islamismo enfrentam pressão da família e da comunidade, e os convertidos expatriados sofrem pressão parecida com a de seus países de origem. Por causa das consequências severas, é quase impossível revelar a nova fé, e por isso há poucos casos de agressão ou morte.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por proteção dos cristãos expatriados contra abusos e maus-tratos, para que tenham coragem de testemunhar o amor de Deus.",
+      "Pela restauração das famílias de cristãos de origem muçulmana forçados a se divorciar e que perderam a guarda dos filhos.",
+      "Por provisão para que os cristãos sustentem suas famílias por meio do trabalho."
+    ],
+    "historia": "O país reúne sete emirados, cada um com seu governante, unidos em Estado federal no início dos anos 1970, a única tentativa bem-sucedida de federação no mundo árabe e modelo para o Conselho de Cooperação do Golfo. Abu Dhabi, o maior emirado, e Dubai são os mais ricos e influentes. O presidente Khalifa bin Zayed al-Nahyan é o governante de Abu Dhabi, mas seu meio-irmão Mohammed bin Zayed tornou-se na prática o governante depois que o presidente sofreu um derrame em 2014. Os emirados do Norte são mais pobres.",
+    "contexto": "Segundo estimativas de 2021 do World Christian Database, 78,5% dos residentes são muçulmanos, cerca de 15% deles xiitas, números que incluem expatriados. Os cristãos são o segundo maior grupo (11%), seguidos por hindus (6,2%) e budistas (1,9%). A sociedade se define como muçulmana, e o governo não permite educação com ensino religioso além do islamismo, exceto em poucas escolas privadas afiliadas a igrejas. O proselitismo de outra fé é proibido, mas grupos não muçulmanos podem adorar em edifícios designados ou casas particulares.",
+    "historia_igreja": "Descobertas arqueológicas mostram que o cristianismo era difundido no Golfo antes do islamismo, e a região ficava sob a diocese nestoriana de Beth Mazunaye, cuja catedral ficava em Soar, no lado omani. Em 1992, restos de uma igreja e de um mosteiro nestorianos, usados por volta de 600–750, foram achados na ilha de Sir Bani Yas, perto de Abu Dhabi, e outro mosteiro e igreja foram descobertos na ilha de Marawah, do mesmo período, o que indica que o cristianismo floresceu mesmo depois do islamismo."
+  },
+  "IDN": {
+    "slug": "indonesia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/indonesia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 59,
+      "pontuacao": 61,
+      "religiao_oficial": "Islamismo",
+      "capital": "Jacarta",
+      "populacao": "279,8 milhões",
+      "populacao_crista": "36,6 milhões"
+    },
+    "resumo": "Muitos convertidos do islamismo sofrem pressão da família, que varia conforme a família e o local e costuma se manifestar como isolamento e abuso verbal, e só uma pequena parte enfrenta violência física. Se possível, eles se mudam dentro do arquipélago, sobretudo para grandes cidades. Há pontos críticos, como Java Ocidental e Aceh, onde grupos islâmicos radicais têm grande influência, e igrejas vistas como proselitistas, em especial evangélicas e pentecostais, logo enfrentam problemas com esses grupos. Igrejas não tradicionais têm dificuldade para obter permissão de construção ou sofrem oposição ao se reunir em casas, e mesmo ao cumprir os requisitos legais muitas vezes são ignoradas pelas autoridades locais, esperando décadas para construir. A página registra que, pelo terceiro ano consecutivo no período de pesquisa citado, nenhum cristão foi morto por causa da fé, mas a violência permaneceu em nível extremamente alto.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que Deus guarde os cristãos que precisam viver a fé em segredo em algumas regiões.",
+      "Por provisão e consolo para os cristãos de origem muçulmana rejeitados pela família e pela comunidade.",
+      "Por liberdade de culto e pelo respeito aos direitos dos cristãos em todo o país."
+    ],
+    "historia": "O país se espalha por mais de 17 mil ilhas, e Java já era habitada há cerca de 1,7 milhão de anos. As viagens regulares entre a Indonésia e a China só começaram no século 5, e a literatura chinesa dos séculos 5 e 6 menciona produtos do oeste do arquipélago, como a cânfora do Norte de Sumatra. Depois do início do século 10, pouco se sabe sobre Java Central e Ocidental por mais de 500 anos, e mudanças econômicas tiveram grande impacto em Java no início do século 13.",
+    "contexto": "Segundo o World Christian Database, 79,5% da população é muçulmana, e há milhões de ateus ou agnósticos e seguidores de religiões étnicas, hinduísmo (sobretudo em Bali), religião tradicional chinesa e budismo. O cristianismo é uma das principais religiões no Leste, enquanto o islamismo é mais forte no Centro e no Oeste, sobretudo em Java. A condenação por blasfêmia do governador cristão de Jacarta, Ahok, e os bombardeios de três igrejas em Surabaya em maio de 2018 foram choques, assim como o ataque suicida à catedral de Makassar em 2021.",
+    "historia_igreja": "Comerciantes portugueses chegaram em 1511, primeiro às Molucas, e levaram o catolicismo, com jesuítas e dominicanos nas Molucas, em Celebes Meridional e em Timor no século 16. Quando os holandeses derrotaram Portugal em 1605, os missionários católicos foram expulsos e a Igreja Reformada Holandesa calvinista foi praticamente a única influência cristã por 300 anos."
+  },
+  "KWT": {
+    "slug": "kuwait",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/kuwait/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 61,
+      "religiao_oficial": "Islamismo",
+      "capital": "Cidade do Kuwait",
+      "populacao": "4,3 milhões",
+      "populacao_crista": "629 mil"
+    },
+    "resumo": "Os níveis de pressão e de violência permaneceram os mesmos do ano anterior, e a pressão impede que cristãos, expatriados ou nativos de origem muçulmana, cruzem limites legais e culturais, o que mantém baixos os ataques violentos. Os expatriados podem usar locais designados de adoração, mas são pequenos demais para o número de fiéis, o que gera tensões entre os grupos, e obter propriedade é extremamente difícil. O evangelismo é estritamente proibido e leva à expulsão. Os convertidos de origem muçulmana sofrem a maior parte da perseguição, com pressão da família e da comunidade, discriminação, assédio, monitoramento policial e intimidação por grupos de vigilantes, e a conversão não é reconhecida oficialmente, o que traz problemas legais de status pessoal e propriedade.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por proteção e encorajamento dos cristãos de origem muçulmana perseguidos pela família, pela comunidade e pelas autoridades.",
+      "Pela união das poucas igrejas autorizadas, para que sejam testemunhas do amor e da graça de Deus.",
+      "Por sabedoria e compromisso com a justiça dos governantes, para que respeitem a liberdade religiosa de todos."
+    ],
+    "historia": "A origem do país é situada no início do século 18, quando famílias de uma tribo do interior da Península Arábica migraram para a região, e o xerifado autônomo data de 1756. No século 19 desenvolveu uma comunidade comercial próspera e independente, e um tratado de 1899 garantiu o controle britânico dos assuntos estrangeiros. Tornou-se protetorado britânico na Primeira Guerra Mundial e independente em 1961, com o emir sempre da família Al Sabah.",
+    "contexto": "Segundo o Departamento de Estado dos EUA, 70% dos 1,4 milhão de kuwaitianos são sunitas e 30%, xiitas, o que torna o governo cuidadoso nas relações com o Irã. O número de kuwaitianos convertidos ao cristianismo é muito pequeno: menos de 300 cristãos, de origem turca, e a maioria dos cristãos são expatriados. Apesar de ter aceitado convenções da ONU sobre direitos humanos, as religiões não islâmicas enfrentam muita oposição.",
+    "historia_igreja": "Os primeiros sinais são as ruínas de igrejas nas ilhas de Failaka e Akkaz, datadas dos séculos 5 a 9, usadas por uma comunidade nestoriana, e no século 10 esses lugares foram desocupados. Depois, por quase um milênio, não há sinais da presença cristã, até o protetorado britânico de 1899, quando começou o trabalho missionário, com Samuel Zwemer, da Missão Árabe."
+  },
+  "MYS": {
+    "slug": "malasia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/malasia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 51,
+      "pontuacao": 65,
+      "religiao_oficial": "Islamismo",
+      "capital": "Kuala Lumpur",
+      "populacao": "34,7 milhões",
+      "populacao_crista": "3,4 milhões"
+    },
+    "resumo": "Todos os partidos políticos apoiam a predominância do islamismo como religião nacional, inclusive as leis da sharia sobre apostasia e sua implementação nos estados, e Kelantan e Terengganu são conhecidos por uma interpretação mais conservadora. Convertidos do islamismo enfrentam mais pressão e hostilidade, porque todo malaio étnico deve ser muçulmano. Católicos, metodistas e ONGs são vigiados pelas autoridades, mas grupos protestantes não tradicionais costumam sofrer mais interferência, e crianças cristãs podem ser ostracizadas. Segundo a página, a violência aumentou no período citado, com a política de prioridade para os malaios marginalizando os cristãos e preocupações com o islamismo crescente, e um caso notável foi o incêndio na casa de Ngeh Koo Ham, figura política cristã.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que mais malaios conheçam a Jesus e tenham a vida transformada por ele.",
+      "Para que Jesus acabe com o tratamento injusto dos cristãos segundo a lei.",
+      "Por unidade no corpo de Cristo e fortalecimento dos cristãos de origem muçulmana, para que tenham comunhão mesmo vivendo a fé em segredo."
+    ],
+    "historia": "Pequenos reinos malaios apareceram nos séculos 2 e 3, quando comerciantes e sacerdotes indianos trouxeram conceitos de religião, governo e arte, e por muitos séculos as populações combinaram ideias nativas e indianas, como o hinduísmo e o budismo mahayana. Do século 13 ao 17, o islamismo sunita, levado sobretudo por mercadores indianos e árabes, se espalhou amplamente pelo Sudeste Asiático, oferecendo oportunidades de avanço social pela devoção.",
+    "contexto": "A Constituição define “malaio” como seguidor do islamismo, então todo cidadão de etnia malaia é entendido como muçulmano. Um ponto de tensão para minorias religiosas é a custódia em divórcios entre religiões diferentes: o parceiro que costuma perder a custódia se converte ao islamismo e recorre aos tribunais da sharia, que a entregam à parte muçulmana. Em teoria os tribunais civis estão acima dos islâmicos, mas na prática esses casos muitas vezes acabam na corte da sharia.",
+    "historia_igreja": "Comerciantes nestorianos e persas introduziram o cristianismo em Malaca no século 7, mas ele só começou a se espalhar com os missionários católicos portugueses, em 1511. Os britânicos assumiram Malaca em 1795 e a Sociedade Missionária de Londres foi fundada a partir de 1815, com igrejas voltadas para os expatriados britânicos. Por acordo silencioso entre britânicos e o sultão, o trabalho entre muçulmanos era proibido, e os missionários focaram em tribos animistas. Por mudança de política, a maioria teve de sair até o fim dos anos 1970, mas a igreja continuou crescendo, sobretudo no Leste do país."
+  },
+  "KEN": {
+    "slug": "quenia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/quenia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 53,
+      "pontuacao": 64,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Nairóbi",
+      "populacao": "56,2 milhões",
+      "populacao_crista": "44,8 milhões"
+    },
+    "resumo": "Apesar de o país ser 85% cristão, a perseguição continua significativa: a pontuação subiu um ponto, sobretudo pelo aumento da violência, e a esfera da igreja sofreu mais pressão, em particular no Nordeste e na costa. Há uma década cresce a ameaça do Al-Shabaab, um dos grupos jihadistas mais letais da África, com incidentes ligados ao grupo dobrando em junho de 2023. Os cristãos de origem muçulmana no Nordeste e na costa correm perigo dos militantes e das próprias famílias. A reabertura de pontos de fronteira com a Somália e a retirada da ATMIS aumentam o medo, e o crime organizado e a corrupção deixam a perseguição por fé muitas vezes impune, com êxodo em massa de prestadores de serviços essenciais do Nordeste.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Corrupção e crime organizado",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Pelo fim dos grupos criminosos e extremistas, para que haja paz e os cristãos possam expressar a fé em segurança.",
+      "Por provisão de Deus para as necessidades físicas, emocionais e espirituais dos cristãos.",
+      "Para que os governantes tenham compromisso com a verdade e a justiça e liderem o país para o bem de toda a população."
+    ],
+    "historia": "Desde a fundação da nação, em 1964, a política tribal é a tendência dominante, e fatores como a nova Constituição de 2010, as eleições pacíficas de 2013, com Uhuru Kenyatta eleito, e o sistema de condados ajudaram a reduzir a tensão. Em meio a sérios desafios socioeconômicos, as incursões do Al-Shabaab e a instabilidade na Somália são grandes preocupações de segurança, sobretudo após os ataques de 2013–2015 em Nairóbi e no Nordeste, como o da Universidade de Garissa.",
+    "contexto": "A Constituição garante a liberdade de religião, e os cristãos tiveram papel importante na formação do Estado moderno. A população é de maioria cristã, 82,3%, com os cristãos concentrados no Oeste e no Centro e os muçulmanos na costa Leste, e muitos quenianos incluem crenças nativas em suas práticas religiosas. A violência doméstica é amplamente tolerada e aumentou com as restrições da covid-19.",
+    "historia_igreja": "Os portugueses introduziram o cristianismo no século 16, mas foram expulsos da costa em 1698 por forças de Omã, e a fé só se estabeleceu em 1844, quando a Sociedade Missionária Anglicana (CMS) enviou Johann Ludwig Krapf. Metodistas britânicos chegaram a Mombaça em 1862, os Padres Brancos católicos em 1889, o pentecostalismo em 1910, com as Assembleias Pentecostais do Canadá, e o Exército da Salvação em 1921, seguidos por igrejas indígenas."
+  },
+  "RUS": {
+    "slug": "russia",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/russia/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 56,
+      "pontuacao": 63,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Moscou",
+      "populacao": "143,9 milhões",
+      "populacao_crista": "120,2 milhões"
+    },
+    "resumo": "O aumento da pontuação veio sobretudo da violência maior, em parte porque cristãos foram punidos por se manifestar contra a guerra da Rússia na Ucrânia, com mais pressão nas esferas igreja e nacional. A paranoia ditatorial atua em todo o país, e o governo impõe restrições às atividades de igrejas não ortodoxas russas e a cristãos que se opõem à guerra. As igrejas ortodoxas russas são as que menos têm problemas. Igrejas não registradas ativas na evangelização podem sofrer vigilância e interrogatórios, e os cristãos de origem muçulmana em regiões de maioria islâmica carregam o peso da perseguição de familiares, amigos e comunidade, e em algumas áreas precisam manter a fé em segredo por medo de serem mortos. Muitos russos étnicos deixaram Daguestão, Chechênia, Inguchétia, Cabárdia-Balcária e Carachai-Circássia por causa dos combates.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Protecionismo denominacional",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os cristãos de origem muçulmana que sofrem forte perseguição de familiares e comunidade sejam fortalecidos pela presença do Senhor.",
+      "Pelo fortalecimento dos líderes cristãos sob a mira das autoridades, com sabedoria e ousadia para continuar pregando.",
+      "Para que o evangelho seja pregado na Rússia e mais pessoas tenham a vida transformada por Jesus."
+    ],
+    "historia": "O território foi habitado por várias etnias, com predomínio dos eslavos, agricultores, apicultores, caçadores, pescadores e pastores. Kiev e Novgorod eram centros comerciais que exportavam escravos, peles, mel e cera. A Rússia se destaca na Europa por nunca ter experimentado diretamente as influências do Renascimento.",
+    "contexto": "Segundo a USCIRF, as condições de liberdade religiosa se deterioraram em 2020: o governo continuou atacando minorias religiosas “não tradicionais” com multas, detenções e acusações criminais. A lei criminaliza o “extremismo” sem defini-lo, o que permite processar uma vasta gama de atividades religiosas não violentas, e o Estado abriu 188 processos contra as Testemunhas de Jeová, banidas como grupo extremista em 2017. A lei religiosa tem requisitos rígidos de registro.",
+    "historia_igreja": "A cristianização oficial ocorreu em 988, quando o príncipe Vladimir I de Kiev adotou o cristianismo bizantino como religião do Estado, e a Igreja Ortodoxa Russa tem papel dominante desde então. O catolicismo chegou no fim do século 18, com a expansão para o oeste, e foi visto pela Igreja Ortodoxa como ameaça à “russianidade”. O protestantismo veio no fim do século 19 e foi recebido com hostilidade ainda maior, e a Ortodoxa acusou os protestantes de roubo de ovelhas e pediu às autoridades czaristas que os detivessem."
+  },
+  "LKA": {
+    "slug": "sri-lanka",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/sri-lanka/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 60,
+      "religiao_oficial": "Budismo",
+      "capital": "Colombo",
+      "populacao": "21,9 milhões",
+      "populacao_crista": "2 milhões"
+    },
+    "resumo": "Embora a violência tenha subido, a pressão sobre os cristãos diminuiu: monges budistas e multidões de aldeias causaram a maioria dos problemas para igrejas e líderes. Um novo presidente foi eleito em setembro de 2024 e um novo governo em novembro, liderado pela aliança NPP, com maioria de dois terços, e há grandes esperanças de mudança para a minoria cristã; após visitar uma das igrejas bombardeadas na Páscoa de 2019, o presidente Dissanayake prometeu justiça às vítimas e reabriu as investigações. Os convertidos do budismo ou do hinduísmo sofrem a perseguição mais forte, com assédio, discriminação e marginalização, porque se espera que todo cingalês seja budista, e as igrejas não tradicionais são alvo de ataques locais, muitas vezes incitados por monges e autoridades, com exigência de fechar prédios tidos como ilegais.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por sabedoria e justiça das autoridades, para que governem pelo bem de toda a população.",
+      "Por segurança e encorajamento dos cristãos de origem budista ou hindu perseguidos pela família e pela comunidade.",
+      "Por sustento dos cristãos assediados, discriminados e marginalizados por seguirem a Jesus."
+    ],
+    "historia": "Os primeiros moradores foram os vedas, e por volta do século 6 a.C. o povo cingalês migrou da região indiana de Bengala. O território foi disputado por tâmeis e cingaleses, e a ilha foi ponto estratégico da antiga Rota da Seda. Em 1505, navegantes portugueses chegaram e encontraram sete reinos em guerra, depois os holandeses tomaram o território e a Inglaterra o transformou em colônia, até a independência em 1948.",
+    "contexto": "Por causa da guerra civil, o nacionalismo religioso prosperou, com grupos budistas radicais usados por governos anteriores para manter sob controle as minorias religiosas. A principal vítima ainda é a minoria muçulmana, com assassinatos em 2014 e um ataque em Kandy em março de 2018, quando radicais budistas destruíram negócios muçulmanos. Os cristãos também enfrentam ataques de grupos locais, frequentemente liderados por monges budistas.",
+    "historia_igreja": "Segundo a tradição, o cristianismo foi apresentado pelo apóstolo Tomé, e nestorianos viveram no país por muito tempo antes de comerciantes portugueses levarem o catolicismo, no início do século 16. No século 17, os holandeses levaram o protestantismo, e missionários metodistas foram muito ativos no fim do século 19, sobretudo fundando escolas. Os cristãos são um dos poucos grupos que misturam cingaleses e tâmeis, e se concentram no Leste, no Oeste e no Norte."
+  },
+  "TZA": {
+    "slug": "tanzania",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/tanzania/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": 55,
+      "pontuacao": 63,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Dar es Salaam",
+      "populacao": "69,4 milhões",
+      "populacao_crista": "38,4 milhões"
+    },
+    "resumo": "O nível de perseguição está relativamente estável há anos, acima de 61 pontos, e a pontuação subiu um ponto por mais ataques a cristãos, inclusive assassinatos, embora a pressão média tenha ficado estável. Em Zanzibar e nas áreas costeiras, onde predominam práticas islâmicas conservadoras, os cristãos, sobretudo os convertidos do islamismo, enfrentam intensa pressão, assédio e ataques físicos, com expulsão de casa e isolamento, além de discriminação por não seguir normas como códigos de vestimenta. Há ainda a ameaça de violência jihadista nas regiões que fazem fronteira com Moçambique, onde houve ataques transfronteiriços, e funcionários do governo, sobretudo em Zanzibar, restringem atividades cristãs, monitoram igrejas e desencorajam líderes de falar contra injustiças.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Para que os cristãos alvo de extremistas islâmicos sejam capacitados a responder de forma bíblica.",
+      "Por provisão diária para as famílias cristãs mais carentes e cuidado da igreja local.",
+      "Para que as autoridades se comprometam com a liberdade, a justiça e o bem-estar de toda a população."
+    ],
+    "historia": "O território é um dos assentamentos humanos mais antigos, e os portugueses chegaram no fim do século 15 em busca de ouro e conquistaram os reinos de Quiloa e Zanzibar. Houve uma colônia alemã, Tanganica, de 1880 a 1919, depois britânica até 1961, e em 1964 Tanganica e Zanzibar se uniram na República Unida da Tanzânia. Em 1967, o presidente Julius Nyerere fez a Declaração de Arusha.",
+    "contexto": "É majoritariamente cristã, com 56,9% segundo o World Christian Database 2021, mas a demografia difere: o continente é majoritariamente cristão e Zanzibar, muçulmano. Em Zanzibar os cristãos têm menos igualdade de acesso à justiça, enfrentam preconceito nos tribunais e foram punidos por cozinhar durante o Ramadã. A população jovem em rápido crescimento e a urbanização crescente são desafios.",
+    "historia_igreja": "O cristianismo chegou com os portugueses no início do século 16, mas os católicos portugueses não evangelizaram os nativos e a presença foi superficial. Em 1844, os protestantes alemães Johann Krapf e Johann Rebmann chegaram pela Sociedade Missionária da Igreja, mas houve pouco crescimento até 1860, quando padres católicos foram a Zanzibar, e 1863, com os Padres do Espírito Santo. David Livingstone também explorou o território pela Sociedade Missionária de Londres no século 19."
+  },
+  "PSE": {
+    "slug": "territorios-palestinos",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/territorios-palestinos/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 60,
+      "religiao_oficial": "Islamismo",
+      "capital": "Jerusalém Oriental",
+      "populacao": "5,5 milhões",
+      "populacao_crista": "42,6 mil"
+    },
+    "resumo": "Com a guerra entre Israel e Hamas, iniciada em outubro de 2023, a violência foi generalizada e não atingiu só os cristãos. Em Gaza, ao menos 33 cristãos morreram em decorrência dos conflitos, e muitos fugiram. Na Cisjordânia, as limitações impostas pelas autoridades israelenses foram endurecidas, com mais restrições de viagem para todas as comunidades cristãs, e muitas famílias saíram ou tentam sair. Há dificuldades econômicas e sociais, mais assédio de judeus radicais a líderes religiosos, e cristãos de igrejas protestantes não históricas enfrentam oposição teológica e acusações de “roubar fiéis”. A hostilidade é mais intensa em Gaza, onde militantes islâmicos e a sociedade conservadora têm papel maior, e ao menos 60% da Cisjordânia está sob controle total de Israel.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Nacionalismo religioso",
+        "descricao": null
+      },
+      {
+        "nome": "Hostilidade etno-religiosa",
+        "descricao": null
+      },
+      {
+        "nome": "Opressão do clã",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por paz nos territórios, para que os conflitos terminem e a população viva sem medo.",
+      "Por consolo, cura e coragem dos cristãos de origem muçulmana perseguidos pela família, pela comunidade e pelas autoridades.",
+      "Por suprimento de todas as necessidades dos cristãos que ainda estão no território."
+    ],
+    "historia": "Os Territórios Palestinos incluem a Faixa de Gaza, na costa do Mediterrâneo, e a Cisjordânia, a Oeste do Rio Jordão, e a área e a condição política mudaram ao longo de três milênios. A região, conhecida como Terra Santa, é sagrada para judeus, cristãos e muçulmanos e, desde o século 20, objeto de reivindicações conflitantes de judeus e movimentos nacionais árabes, com violência prolongada. A tensão atual envolve também a rivalidade entre os grupos palestinos Fatah, na Cisjordânia, e Hamas, em Gaza.",
+    "contexto": "A grande maioria dos palestinos é muçulmana sunita, e os cristãos são apenas 0,8% da população. Jerusalém é central para os muçulmanos, com a mesquita de Al-Aqsa, o terceiro lugar mais sagrado do islamismo, cujo acesso envolve várias formalidades. Em um passado recente, a radicalização se enraizou, substituindo um entendimento mais tolerante.",
+    "historia_igreja": "Há cristãos na região desde o início da igreja, no século 1, de várias denominações e nacionalidades. No século 7 exércitos árabes invadiram, e do século 9 em diante os cristãos se tornaram minoria sob autoridade islâmica, podendo praticar a religião se pagassem a jizya e não evangelizassem muçulmanos. Depois das Cruzadas, monges franciscanos ficaram para cuidar das igrejas e lugares sagrados, e no século 19 missionários católicos romanos, católicos gregos (melquitas) e protestantes chegaram, trabalhando sobretudo entre cristãos ortodoxos."
+  },
+  "UGA": {
+    "slug": "uganda",
+    "fonte_url": "https://portasabertas.org.br/lista-mundial-da-perseguicao/uganda/",
+    "coletado_em": "2026-10-05",
+    "lista_ano": 2026,
+    "stats": {
+      "posicao": null,
+      "pontuacao": 52,
+      "religiao_oficial": "Cristianismo",
+      "capital": "Kampala",
+      "populacao": "49,9 milhões",
+      "populacao_crista": "41,7 milhões"
+    },
+    "resumo": "Com o aumento da atividade de grupos jihadistas, o governo intensificou a pressão sobre eles e aliviou parte da pressão sobre a comunidade cristã. A ADF tem escolas e igrejas cristãs como alvo, e em junho de 2023 um internato cristão foi destruído, o que traumatizou a comunidade local. No Leste, de maioria muçulmana, os convertidos enfrentam ostracismo, discriminação, agressão física, expulsão da comunidade e até assassinato, vistos como traidores. A vigilância governamental, em resposta à segurança nacional, põe os cristãos sob maior escrutínio em regiões já tensas, e nos últimos cinco anos a perseguição religiosa aumentou.",
+    "mulheres": null,
+    "homens": null,
+    "motores": [
+      {
+        "nome": "Opressão islâmica",
+        "descricao": null
+      },
+      {
+        "nome": "Paranoia ditatorial",
+        "descricao": null
+      }
+    ],
+    "oracao": [
+      "Por sabedoria do governo para combater com eficácia os grupos extremistas.",
+      "Por proteção e cura dos cristãos alvo de ataques jihadistas e da perseguição da família e da comunidade.",
+      "Por sabedoria, coragem e provisão para os líderes cristãos que arriscam a vida cuidando das igrejas locais."
+    ],
+    "historia": "Como boa parte da África Subsaariana, a história inicial é feita de movimentos de pequenos grupos de agricultores e pastores. Em 1875, Henry Morton Stanley chegou a Buganda, e em 1890 a Companhia Imperial Britânica da África Oriental passou a administrar a região em nome do governo britânico. Uganda se tornou independente em 1962, com os reinos de Ankole, Buganda, Bunyoro e Toro com status federal e certa autonomia.",
+    "contexto": "É um país de maioria cristã, mas as estatísticas religiosas são contestadas: líderes muçulmanos dizem que sua presença é maior que a estimativa do World Christian Database 2021 (menos de 12%). Pelo Departamento de Estado dos EUA, citando o censo de 2014, os muçulmanos são 14% pela estimativa oficial e cerca de 35% segundo o Conselho Supremo Muçulmano. Uganda recebeu cerca de 905 mil refugiados do Sudão do Sul em 2020 e 938 mil em 2021.",
+    "historia_igreja": "Por ser um país sem litoral, o cristianismo chegou relativamente tarde. Os missionários protestantes chegaram à corte do kabaka Muteesa em 1877, e a Igreja Católica se estabeleceu em 1879, seguidas nos anos 1930 e depois por Assembleia Pentecostal do Canadá, ortodoxos do Patriarcado de Alexandria, Igreja Toda a África, Igreja Nova Apostólica, adventistas e Igreja de Deus. Houve ondas de perseguição em 1885–86, com assassinatos brutais, e nos anos 1970 sob Idi Amin."
   }
 }

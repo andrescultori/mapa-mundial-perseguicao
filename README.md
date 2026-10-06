@@ -18,6 +18,23 @@ Os dados de ranking (`data/countries.json`) foram extraídos da planilha "Mapa M
 
 > Estatísticas derivadas (melhor/pior posição, média, variação) são calculadas diretamente a partir dos rankings ano a ano — não da aba auxiliar "DADOS" da planilha original, cujos valores calculados via fórmulas não vieram consistentes na exportação.
 
+## Informações por país (`data/country-details.json`)
+
+A seção **Sobre o país** da página de cada país é preenchida a partir de `data/country-details.json`, um objeto indexado pelo código ISO3 (o mesmo de `countries.json`). Cada entrada tem:
+
+- `slug`, `fonte_url`, `coletado_em` (AAAA-MM-DD) e `lista_ano`;
+- `stats`: posição, pontuação, religião oficial, capital, população e população cristã;
+- `resumo`, `mulheres`, `homens`: visão geral e como mulheres e homens cristãos são perseguidos;
+- `motores`: tipos de perseguição listados pela fonte (`nome`, e `descricao` quando houver);
+- `oracao`: pedidos de oração;
+- `historia`, `contexto`, `historia_igreja`: bloco "Mais informações".
+
+Campos ausentes na fonte ficam `null` e não aparecem na tela. Países sem entrada mostram "Informações em breve".
+
+**Fonte e direitos:** o conteúdo vem das páginas de cada país em `portasabertas.org.br/lista-mundial-da-perseguicao/<slug>/`. Os textos são **resumos reescritos**, sem cópia literal, e cada bloco traz o link para a página original. Nenhuma foto da Portas Abertas é usada; as bandeiras são arquivos locais em `assets/flags/`.
+
+**Cobertura:** 63 dos 64 países. O Vietnã não tem página na fonte (`vietna` e `vietnam` retornam 404). Países fora do Top 50 não trazem as seções de mulheres e homens, e alguns não mostram posição.
+
 ## Estrutura do projeto
 
 ```
@@ -29,6 +46,7 @@ mapa-mundial-perseguicao/
 │   └── vendor/             # d3.js e topojson-client (vendorizados, sem depender de CDN)
 ├── data/
 │   ├── countries.json      # dataset final: ranking por país e por ano
+│   ├── country-details.json # textos "Sobre o país" (resumos da Portas Abertas)
 │   └── world-110m.json     # geometria do mapa-múndi (Natural Earth / world-atlas)
 └── README.md
 ```
