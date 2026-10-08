@@ -9,6 +9,7 @@
   const ISO_LOOKUP_URL = "data/iso-lookup.json";
   const CONTINENTS_URL = "data/continents.json";
   const DETAILS_URL = "data/country-details.json";
+  const TYPES_URL = "data/persecution-types.json";
   let detailsPromise = null;
 
   const state = {
@@ -25,7 +26,7 @@
   // Caixas (lon/lat) usadas para enquadrar cada continente no mapa.
   const CONTINENT_BOX = {
     "África": [-20, -36, 52, 38],
-    "Ásia": [25, -11, 150, 78],
+    "Ásia": [20, -11, 150, 78],
     "Europa": [-25, 34, 62, 72],
     "América": [-170, -57, -30, 75],
     "Oceania": [110, -50, 180, 0],
@@ -172,12 +173,12 @@
   function featureContinents(d) {
     const key = d.id || (d.properties && d.properties.name);
     const out = new Set();
-    if (state.continentOf[key]) out.add(state.continentOf[key]);
-    if (d.id === "643") out.add("Europa"); // Rússia: aparece também no recorte da Europa
-    if (!out.size) {
-      const c = d.id ? countryForNumeric(d.id) : null;
-      if (c && c.continente) out.add(c.continente);
-    }
+    // A classificação da planilha (ex.: Sudão em Ásia) vale para os países da lista;
+    // o lookup geográfico completa os demais países do atlas.
+    const c = d.id ? countryForNumeric(d.id) : null;
+    if (c && c.continente) out.add(c.continente);
+    else if (state.continentOf[key]) out.add(state.continentOf[key]);
+    if (d.id === "643") { out.add("Europa"); out.add("Ásia"); } // Rússia: nos dois recortes
     return out;
   }
 
@@ -330,7 +331,9 @@
   // ---------------- Sobre o país ----------------
   function loadDetails() {
     if (!detailsPromise) {
-      detailsPromise = fetch(DETAILS_URL).then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+      const get = (url) => fetch(url).then(r => (r.ok ? r.json() : {})).catch(() => ({}));
+      detailsPromise = Promise.all([get(DETAILS_URL), get(TYPES_URL)])
+        .then(([details, types]) => ({ details, types }));
     }
     return detailsPromise;
   }
@@ -346,7 +349,7 @@
     return m ? `${m[3]}/${m[2]}/${m[1]}` : iso;
   }
 
-  function aboutHtml(d) {
+  function aboutHtml(d, types) {
     const out = [];
     const st = d.stats || {};
     const cards = [
@@ -362,8 +365,16 @@
       if (v) out.push(`<div class="about-block"><h4>${t}</h4><p>${esc(v)}</p></div>`);
     });
     if (d.motores && d.motores.length) {
-      out.push('<div class="about-block"><h4>Quem persegue</h4><ul class="about-list">' + d.motores.map(m =>
-        `<li><b>${esc(m.nome || "")}</b>${m.descricao ? " — " + esc(m.descricao) : ""}</li>`).join("") + "</ul></div>");
+      const gloss = (types && types.tipos) || {};
+      const items = d.motores.map((m, i) => {
+        const desc = m.descricao || gloss[m.nome];
+        if (!desc) return `<li><b>${esc(m.nome || "")}</b></li>`;
+        return `<li><button type="button" class="tipo-btn" aria-expanded="false" data-tipo="${i}"><b>${esc(m.nome || "")}</b></button>` +
+          `<p class="tipo-desc" hidden>${esc(desc)}</p></li>`;
+      }).join("");
+      const src = types && types.fonte_url
+        ? `<p class="about-note">Toque em um tipo para ver a definição. Definições: <a href="${esc(types.fonte_url)}" target="_blank" rel="noopener">Portas Abertas ↗</a></p>` : "";
+      out.push(`<div class="about-block"><h4>Tipos de perseguição</h4><ul class="about-list about-tipos">${items}</ul>${src}</div>`);
     }
     if (d.oracao && d.oracao.length) {
       out.push('<div class="about-block"><h4>Pedidos de oração</h4><ul class="about-list">' +
@@ -380,13 +391,22 @@
     return out.join("");
   }
 
+  document.addEventListener("click", (e) => {
+    const btn = e.target.closest && e.target.closest(".tipo-btn");
+    if (!btn) return;
+    const desc = btn.parentElement.querySelector(".tipo-desc");
+    const open = btn.getAttribute("aria-expanded") === "true";
+    btn.setAttribute("aria-expanded", String(!open));
+    if (desc) desc.hidden = open;
+  });
+
   function renderAbout(c) {
     const el = $("#country-about");
     el.innerHTML = '<p class="about-placeholder">Carregando…</p>';
-    loadDetails().then(all => {
+    loadDetails().then(({ details, types }) => {
       if (!location.hash.endsWith("/" + c.id)) return;
-      const d = all && all[c.id];
-      el.innerHTML = d ? aboutHtml(d) : '<p class="about-placeholder">Informações em breve.</p>';
+      const d = details && details[c.id];
+      el.innerHTML = d ? aboutHtml(d, types) : '<p class="about-placeholder">Informações em breve.</p>';
     });
   }
 
