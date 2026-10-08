@@ -224,6 +224,13 @@ h1,h2,h3{margin:0;font-weight:700;letter-spacing:-.01em}
 .about-block p,.about-list{font-size:13.5px;line-height:1.65;color:var(--ink-2);margin:0}
 .about-list{padding-left:18px}
 .about-list li{margin-bottom:6px}
+.about-tipos{list-style:none;padding-left:0}
+.tipo-btn{all:unset;box-sizing:border-box;cursor:pointer;color:var(--accent);font-size:13.5px;line-height:1.65;border-bottom:1px dotted var(--accent)}
+.tipo-btn:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+.tipo-btn::after{content:" ▾";font-size:11px}
+.tipo-btn[aria-expanded="true"]::after{content:" ▴"}
+.tipo-desc{margin:4px 0 8px;padding:8px 10px;background:var(--surface-2);border-radius:8px;font-size:13px}
+.about-note{margin:8px 0 0;font-size:12px;color:var(--ink-muted)}
 .about-more{margin-top:16px;border-top:1px solid var(--border);padding-top:10px}
 .about-more summary{cursor:pointer;font-size:13.5px;font-weight:600;color:var(--accent)}
 .about-source{margin:18px 0 0;font-size:12px;color:var(--ink-muted);border-top:1px solid var(--border);padding-top:10px}

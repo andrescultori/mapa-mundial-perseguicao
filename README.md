@@ -25,7 +25,7 @@ A seção **Sobre o país** da página de cada país é preenchida a partir de `
 - `slug`, `fonte_url`, `coletado_em` (AAAA-MM-DD) e `lista_ano`;
 - `stats`: posição, pontuação, religião oficial, capital, população e população cristã;
 - `resumo`, `mulheres`, `homens`: visão geral e como mulheres e homens cristãos são perseguidos;
-- `motores`: tipos de perseguição listados pela fonte (`nome`, e `descricao` quando houver);
+- `motores`: tipos de perseguição listados pela fonte (`nome`, e `descricao` quando houver). Na tela aparecem como "Tipos de perseguição", com a definição de cada tipo vinda de `data/persecution-types.json` (glossário único, reescrito a partir da página "Entenda a perseguição" da Portas Abertas);
 - `oracao`: pedidos de oração;
 - `historia`, `contexto`, `historia_igreja`: bloco "Mais informações".
 
@@ -46,6 +46,7 @@ mapa-mundial-perseguicao/
 │   └── vendor/             # d3.js e topojson-client (vendorizados, sem depender de CDN)
 ├── data/
 │   ├── countries.json      # dataset final: ranking por país e por ano
+│   ├── persecution-types.json # glossário dos nove tipos de perseguição
 │   ├── country-details.json # textos "Sobre o país" (resumos da Portas Abertas)
 │   └── world-110m.json     # geometria do mapa-múndi (Natural Earth / world-atlas)
 └── README.md
